@@ -1,0 +1,39 @@
+
+
+ul{
+  padding-left: 0em;
+  display: flex;
+  justify-content: center;
+}
+
+
+.social{
+
+li{
+  list-style-type:none;
+  display:inline;
+  margin-right: 0.5em;
+
+  .logos{
+    width:25px;
+    margin:2%;
+
+
+  }
+}
+}
+
+.social{
+
+  li:hover{
+
+   animation: jump 1s;
+
+}
+
+}
+
+
+
+
+

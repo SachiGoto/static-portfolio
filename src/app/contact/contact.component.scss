@@ -1,0 +1,319 @@
+
+.bg, .main{
+
+  position:fixed;
+  top:0;
+  left:0;
+  width:100vw;
+  height:100vh;
+  z-index:-1;
+  object-fit:cover;
+}
+
+body{
+  height:100vh;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+// .starContainer{
+//   width: 100%;
+//   height: 100vh;
+//   position: absolute;
+//   top:0;
+// }
+
+// .star {
+//   position: absolute;
+//   width:10px;
+//   height: 10px;
+//   background-color: rgb(232, 248, 167);
+//   animation-name: twinkle;
+//   animation-duration: 3s;
+//   animation-iteration-count: infinite;
+//   filter:blur(1px);
+//   z-index:200;
+// }
+
+#cloud{
+  transform: translate(-20%,-2%);
+}
+
+#moon{
+
+
+  transform-box:fill-box;
+  // transform:translateY(-77%);
+
+  animation:tilt 5s infinite ease-in-out;
+  // animation-delay:5s;
+  // animation-iteration-count: infinite;
+  transform-origin:center center;
+  // transform:translateY(10%);
+
+}
+
+@keyframes tilt{
+
+  0%{
+    // transform:translateY(-77%);
+    transform:rotate(0) translateY(-77%);
+
+  }
+  45%{
+    transform:rotate(0) translateY(-77%)
+  }
+  50%{
+    // transform:translateY(-77%);
+    transform:rotate(5deg) translateY(-77%)
+  }
+  55%{
+    transform:rotate(0deg) translateY(-77%)
+  }
+
+  100%{
+
+    transform:rotate(0) translateY(-77%)
+  }
+
+}
+
+
+
+@keyframes twinkle {
+  0% { opacity: 1 }
+  50% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+
+
+
+
+.formClass{
+  width:95%;
+  max-width:500px;
+  padding:25px;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+     div{
+      width:100%;
+
+     }
+
+}
+
+.form{
+  width:100%;
+}
+
+input:focus, textarea:focus{
+  border-color:rgba(39, 138, 193, 0.5) !important;
+  border-width:3px;
+  box-shadow:none !important;
+}
+
+.background{
+  width:100vw;
+  height:100vh;
+  animation: fadein 4s;
+  position:fixed;
+top:0;
+left:0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index:-1;
+
+
+}
+
+@keyframes fadein {
+  0%{opacity:0}
+  100%{opacity:1}
+}
+
+.containerTitle{
+  // width:100vw;
+  text-align:center;
+  margin-top:5%;
+}
+
+.contactVia{
+   text-align:center;
+}
+
+.contactVia{
+
+
+    li{
+
+      list-style:none;
+
+        a{
+          text-decoration:none;
+          font-weight:bold;
+      color:black;
+        }
+
+    }
+}
+
+
+.mainContainer{
+  width:95vw;
+  max-width:1150px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  // background-color:rgba(255, 255, 255,0.8);
+  border-radius:10px;
+  height:calc(100vh - 76px);
+}
+
+
+.contactContainer{
+  background-color:rgba(255, 255, 255,0.8);
+  border-radius: 10px;
+  justify-content:center;
+  align-items:center;
+  display:flex;
+  // padding:0 10%;
+  width:100%;
+  z-index:10;
+}
+
+
+
+
+.contactContent{
+ padding:5%;
+//  width:80%;
+ justify-content: center;
+    align-items: center;
+//  background-color:white;
+ border-radius:10px;
+//  margin-left:2%;
+ background-color:rgba(255, 255, 255,0.8);
+ height:50%;
+//  z-index: 5;
+}
+
+
+
+.lineContainer{
+   display:flex;
+   align-items:center;
+}
+
+.line{
+  width:100px;
+  height:2px;
+  // display: flex;
+  // align-items: center;
+  // animation:animate 5s linear infinite;
+
+
+}
+
+.box{margin:5%;}
+
+.box:hover{
+    animation:jump 1s;
+}
+
+// .email:hover .line{
+//   animation:animate 1s linear;
+//   background-color:black;
+// }
+
+// .instagram:hover .line{
+//   animation:animate 1s linear;
+//   background-color:black;
+// }
+
+// .linkedin:hover .line{
+//   animation:animate 1s linear;
+//   background-color:black;
+// }
+
+
+// .line::before{
+//   content:"";
+
+// }
+
+#threeflowers{
+
+
+  #flower1{
+    transform-box:fill-box;
+    transform-origin: bottom center;
+    animation: swing ease-in-out 4s infinite alternate;
+  }
+
+  #flower2{
+    transform-box:fill-box;
+    transform-origin: bottom center;
+    animation: swing2 ease-in-out 4s infinite alternate;
+  }
+
+  #flower3{
+    transform-box:fill-box;
+    transform-origin: bottom center;
+    animation: swing ease-in-out 4s infinite alternate;
+    animation-delay:1s;
+  }
+}
+
+
+@keyframes animate{
+
+    0% {
+      clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
+    }50%{
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }100%{
+      clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
+    }
+}
+
+
+
+
+.form-control{
+  padding: 3% 2%;
+}
+
+@media(min-width:768px){
+    .contactContent{
+      background-color:rgba(255, 255, 255,0.8);
+    }
+
+    .contactConent{
+      width:50%;
+      // margin-top:0 !important;
+
+    }
+
+    .formClass{
+      width:50%;
+
+    }
+
+
+}
+
+
+
+
+

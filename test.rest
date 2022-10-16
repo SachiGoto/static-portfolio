@@ -1,0 +1,58 @@
+POST https://cms.sachigoto.me/api/contacts
+Content-Type: application/json
+
+{
+  "data":{
+    "name":"Test August 9th",
+    "email":"test@test.commmmmmmm",
+    "message":"Some test message from local 5th august"
+  }
+}
+
+###
+
+POST http://localhost:3000/post
+Content-Type: application/json
+
+{
+
+    "name":"Test August 9th",
+    "email":"test@test.commmmmmmm",
+    "message":"Some test message from local 5th august"
+
+}
+
+
+###
+GET https://cms.sachigoto.me/api/skills/?populate=deep,2
+
+
+###
+GET https://cms.sachigoto.me/api/project-news?populate=deep
+
+
+###
+GET https://cms.sachigoto.me/api/about-me?populate=deep
+
+###
+GET https://cms.sachigoto.me/api/project-news/5?populate=deep
+
+###
+GET https://localhost:1337/api/about-me
+
+###
+
+GET http://localhost:1337/api/project-news?populate=deep
+
+###
+GET http://localhost:1337/api/educations?populate=deep
+
+###
+GET https://cms.sachigoto.me/api/about-me?populate=deep
+
+###
+GET https://cms.sachigoto.me/api/skills?populate=deep
+
+
+###
+GET https://cms.sachigoto.me/api/educations?populate=deep

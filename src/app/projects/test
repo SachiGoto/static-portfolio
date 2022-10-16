@@ -1,0 +1,398 @@
+
+<h2 class=" fadeinSubContainer skillsTitle">Skills</h2>
+<div class="skillsContainer row">
+
+  <div class="designTools toolBox fadeinSubContainer col-8 col-lg-3">
+    <h3>Design</h3>
+    <div class="row">
+      <div *ngFor="let skill of designSkills" class="col-4" >
+            <div class="toolicon" *ngIf="skill.attributes.Category === 'Design tools' ">
+              <span class="tool" [attr.data-tip]="skill.attributes.SkillName">  <img  [src]= "skill.attributes.SkillLogo.data.attributes.url" [alt]="skill.attributes.SkillLogo.data.attributes.alternativeText"> </span>
+            </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="frontendTools  toolBox fadeinSubContainer col-8 col-lg-3">
+      <h3>Front-end</h3>
+      <div class="row">
+        <div *ngFor="let skill of frontendSkills" class="col-4">
+            <div class="toolicon" *ngIf="skill.attributes.Category === 'Frontend development tools'" >
+              <span class="tool" [attr.data-tip]="skill.attributes.SkillName">  <img [src]= "skill.attributes.SkillLogo.data.attributes.url" [alt]="skill.attributes.SkillLogo.data.attributes.alternativeText"></span>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="backendTools toolBox fadeinSubContainer col-8 col-lg-3">
+      <h3>Back-end</h3>
+      <div class="row">
+        <div *ngFor="let skill of backendSkills" class="col-4">
+            <div  class="toolicon" *ngIf="skill.attributes.Category === 'Backend development tools'">
+              <span class="tool" [attr.data-tip]="skill.attributes.SkillName">  <img [src]= "skill.attributes.SkillLogo.data.attributes.url" alt={{skill.attributes.SkillLogo.data.attributes.alternativeText}}></span>
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+
+
+
+<app-navbar class="navBar"></app-navbar>
+<div id="scroll-container">
+  <div id="projectContainer" [class.fadeout]="state" class="projectContainer">
+    <div class="project">
+      <h2>Willems Berry Farm</h2>
+
+      <div class="projectImageContainer">
+        <div class="projectImage">
+          <button
+            target="_blank"
+            class="detailBtn-desktop d-none d-lg-block"
+            (click)="translate(1, 'willems-berry-farm')"
+          >
+            Details
+          </button>
+          <!-- <a  target="_blank" [routerLink]="['/projects', project.id, project.attributes.Slug]"> -->
+          <!-- <img [src]=" server + project.attributes.MainImage.data.attributes.formats.medium.url"> -->
+          <img
+            src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png"
+            alt="Willems Berry Farm Website Redesign Home page"
+          />
+
+          <!-- </a> -->
+        </div>
+      </div>
+      <h4>Website redesign</h4>
+      <p class="summary">WordPress website I created for Willems Berry Farm.</p>
+      <button
+        target="_blank"
+        class="detailBtn-mobile d-lg-none"
+        (click)="translate(1, 'willems-berry-farm')"
+      >
+        Details
+      </button>
+
+      <div class="skillsContainer">
+        <ul>
+          <li class="skill">Tools:</li>
+          <li class="skill">
+            <span class="tool" data-tip="WordPress">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0013_wordpresslogo_png_f3af0122e9.png"
+                alt="WordPress Logo"
+            /></span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="Figma">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
+                alt="Figma logo"
+              />
+            </span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="Adobe Illustrator">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                alt="Adobe Illustrator logo"
+              />
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="project">
+      <h2>Green Around The World</h2>
+
+      <div class="projectImageContainer">
+        <div class="projectImage">
+          <button
+            target="_blank"
+            class="detailBtn-desktop d-none d-lg-block"
+            (click)="translate(2, 'greenaroundtheworld')"
+          >
+            Details
+          </button>
+          <!-- <a  target="_blank" [routerLink]="['/projects', project.id, project.attributes.Slug]"> -->
+          <!-- <img [src]=" server + project.attributes.MainImage.data.attributes.formats.medium.url"> -->
+          <img
+            src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png"
+            alt="Green around the world homepage "
+          />
+
+          <!-- </a> -->
+        </div>
+      </div>
+      <h4>Full-stack eCommerce website</h4>
+      <p class="summary">
+        I created the client-side with Angular and server-side with Strapi
+        (headless cms) and images are stored in Cloudinary.
+      </p>
+      <button
+        target="_blank"
+        class="detailBtn-mobile d-lg-none"
+        (click)="translate(1, 'willems-berry-farm')"
+      >
+        Details
+      </button>
+
+      <div class="skillsContainer">
+        <ul>
+          <li class="skill">Tools:</li>
+          <li class="skill">
+            <span class="tool" data-tip="Node.js">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
+                alt="Node.js Logo"
+            /></span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="Angular">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png"
+                alt="Angular logo"
+            /></span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="Adobe Illustrator">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                alt="Adobe Illustrator logo"
+              />
+            </span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="MySQL">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
+                alt="MySQL Logo"
+            /></span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="project">
+      <h2>Mobile Flowers</h2>
+
+      <div class="projectImageContainer">
+        <div class="projectImage">
+          <button
+            target="_blank"
+            class="detailBtn-desktop d-none d-lg-block"
+            (click)="translate(5, 'mobileflowers')"
+          >
+            Details
+          </button>
+          <!-- <a  target="_blank" [routerLink]="['/projects', project.id, project.attributes.Slug]"> -->
+          <!-- <img [src]=" server + project.attributes.MainImage.data.attributes.formats.medium.url"> -->
+          <img
+            src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157056/flowermobile_a4398b55c4.png"
+          />
+
+          <!-- </a> -->
+        </div>
+      </div>
+      <h4>Florist site made with PHP</h4>
+      <p class="summary">
+        I created a florist webpage with PHP and MySQL.<br />
+        It has a search function based on four occasions.
+      </p>
+      <button
+        target="_blank"
+        class="detailBtn-mobile d-lg-none"
+        (click)="translate(5, 'mobileflowers')"
+      >
+        Details
+      </button>
+
+      <div class="skillsContainer">
+        <ul>
+          <li class="skill">Tools:</li>
+
+          <li class="skill">
+            <span class="tool" data-tip="MySQL">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
+                alt="MySQL Logo"
+            /></span>
+          </li>
+          <li class="skill">
+            <span class="tool" data-tip="PHP">
+              <img
+                class="logoimage"
+                src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/phplogo_a79a7d0702.png"
+                alt="PHP Logo"
+            /></span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+
+  <!-- --------------------------------------------- -->
+  <div class="project">
+    <h2>The Cakery</h2>
+
+    <div class="projectImageContainer">
+      <div class="projectImage">
+        <button
+          target="_blank"
+          class="detailBtn-desktop d-none d-lg-block"
+          (click)="translate(6, 'the-cakery')"
+        >
+          Details
+        </button>
+        <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1662774330/the_Cakery_Home_e26de27c61.gif"/>
+      </div>
+    </div>
+    <h4>Static website</h4>
+    <p class="summary">
+      A website I designed and developed from scratch for The Cakery.
+    </p>
+    <button
+      target="_blank"
+      class="detailBtn-mobile d-lg-none"
+      (click)="translate(6, 'the-cakery')"
+    >
+      Details
+    </button>
+
+    <div class="skillsContainer">
+      <ul>
+        <li class="skill">Tools:</li>
+
+        <li class="skill">
+          <span class="tool" data-tip="HTML5">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/htmllogo_ef52f7d90b.png" alt="HTML5 logo"></span>
+        </li>
+        <li class="skill">
+          <span class="tool" data-tip="CSS3">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/csslogo_d6a153eed0.png" alt="CSS3 logo"></span>
+        </li>
+        <li class="skill">
+          <span class="tool" data-tip="Adobe Illustrator">  <img class="logoimage"  src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png" alt="Adobe Illustrator logo"> </span>
+        </li>
+
+        <li class="skill">
+          <span class="tool" data-tip="Adobe Photoshop">  <img class="logoimage"   src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0008_photoshoplogo_png_ba50718329.png" alt="Adobe Photoshop logo"> </span>
+        </li>
+
+        <li class="skill">
+          <span class="tool" data-tip="Javascript">  <img class="logoimage"  src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/javascriptlogo_e9cd1e54b8.png" alt="Javascript logo"></span>
+        </li>
+
+        <li class="skill">
+          <span class="tool" data-tip="Bootstrap">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0012_bootstrap_logo_d5b8d7eb47.png" alt="Bootstrap logo"></span>
+        </li>
+
+        <li class="skill">
+          <span class="tool" data-tip="Sass">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png" alt="Sass logo"></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+<!-- ------------------------------------------------------ -->
+
+  <!-- --------------------------------------------- -->
+  <div class="project">
+    <h2>Reciprocity</h2>
+
+    <div class="projectImageContainer">
+      <div class="projectImage">
+        <button
+          target="_blank"
+          class="detailBtn-desktop d-none d-lg-block"
+          (click)="translate(3, 'reciprocity')"
+        >
+          Details
+        </button>
+        <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855744/reciprocityhomepage_44b1197319.png"/>
+      </div>
+    </div>
+    <h4>UX/UI Case Study</h4>
+    <p class="summary">
+      Based on my research around common freelancers' problems, I designed a mobile app called Reciprocity.
+    </p>
+    <button
+      target="_blank"
+      class="detailBtn-mobile d-lg-none"
+      (click)="translate(3, 'reciprocity')"
+    >
+      Details
+    </button>
+
+    <div class="skillsContainer">
+      <ul>
+        <li class="skill">Tools:</li>
+
+        <li class="skill">
+          <span class="tool" data-tip="Figma">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png" alt="Figma logo"> </span>
+        </li>
+        <li class="skill">
+          <span class="tool" data-tip="Adobe Illustrator">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png" alt="Adobe Illustrator logo"> </span>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+
+
+<!-- ------------------------------------------------------ -->
+
+ <!-- --------------------------------------------- -->
+ <div class="project">
+  <h2>Wakie Wakie</h2>
+
+  <div class="projectImageContainer">
+    <div class="projectImage">
+      <button
+        target="_blank"
+        class="detailBtn-desktop d-none d-lg-block"
+        (click)="translate(4, 'wakie-wakie')"
+      >
+        Details
+      </button>
+      <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013042/wakiwakiehomepage_ae10b12428.png"/>
+    </div>
+  </div>
+  <h4>UX / UI Design</h4>
+  <p class="summary">
+    I designed an app called Wakie Wakie. This app alerts people when their train gets close to their destination.
+  </p>
+  <button
+    target="_blank"
+    class="detailBtn-mobile d-lg-none"
+    (click)="translate(4, 'wakie-wakie')"
+  >
+    Details
+  </button>
+
+  <div class="skillsContainer">
+    <ul>
+      <li class="skill">Tools:</li>
+
+      <li class="skill">
+        <span class="tool" data-tip="Figma">  <img class="logoimage" src= "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png" alt="Figma logo"> </span>
+      </li>
+
+    </ul>
+  </div>
+</div>
+
+
+<!-- ------------------------------------------------------ -->
+  </div>
+</div>

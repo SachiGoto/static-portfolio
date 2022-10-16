@@ -1,0 +1,74 @@
+
+
+<div class="heroImageContainer" [ngStyle]="{'background-image': 'url(' + heroImage + ')'}">
+  <app-header class="nav"></app-header>
+
+<h1 class="title">{{title}}</h1>
+</div>
+
+
+<div class="mainContainer">
+  <div class="aboutus row box">
+    <div class=" col-12 col-md-6">
+      <h2>About Us</h2>
+      <p>{{aboutus}}</p>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt provident tempora perferendis laboriosam dolor iure maiores, quod nostrum! Quis iste dolores quas ab suscipit, soluta numquam deleniti sint magni quidem!
+      Magni tenetur amet excepturi animi mollitia, eaque voluptatum eos ipsum reiciendis aspernatur voluptas commodi ex, vitae rem, non libero ea. Magnam iusto aspernatur eum in animi ab ducimus optio odio!
+      Quia consequatur, suscipit aperiam sequi obcaecati labore similique repellendus sint iste sit minus? </p>
+    </div>
+    <div class="aboutus_imageContainer col-12  col-md-6"><img class="aboutusImage" src="../../assets/greenImg/savetheplanet.jpg" alt="save the planet"></div>
+  </div>
+
+  <div  class="ourmission box">
+    <h2  >Our Mission</h2>
+    <p>{{ourmission}}</p>
+    <div class="ourmissionicons">
+      <div class="">
+        <p>Sustainability</p>
+      </div>
+      <div class="">
+        <p>Zero Waste</p>
+      </div>
+      <div class="">
+        <p>Support Local</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="image box"><img  [src]="image" alt="image of the ocean polluted with plastics"></div>
+
+  <div  class="whyzerowaste box">
+    <h2>Why Zero Waste?</h2>
+    <p>{{whyzerowaste}}</p>
+
+    <!-- {{whyZeroWaste | HTML}} -->
+
+    <!-- <div class="zerowasteContainer" [innerHTML]="whyZeroWaste"></div> -->
+
+
+
+
+  </div>
+
+
+  <div class="newsletter">
+
+
+      <p>Join our zero waste community and discover new sustainable products! </p>
+      <div d-flex>
+        <input class="emailInput" type="text" placeholder="Your email: ">
+        <svg width="31" height="8" viewBox="0 0 35 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path class="path" fill-rule="evenodd" clip-rule="evenodd" d="M27.1716 0.703453L30.3536 3.88543C30.5488 4.0807 30.5488 4.39728 30.3536 4.59254L27.1716 7.77452C26.9763 7.96978 26.6597 7.96978 26.4645 7.77452C26.2692 7.57926 26.2692 7.26268 26.4645 7.06741L28.7929 4.73899H0V3.73899H28.7929L26.4645 1.41056C26.2692 1.2153 26.2692 0.898716 26.4645 0.703453C26.6597 0.508191 26.9763 0.508191 27.1716 0.703453Z" fill="" stroke="#597c5a"></path>
+          </svg>
+      </div>
+
+
+
+  </div>
+
+
+
+</div>
+
+<green-footer></green-footer>
+

@@ -1,0 +1,3352 @@
+
+   {"data":[{
+
+  "id": 1,
+  "attributes": {
+  "Title": "Willems Berry Farm",
+  "Summary": "WordPress website I created for Willems Berry Farm.",
+  "Description": "<p>My role was to redesign and develop their existing website. As my clients use a CMS to upload and edit their websites, I built a WordPress site for them.&nbsp;&nbsp;&nbsp;<br>Highlight of the website: &nbsp;</p><ul><li>A gallery page that is integrated with their instagram feeds.</li><li>Enhanced accessibility and SEO</li><li>Created customized icons</li></ul><p>&nbsp;</p>",
+  "WebLink": "https://willemsberryfarm.ca/",
+  "Trailer": "",
+  "StartDate": "2022-03-01",
+  "EndDate": "2022-06-15",
+  "ClientName": "Willems Berry Farm",
+  "Category": "Web Development",
+  "createdAt": "2022-07-13T18:25:44.243Z",
+  "updatedAt": "2022-09-10T01:57:13.872Z",
+  "publishedAt": "2022-07-13T18:25:47.877Z",
+  "Slug": "willems-berry-farm",
+  "Tagline": "Website redesign",
+  "MainImage": {
+  "data": {
+  "id": 196,
+  "attributes": {
+  "name": "berryfarmvisitpage.png",
+  "alternativeText": "Willems Berry Farm Website Redesign Home page",
+  "caption": "berryfarmvisitpage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850434/large_berryfarmvisitpage_4ef10a7b1a.png",
+  "hash": "large_berryfarmvisitpage_4ef10a7b1a",
+  "mime": "image/png",
+  "name": "large_berryfarmvisitpage.png",
+  "path": null,
+  "size": 576.12,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_berryfarmvisitpage_4ef10a7b1a",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850435/small_berryfarmvisitpage_4ef10a7b1a.png",
+  "hash": "small_berryfarmvisitpage_4ef10a7b1a",
+  "mime": "image/png",
+  "name": "small_berryfarmvisitpage.png",
+  "path": null,
+  "size": 155.64,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_berryfarmvisitpage_4ef10a7b1a",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850435/medium_berryfarmvisitpage_4ef10a7b1a.png",
+  "hash": "medium_berryfarmvisitpage_4ef10a7b1a",
+  "mime": "image/png",
+  "name": "medium_berryfarmvisitpage.png",
+  "path": null,
+  "size": 335.64,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_berryfarmvisitpage_4ef10a7b1a",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850431/thumbnail_berryfarmvisitpage_4ef10a7b1a.png",
+  "hash": "thumbnail_berryfarmvisitpage_4ef10a7b1a",
+  "mime": "image/png",
+  "name": "thumbnail_berryfarmvisitpage.png",
+  "path": null,
+  "size": 42.12,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_berryfarmvisitpage_4ef10a7b1a",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "berryfarmvisitpage_4ef10a7b1a",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 572.58,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "berryfarmvisitpage_4ef10a7b1a",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T05:33:56.110Z",
+  "updatedAt": "2022-08-09T05:48:08.009Z"
+  }
+  }
+  },
+  "skills": {
+  "data": [
+  {
+  "id": 4,
+  "attributes": {
+  "SkillName": "WordPress",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:14:01.606Z",
+  "updatedAt": "2022-07-23T22:08:07.774Z",
+  "publishedAt": "2022-07-16T19:14:18.075Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 133,
+  "attributes": {
+  "name": "tool-logos_0013_wordpresslogo.png.png",
+  "alternativeText": "tool-logos_0013_wordpresslogo.png.png",
+  "caption": "tool-logos_0013_wordpresslogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613367/thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9.png",
+  "hash": "thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0013_wordpresslogo.png.png",
+  "path": null,
+  "size": 25.55,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 7.79,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0013_wordpresslogo_png_f3af0122e9.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.752Z",
+  "updatedAt": "2022-07-23T21:56:08.752Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 5,
+  "attributes": {
+  "SkillName": "Figma",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-16T19:24:19.441Z",
+  "updatedAt": "2022-08-09T06:13:52.240Z",
+  "publishedAt": "2022-07-16T19:24:24.127Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 138,
+  "attributes": {
+  "name": "tool-logos_0004_figmalogo.webp.png",
+  "alternativeText": "Figma icon",
+  "caption": "tool-logos_0004_figmalogo.webp.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887.png",
+  "hash": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0004_figmalogo.webp.png",
+  "path": null,
+  "size": 15.67,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0004_figmalogo_webp_335b5f3887",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 8.13,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0004_figmalogo_webp_335b5f3887",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.297Z",
+  "updatedAt": "2022-08-09T06:13:49.710Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 6,
+  "attributes": {
+  "SkillName": "Adobe Illustrator",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:26:23.659Z",
+  "updatedAt": "2022-08-09T05:49:31.959Z",
+  "publishedAt": "2022-07-16T19:26:26.729Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 135,
+  "attributes": {
+  "name": "tool-logos_0006_illustratorlogo.png.png",
+  "alternativeText": "Adobe Illustrator icon",
+  "caption": "tool-logos_0006_illustratorlogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "hash": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0006_illustratorlogo.png.png",
+  "path": null,
+  "size": 6.94,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.33,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.932Z",
+  "updatedAt": "2022-08-09T05:49:28.775Z"
+  }
+  }
+  }
+  }
+  }
+  ]
+  },
+  "Images": {}
+  }
+  },
+  {
+  "id": 2,
+  "attributes": {
+  "Title": "Green Around The World",
+  "Summary": "I created the client-side with Angular and server-side with Strapi (headless cms) and images are stored in Cloudinary. \n",
+  "Description": "<p>Highlights:&nbsp;</p><p>My work involved both client-side and server-side development&nbsp;as well as designing a logo and branding.&nbsp;<br>Angular is used for client side and APIs were created with Strapi, a headless CMS.&nbsp;<br>Also, I developed the e-commerce website using Node.js, which includes the five APIs. Data is stored in MySQL and I used five stored procedures.&nbsp;</p><p>I followed DevOps methodology and created this e-commerce site. Data in Strapi is shared with mobile app.&nbsp;</p>",
+  "WebLink": "http://greenworld.sachigoto.com",
+  "Trailer": "https://github.com/SachiGoto/greenAroundtheWorld",
+  "StartDate": "2022-03-01",
+  "EndDate": "2022-06-01",
+  "ClientName": "Green Around The World",
+  "Category": "Web Development",
+  "createdAt": "2022-07-13T18:49:34.183Z",
+  "updatedAt": "2022-09-21T06:39:09.151Z",
+  "publishedAt": "2022-07-13T18:49:37.795Z",
+  "Slug": "greenaroundtheworld",
+  "Tagline": "Full-stack eCommerce website ",
+  "MainImage": {
+  "data": {
+  "id": 192,
+  "attributes": {
+  "name": "greenworldhomepgage.png",
+  "alternativeText": "Green around the world homepage ",
+  "caption": "greenworldhomepgage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842232/large_greenworldhomepgage_317bbd15e2.png",
+  "hash": "large_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "large_greenworldhomepgage.png",
+  "path": null,
+  "size": 1080.04,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/small_greenworldhomepgage_317bbd15e2.png",
+  "hash": "small_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "small_greenworldhomepgage.png",
+  "path": null,
+  "size": 288.95,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/medium_greenworldhomepgage_317bbd15e2.png",
+  "hash": "medium_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "medium_greenworldhomepgage.png",
+  "path": null,
+  "size": 625.07,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842229/thumbnail_greenworldhomepgage_317bbd15e2.png",
+  "hash": "thumbnail_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "thumbnail_greenworldhomepgage.png",
+  "path": null,
+  "size": 74.71,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenworldhomepgage_317bbd15e2",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 820.73,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:17:14.087Z",
+  "updatedAt": "2022-08-09T05:45:43.570Z"
+  }
+  }
+  },
+  "skills": {
+  "data": [
+  {
+  "id": 1,
+  "attributes": {
+  "SkillName": "Strapi",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-13T17:12:38.750Z",
+  "updatedAt": "2022-07-23T22:19:14.238Z",
+  "publishedAt": "2022-07-13T17:52:19.017Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 143,
+  "attributes": {
+  "name": "strapilogo.png",
+  "alternativeText": "strapilogo.png",
+  "caption": "strapilogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/thumbnail_strapilogo_08768c0606.png",
+  "hash": "thumbnail_strapilogo_08768c0606",
+  "mime": "image/png",
+  "name": "thumbnail_strapilogo.png",
+  "path": null,
+  "size": 1.71,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_strapilogo_08768c0606",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "strapilogo_08768c0606",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 1.26,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/strapilogo_08768c0606.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "strapilogo_08768c0606",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:19:09.333Z",
+  "updatedAt": "2022-07-23T22:19:09.333Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 6,
+  "attributes": {
+  "SkillName": "Adobe Illustrator",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:26:23.659Z",
+  "updatedAt": "2022-08-09T05:49:31.959Z",
+  "publishedAt": "2022-07-16T19:26:26.729Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 135,
+  "attributes": {
+  "name": "tool-logos_0006_illustratorlogo.png.png",
+  "alternativeText": "Adobe Illustrator icon",
+  "caption": "tool-logos_0006_illustratorlogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "hash": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0006_illustratorlogo.png.png",
+  "path": null,
+  "size": 6.94,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.33,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.932Z",
+  "updatedAt": "2022-08-09T05:49:28.775Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 8,
+  "attributes": {
+  "SkillName": "Node.js",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:27:54.142Z",
+  "updatedAt": "2022-08-09T06:15:17.585Z",
+  "publishedAt": "2022-07-16T19:27:57.101Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 141,
+  "attributes": {
+  "name": "tool-logos_0007_nodejslogo.png.png",
+  "alternativeText": "Node.js icon",
+  "caption": "tool-logos_0007_nodejslogo.png.png",
+  "width": 268,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613369/thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a.png",
+  "hash": "thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0007_nodejslogo.png.png",
+  "path": null,
+  "size": 10.93,
+  "width": 139,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.17,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.381Z",
+  "updatedAt": "2022-08-09T06:15:15.392Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 9,
+  "attributes": {
+  "SkillName": "Angular",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:28:18.950Z",
+  "updatedAt": "2022-08-09T06:12:51.207Z",
+  "publishedAt": "2022-07-16T19:28:23.132Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 130,
+  "attributes": {
+  "name": "tool-logos_0001_angularlogo.png.png",
+  "alternativeText": "Angular icon",
+  "caption": "tool-logos_0001_angularlogo.png.png",
+  "width": 282,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/thumbnail_tool_logos_0001_angularlogo_png_b2b0087835.png",
+  "hash": "thumbnail_tool_logos_0001_angularlogo_png_b2b0087835",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0001_angularlogo.png.png",
+  "path": null,
+  "size": 13.27,
+  "width": 147,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0001_angularlogo_png_b2b0087835",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0001_angularlogo_png_b2b0087835",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 4.62,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0001_angularlogo_png_b2b0087835",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.055Z",
+  "updatedAt": "2022-08-09T06:12:48.587Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 11,
+  "attributes": {
+  "SkillName": "MySQL",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-17T23:46:02.217Z",
+  "updatedAt": "2022-08-09T06:14:56.863Z",
+  "publishedAt": "2022-07-17T23:47:53.693Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 142,
+  "attributes": {
+  "name": "tool-logos_0009_Layer-2.png",
+  "alternativeText": "MySQL icon",
+  "caption": "tool-logos_0009_Layer-2.png",
+  "width": 300,
+  "height": 204,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0009_Layer_2_ce625068fe.png",
+  "hash": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0009_Layer-2.png",
+  "path": null,
+  "size": 38.55,
+  "width": 229,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0009_Layer_2_ce625068fe",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 9.1,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.439Z",
+  "updatedAt": "2022-08-09T06:14:54.572Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 13,
+  "attributes": {
+  "SkillName": "Sass",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-23T17:25:40.849Z",
+  "updatedAt": "2022-07-23T22:07:30.707Z",
+  "publishedAt": "2022-07-23T18:32:12.185Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 137,
+  "attributes": {
+  "name": "tool-logos_0011_Sasslogo.png",
+  "alternativeText": "tool-logos_0011_Sasslogo.png",
+  "caption": "tool-logos_0011_Sasslogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "hash": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0011_Sasslogo.png",
+  "path": null,
+  "size": 13.99,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 4.76,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.245Z",
+  "updatedAt": "2022-07-23T21:56:09.245Z"
+  }
+  }
+  }
+  }
+  }
+  ]
+  },
+  "Images": {
+  "data": [
+  {
+  "id": 192,
+  "attributes": {
+  "name": "greenworldhomepgage.png",
+  "alternativeText": "Green around the world homepage ",
+  "caption": "greenworldhomepgage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842232/large_greenworldhomepgage_317bbd15e2.png",
+  "hash": "large_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "large_greenworldhomepgage.png",
+  "path": null,
+  "size": 1080.04,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/small_greenworldhomepgage_317bbd15e2.png",
+  "hash": "small_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "small_greenworldhomepgage.png",
+  "path": null,
+  "size": 288.95,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/medium_greenworldhomepgage_317bbd15e2.png",
+  "hash": "medium_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "medium_greenworldhomepgage.png",
+  "path": null,
+  "size": 625.07,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842229/thumbnail_greenworldhomepgage_317bbd15e2.png",
+  "hash": "thumbnail_greenworldhomepgage_317bbd15e2",
+  "mime": "image/png",
+  "name": "thumbnail_greenworldhomepgage.png",
+  "path": null,
+  "size": 74.71,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenworldhomepgage_317bbd15e2",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 820.73,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenworldhomepgage_317bbd15e2",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:17:14.087Z",
+  "updatedAt": "2022-08-09T05:45:43.570Z"
+  }
+  },
+  {
+  "id": 189,
+  "attributes": {
+  "name": "greenworldaboutpage.png",
+  "alternativeText": "Green around the world About page",
+  "caption": "greenworldaboutpage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841426/large_greenworldaboutpage_60d2497ca2.png",
+  "hash": "large_greenworldaboutpage_60d2497ca2",
+  "mime": "image/png",
+  "name": "large_greenworldaboutpage.png",
+  "path": null,
+  "size": 880.12,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenworldaboutpage_60d2497ca2",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841428/small_greenworldaboutpage_60d2497ca2.png",
+  "hash": "small_greenworldaboutpage_60d2497ca2",
+  "mime": "image/png",
+  "name": "small_greenworldaboutpage.png",
+  "path": null,
+  "size": 248.05,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenworldaboutpage_60d2497ca2",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841427/medium_greenworldaboutpage_60d2497ca2.png",
+  "hash": "medium_greenworldaboutpage_60d2497ca2",
+  "mime": "image/png",
+  "name": "medium_greenworldaboutpage.png",
+  "path": null,
+  "size": 519.03,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenworldaboutpage_60d2497ca2",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841423/thumbnail_greenworldaboutpage_60d2497ca2.png",
+  "hash": "thumbnail_greenworldaboutpage_60d2497ca2",
+  "mime": "image/png",
+  "name": "thumbnail_greenworldaboutpage.png",
+  "path": null,
+  "size": 68.27,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenworldaboutpage_60d2497ca2",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenworldaboutpage_60d2497ca2",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 590.01,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/greenworldaboutpage_60d2497ca2.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenworldaboutpage_60d2497ca2",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:03:48.640Z",
+  "updatedAt": "2022-09-10T01:56:14.110Z"
+  }
+  },
+  {
+  "id": 188,
+  "attributes": {
+  "name": "greenworldproductpgage.png",
+  "alternativeText": "Green Around the World product page",
+  "caption": "greenworldproductpgage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/large_greenworldproductpgage_389dc15034.png",
+  "hash": "large_greenworldproductpgage_389dc15034",
+  "mime": "image/png",
+  "name": "large_greenworldproductpgage.png",
+  "path": null,
+  "size": 202.02,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenworldproductpgage_389dc15034",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/small_greenworldproductpgage_389dc15034.png",
+  "hash": "small_greenworldproductpgage_389dc15034",
+  "mime": "image/png",
+  "name": "small_greenworldproductpgage.png",
+  "path": null,
+  "size": 60.57,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenworldproductpgage_389dc15034",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/medium_greenworldproductpgage_389dc15034.png",
+  "hash": "medium_greenworldproductpgage_389dc15034",
+  "mime": "image/png",
+  "name": "medium_greenworldproductpgage.png",
+  "path": null,
+  "size": 122.75,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenworldproductpgage_389dc15034",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841415/thumbnail_greenworldproductpgage_389dc15034.png",
+  "hash": "thumbnail_greenworldproductpgage_389dc15034",
+  "mime": "image/png",
+  "name": "thumbnail_greenworldproductpgage.png",
+  "path": null,
+  "size": 18.77,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenworldproductpgage_389dc15034",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenworldproductpgage_389dc15034",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 166.37,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841413/greenworldproductpgage_389dc15034.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenworldproductpgage_389dc15034",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:03:43.137Z",
+  "updatedAt": "2022-08-10T01:47:55.158Z"
+  }
+  },
+  {
+  "id": 187,
+  "attributes": {
+  "name": "individualproductpage.png",
+  "alternativeText": "Green Around the World individual product page bundles",
+  "caption": "individualproductpage.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/large_individualproductpage_6b97a50369.png",
+  "hash": "large_individualproductpage_6b97a50369",
+  "mime": "image/png",
+  "name": "large_individualproductpage.png",
+  "path": null,
+  "size": 116.89,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_individualproductpage_6b97a50369",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/small_individualproductpage_6b97a50369.png",
+  "hash": "small_individualproductpage_6b97a50369",
+  "mime": "image/png",
+  "name": "small_individualproductpage.png",
+  "path": null,
+  "size": 34.35,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_individualproductpage_6b97a50369",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/medium_individualproductpage_6b97a50369.png",
+  "hash": "medium_individualproductpage_6b97a50369",
+  "mime": "image/png",
+  "name": "medium_individualproductpage.png",
+  "path": null,
+  "size": 70.68,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_individualproductpage_6b97a50369",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841415/thumbnail_individualproductpage_6b97a50369.png",
+  "hash": "thumbnail_individualproductpage_6b97a50369",
+  "mime": "image/png",
+  "name": "thumbnail_individualproductpage.png",
+  "path": null,
+  "size": 10.61,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_individualproductpage_6b97a50369",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "individualproductpage_6b97a50369",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 86.75,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841412/individualproductpage_6b97a50369.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "individualproductpage_6b97a50369",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:03:43.039Z",
+  "updatedAt": "2022-08-10T01:54:30.959Z"
+  }
+  },
+  {
+  "id": 191,
+  "attributes": {
+  "name": "greenindividualpagetoothbrush.png",
+  "alternativeText": "greenindividualpagetoothbrush.png",
+  "caption": "greenindividualpagetoothbrush.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841928/large_greenindividualpagetoothbrush_a7fb47069c.png",
+  "hash": "large_greenindividualpagetoothbrush_a7fb47069c",
+  "mime": "image/png",
+  "name": "large_greenindividualpagetoothbrush.png",
+  "path": null,
+  "size": 94.98,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenindividualpagetoothbrush_a7fb47069c",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841929/small_greenindividualpagetoothbrush_a7fb47069c.png",
+  "hash": "small_greenindividualpagetoothbrush_a7fb47069c",
+  "mime": "image/png",
+  "name": "small_greenindividualpagetoothbrush.png",
+  "path": null,
+  "size": 29.02,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenindividualpagetoothbrush_a7fb47069c",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841929/medium_greenindividualpagetoothbrush_a7fb47069c.png",
+  "hash": "medium_greenindividualpagetoothbrush_a7fb47069c",
+  "mime": "image/png",
+  "name": "medium_greenindividualpagetoothbrush.png",
+  "path": null,
+  "size": 58.72,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenindividualpagetoothbrush_a7fb47069c",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841926/thumbnail_greenindividualpagetoothbrush_a7fb47069c.png",
+  "hash": "thumbnail_greenindividualpagetoothbrush_a7fb47069c",
+  "mime": "image/png",
+  "name": "thumbnail_greenindividualpagetoothbrush.png",
+  "path": null,
+  "size": 9.24,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenindividualpagetoothbrush_a7fb47069c",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenindividualpagetoothbrush_a7fb47069c",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 62.59,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841925/greenindividualpagetoothbrush_a7fb47069c.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenindividualpagetoothbrush_a7fb47069c",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:12:10.263Z",
+  "updatedAt": "2022-08-10T01:54:16.189Z"
+  }
+  },
+  {
+  "id": 185,
+  "attributes": {
+  "name": "greenfooter.png",
+  "alternativeText": "Green Around the World Footer section",
+  "caption": "greenfooter.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841404/large_greenfooter_c0400797dd.png",
+  "hash": "large_greenfooter_c0400797dd",
+  "mime": "image/png",
+  "name": "large_greenfooter.png",
+  "path": null,
+  "size": 46.56,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_greenfooter_c0400797dd",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841406/small_greenfooter_c0400797dd.png",
+  "hash": "small_greenfooter_c0400797dd",
+  "mime": "image/png",
+  "name": "small_greenfooter.png",
+  "path": null,
+  "size": 16,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_greenfooter_c0400797dd",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841405/medium_greenfooter_c0400797dd.png",
+  "hash": "medium_greenfooter_c0400797dd",
+  "mime": "image/png",
+  "name": "medium_greenfooter.png",
+  "path": null,
+  "size": 30.78,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_greenfooter_c0400797dd",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841400/thumbnail_greenfooter_c0400797dd.png",
+  "hash": "thumbnail_greenfooter_c0400797dd",
+  "mime": "image/png",
+  "name": "thumbnail_greenfooter.png",
+  "path": null,
+  "size": 5.5,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenfooter_c0400797dd",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenfooter_c0400797dd",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 22.94,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841399/greenfooter_c0400797dd.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenfooter_c0400797dd",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-07T03:03:26.447Z",
+  "updatedAt": "2022-08-10T01:54:54.797Z"
+  }
+  }
+  ]
+  }
+  }
+  },
+
+  {
+  "id": 3,
+  "attributes": {
+  "Title": "Mobile Flowers",
+  "Summary": "I created a florist webpage with PHP and MySQL.\nIt has a search function based on four occasions.  ",
+  "Description": "<p>Highlights:<br><br>All data comes from MySQL Database.<br>I used PHP to call two stored procedures.&nbsp;<br>The search function includes four occasions; Valentine's day, birthdays, memorials, and weddings.&nbsp;<br>Each item has a carousel with two different images.&nbsp;<br>Branding and designing<br>The project brief mentions that most customers access the site through their phones and tablets. So I called it mobile flowers: flowers on the fly. It gives the impression that the flower shop can make flower bouquets quickly on-the-fly! I used colours that are warm and inviting.&nbsp;<br>Also, the webpage is fully responsive.&nbsp;</p>",
+  "WebLink": "https://mobileflower.sachigoto.com",
+  "Trailer": "https://github.com/SachiGoto/flowermobile",
+  "StartDate": null,
+  "EndDate": null,
+  "ClientName": null,
+  "Category": "Web Development",
+  "createdAt": "2022-08-10T18:44:56.821Z",
+  "updatedAt": "2022-08-23T22:26:41.603Z",
+  "publishedAt": "2022-08-10T18:54:29.116Z",
+  "Slug": "flowermobile",
+  "Tagline": "Florist site made with PHP",
+  "MainImage": {
+  "data": {
+  "id": 216,
+  "attributes": {
+  "name": "flowermobile.png",
+  "alternativeText": "Web development a hero image for mobile flower website",
+  "caption": "flowermobile.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157059/large_flowermobile_a4398b55c4.png",
+  "hash": "large_flowermobile_a4398b55c4",
+  "mime": "image/png",
+  "name": "large_flowermobile.png",
+  "path": null,
+  "size": 605.54,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_flowermobile_a4398b55c4",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157061/small_flowermobile_a4398b55c4.png",
+  "hash": "small_flowermobile_a4398b55c4",
+  "mime": "image/png",
+  "name": "small_flowermobile.png",
+  "path": null,
+  "size": 167.19,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_flowermobile_a4398b55c4",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157060/medium_flowermobile_a4398b55c4.png",
+  "hash": "medium_flowermobile_a4398b55c4",
+  "mime": "image/png",
+  "name": "medium_flowermobile.png",
+  "path": null,
+  "size": 355.67,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_flowermobile_a4398b55c4",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157057/thumbnail_flowermobile_a4398b55c4.png",
+  "hash": "thumbnail_flowermobile_a4398b55c4",
+  "mime": "image/png",
+  "name": "thumbnail_flowermobile.png",
+  "path": null,
+  "size": 45.53,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_flowermobile_a4398b55c4",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "flowermobile_a4398b55c4",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 432.54,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157056/flowermobile_a4398b55c4.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "flowermobile_a4398b55c4",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-10T18:44:21.611Z",
+  "updatedAt": "2022-08-10T18:44:21.611Z"
+  }
+  }
+  },
+  "skills": {
+  "data": [
+  {
+  "id": 11,
+  "attributes": {
+  "SkillName": "MySQL",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-17T23:46:02.217Z",
+  "updatedAt": "2022-08-09T06:14:56.863Z",
+  "publishedAt": "2022-07-17T23:47:53.693Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 142,
+  "attributes": {
+  "name": "tool-logos_0009_Layer-2.png",
+  "alternativeText": "MySQL icon",
+  "caption": "tool-logos_0009_Layer-2.png",
+  "width": 300,
+  "height": 204,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0009_Layer_2_ce625068fe.png",
+  "hash": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0009_Layer-2.png",
+  "path": null,
+  "size": 38.55,
+  "width": 229,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0009_Layer_2_ce625068fe",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 9.1,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.439Z",
+  "updatedAt": "2022-08-09T06:14:54.572Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 14,
+  "attributes": {
+  "SkillName": "PHP",
+  "SkillScore": "Two",
+  "createdAt": "2022-08-10T18:53:31.858Z",
+  "updatedAt": "2022-08-10T18:53:35.064Z",
+  "publishedAt": "2022-08-10T18:53:34.993Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 217,
+  "attributes": {
+  "name": "phplogo.png",
+  "alternativeText": "phplogo.png",
+  "caption": "phplogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/thumbnail_phplogo_a79a7d0702.png",
+  "hash": "thumbnail_phplogo_a79a7d0702",
+  "mime": "image/png",
+  "name": "thumbnail_phplogo.png",
+  "path": null,
+  "size": 19.11,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_phplogo_a79a7d0702",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "phplogo_a79a7d0702",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 9.04,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/phplogo_a79a7d0702.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "phplogo_a79a7d0702",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-10T18:53:22.261Z",
+  "updatedAt": "2022-08-10T18:53:22.261Z"
+  }
+  }
+  }
+  }
+  }
+  ]
+  },
+  "Images": {
+  "data": [
+  {
+  "id": 223,
+  "attributes": {
+  "name": "flowermobileBirthdayFlowers.png",
+  "alternativeText": "flowermobileBirthdayFlowers.png",
+  "caption": "flowermobileBirthdayFlowers.png",
+  "width": 1290,
+  "height": 800,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/large_flowermobile_Birthday_Flowers_1a9eb39e28.png",
+  "hash": "large_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "mime": "image/png",
+  "name": "large_flowermobileBirthdayFlowers.png",
+  "path": null,
+  "size": 656.89,
+  "width": 1000,
+  "height": 620,
+  "provider_metadata": {
+  "public_id": "large_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759384/small_flowermobile_Birthday_Flowers_1a9eb39e28.png",
+  "hash": "small_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "mime": "image/png",
+  "name": "small_flowermobileBirthdayFlowers.png",
+  "path": null,
+  "size": 184.37,
+  "width": 500,
+  "height": 310,
+  "provider_metadata": {
+  "public_id": "small_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/medium_flowermobile_Birthday_Flowers_1a9eb39e28.png",
+  "hash": "medium_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "mime": "image/png",
+  "name": "medium_flowermobileBirthdayFlowers.png",
+  "path": null,
+  "size": 386.14,
+  "width": 750,
+  "height": 465,
+  "provider_metadata": {
+  "public_id": "medium_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/thumbnail_flowermobile_Birthday_Flowers_1a9eb39e28.png",
+  "hash": "thumbnail_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "mime": "image/png",
+  "name": "thumbnail_flowermobileBirthdayFlowers.png",
+  "path": null,
+  "size": 51.84,
+  "width": 245,
+  "height": 152,
+  "provider_metadata": {
+  "public_id": "thumbnail_flowermobile_Birthday_Flowers_1a9eb39e28",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "flowermobile_Birthday_Flowers_1a9eb39e28",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 261.55,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Birthday_Flowers_1a9eb39e28.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "flowermobile_Birthday_Flowers_1a9eb39e28",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-17T18:03:05.128Z",
+  "updatedAt": "2022-08-17T18:04:15.537Z"
+  }
+  },
+  {
+  "id": 224,
+  "attributes": {
+  "name": "flowermobileValentineFlowers.png",
+  "alternativeText": "flowermobileValentineFlowers.png",
+  "caption": "flowermobileValentineFlowers.png",
+  "width": 1290,
+  "height": 800,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/large_flowermobile_Valentine_Flowers_6efe683462.png",
+  "hash": "large_flowermobile_Valentine_Flowers_6efe683462",
+  "mime": "image/png",
+  "name": "large_flowermobileValentineFlowers.png",
+  "path": null,
+  "size": 747.05,
+  "width": 1000,
+  "height": 620,
+  "provider_metadata": {
+  "public_id": "large_flowermobile_Valentine_Flowers_6efe683462",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759384/small_flowermobile_Valentine_Flowers_6efe683462.png",
+  "hash": "small_flowermobile_Valentine_Flowers_6efe683462",
+  "mime": "image/png",
+  "name": "small_flowermobileValentineFlowers.png",
+  "path": null,
+  "size": 209.28,
+  "width": 500,
+  "height": 310,
+  "provider_metadata": {
+  "public_id": "small_flowermobile_Valentine_Flowers_6efe683462",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/medium_flowermobile_Valentine_Flowers_6efe683462.png",
+  "hash": "medium_flowermobile_Valentine_Flowers_6efe683462",
+  "mime": "image/png",
+  "name": "medium_flowermobileValentineFlowers.png",
+  "path": null,
+  "size": 439.39,
+  "width": 750,
+  "height": 465,
+  "provider_metadata": {
+  "public_id": "medium_flowermobile_Valentine_Flowers_6efe683462",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759379/thumbnail_flowermobile_Valentine_Flowers_6efe683462.png",
+  "hash": "thumbnail_flowermobile_Valentine_Flowers_6efe683462",
+  "mime": "image/png",
+  "name": "thumbnail_flowermobileValentineFlowers.png",
+  "path": null,
+  "size": 58.66,
+  "width": 245,
+  "height": 152,
+  "provider_metadata": {
+  "public_id": "thumbnail_flowermobile_Valentine_Flowers_6efe683462",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "flowermobile_Valentine_Flowers_6efe683462",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 288.91,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Valentine_Flowers_6efe683462.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "flowermobile_Valentine_Flowers_6efe683462",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-17T18:03:05.280Z",
+  "updatedAt": "2022-08-17T18:03:05.280Z"
+  }
+  },
+  {
+  "id": 225,
+  "attributes": {
+  "name": "mobileflowerWeddingFlowers.png",
+  "alternativeText": "mobileflowerWeddingFlowers.png",
+  "caption": "mobileflowerWeddingFlowers.png",
+  "width": 1290,
+  "height": 800,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/large_mobileflower_Wedding_Flowers_9e1c36df4b.png",
+  "hash": "large_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "mime": "image/png",
+  "name": "large_mobileflowerWeddingFlowers.png",
+  "path": null,
+  "size": 822.25,
+  "width": 1000,
+  "height": 620,
+  "provider_metadata": {
+  "public_id": "large_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759384/small_mobileflower_Wedding_Flowers_9e1c36df4b.png",
+  "hash": "small_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "mime": "image/png",
+  "name": "small_mobileflowerWeddingFlowers.png",
+  "path": null,
+  "size": 225.61,
+  "width": 500,
+  "height": 310,
+  "provider_metadata": {
+  "public_id": "small_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759384/medium_mobileflower_Wedding_Flowers_9e1c36df4b.png",
+  "hash": "medium_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "mime": "image/png",
+  "name": "medium_mobileflowerWeddingFlowers.png",
+  "path": null,
+  "size": 479.56,
+  "width": 750,
+  "height": 465,
+  "provider_metadata": {
+  "public_id": "medium_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/thumbnail_mobileflower_Wedding_Flowers_9e1c36df4b.png",
+  "hash": "thumbnail_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "mime": "image/png",
+  "name": "thumbnail_mobileflowerWeddingFlowers.png",
+  "path": null,
+  "size": 60.67,
+  "width": 245,
+  "height": 152,
+  "provider_metadata": {
+  "public_id": "thumbnail_mobileflower_Wedding_Flowers_9e1c36df4b",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "mobileflower_Wedding_Flowers_9e1c36df4b",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 354.79,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/mobileflower_Wedding_Flowers_9e1c36df4b.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "mobileflower_Wedding_Flowers_9e1c36df4b",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-17T18:03:05.373Z",
+  "updatedAt": "2022-08-17T18:03:05.373Z"
+  }
+  },
+  {
+  "id": 222,
+  "attributes": {
+  "name": "mobileflowerMemorialFlowers.png",
+  "alternativeText": "mobileflowerMemorialFlowers.png",
+  "caption": "mobileflowerMemorialFlowers.png",
+  "width": 1290,
+  "height": 800,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/large_mobileflower_Memorial_Flowers_ef71ee7a38.png",
+  "hash": "large_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "mime": "image/png",
+  "name": "large_mobileflowerMemorialFlowers.png",
+  "path": null,
+  "size": 740.88,
+  "width": 1000,
+  "height": 620,
+  "provider_metadata": {
+  "public_id": "large_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759384/small_mobileflower_Memorial_Flowers_ef71ee7a38.png",
+  "hash": "small_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "mime": "image/png",
+  "name": "small_mobileflowerMemorialFlowers.png",
+  "path": null,
+  "size": 207.15,
+  "width": 500,
+  "height": 310,
+  "provider_metadata": {
+  "public_id": "small_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759383/medium_mobileflower_Memorial_Flowers_ef71ee7a38.png",
+  "hash": "medium_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "mime": "image/png",
+  "name": "medium_mobileflowerMemorialFlowers.png",
+  "path": null,
+  "size": 436.44,
+  "width": 750,
+  "height": 465,
+  "provider_metadata": {
+  "public_id": "medium_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/thumbnail_mobileflower_Memorial_Flowers_ef71ee7a38.png",
+  "hash": "thumbnail_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "mime": "image/png",
+  "name": "thumbnail_mobileflowerMemorialFlowers.png",
+  "path": null,
+  "size": 56.92,
+  "width": 245,
+  "height": 152,
+  "provider_metadata": {
+  "public_id": "thumbnail_mobileflower_Memorial_Flowers_ef71ee7a38",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "mobileflower_Memorial_Flowers_ef71ee7a38",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 317.69,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/mobileflower_Memorial_Flowers_ef71ee7a38.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "mobileflower_Memorial_Flowers_ef71ee7a38",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-17T18:03:04.969Z",
+  "updatedAt": "2022-08-17T18:03:04.969Z"
+  }
+  }
+  ]
+  }
+  }
+  },
+  {
+  "id": 4,
+  "attributes": {
+  "Title": "The Cakery",
+  "Summary": "A website I designed and developed from scratch for The Cakery. ",
+  "Description": "<p>Highlights:</p><p>The Cakery is a fun bakery that sells pop culture themed cakes and pastries. T<span style=\"background-color:transparent;color:#000000;\">he Cakery, a.k.a topical boutique is a high end bakery that is playful and has a cheeky twist.</span></p><p>&nbsp;</p><ul><li><span style=\"background-color:transparent;color:#000000;\">I designed the logo and edited all the images with Adobe photoshop and illustrator.&nbsp;</span></li><li><span style=\"background-color:transparent;color:#000000;\">GSAP is used in the about page so that each content pops up as you scroll down the page.&nbsp;</span></li><li>Implemented a great amount of CSS animation to make the website playful.&nbsp;</li></ul><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "WebLink": "https://thecakery.sachigoto.com",
+  "Trailer": "https://github.com/SachiGoto/the-cakery",
+  "StartDate": "2022-09-01",
+  "EndDate": "2022-09-25",
+  "ClientName": "The Cakery",
+  "Category": "Web Development",
+  "createdAt": "2022-09-10T00:30:34.215Z",
+  "updatedAt": "2022-09-23T22:37:39.991Z",
+  "publishedAt": "2022-09-10T01:03:30.286Z",
+  "Slug": "the-cakery",
+  "Tagline": "Static website",
+  "MainImage": {
+  "data": {
+  "id": 235,
+  "attributes": {
+  "name": "theCakeryHome.gif",
+  "alternativeText": "theCakeryHome.gif",
+  "caption": "theCakeryHome.gif",
+  "width": 480,
+  "height": 302,
+  "formats": null,
+  "hash": "the_Cakery_Home_e26de27c61",
+  "ext": ".gif",
+  "mime": "image/gif",
+  "size": 213.14,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662774330/the_Cakery_Home_e26de27c61.gif",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "the_Cakery_Home_e26de27c61",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T01:45:31.159Z",
+  "updatedAt": "2022-09-10T01:45:31.159Z"
+  }
+  }
+  },
+  "skills": {
+  "data": [
+  {
+  "id": 2,
+  "attributes": {
+  "SkillName": "HTML",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-13T17:13:08.006Z",
+  "updatedAt": "2022-08-09T06:14:13.615Z",
+  "publishedAt": "2022-07-13T17:13:33.115Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 145,
+  "attributes": {
+  "name": "htmllogo.png",
+  "alternativeText": "HTML icon",
+  "caption": "htmllogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_htmllogo_ef52f7d90b.png",
+  "hash": "thumbnail_htmllogo_ef52f7d90b",
+  "mime": "image/png",
+  "name": "thumbnail_htmllogo.png",
+  "path": null,
+  "size": 11.13,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_htmllogo_ef52f7d90b",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "htmllogo_ef52f7d90b",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 2.95,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/htmllogo_ef52f7d90b.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "htmllogo_ef52f7d90b",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:04.812Z",
+  "updatedAt": "2022-08-09T06:14:11.267Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 3,
+  "attributes": {
+  "SkillName": "CSS",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-13T17:39:55.375Z",
+  "updatedAt": "2022-08-09T06:13:31.008Z",
+  "publishedAt": "2022-07-13T17:39:59.240Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 144,
+  "attributes": {
+  "name": "csslogo.png",
+  "alternativeText": "CSS icon",
+  "caption": "csslogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_csslogo_d6a153eed0.png",
+  "hash": "thumbnail_csslogo_d6a153eed0",
+  "mime": "image/png",
+  "name": "thumbnail_csslogo.png",
+  "path": null,
+  "size": 10.16,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_csslogo_d6a153eed0",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "csslogo_d6a153eed0",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 2.45,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/csslogo_d6a153eed0.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "csslogo_d6a153eed0",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:04.659Z",
+  "updatedAt": "2022-08-09T06:13:28.679Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 6,
+  "attributes": {
+  "SkillName": "Adobe Illustrator",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:26:23.659Z",
+  "updatedAt": "2022-08-09T05:49:31.959Z",
+  "publishedAt": "2022-07-16T19:26:26.729Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 135,
+  "attributes": {
+  "name": "tool-logos_0006_illustratorlogo.png.png",
+  "alternativeText": "Adobe Illustrator icon",
+  "caption": "tool-logos_0006_illustratorlogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "hash": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0006_illustratorlogo.png.png",
+  "path": null,
+  "size": 6.94,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.33,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.932Z",
+  "updatedAt": "2022-08-09T05:49:28.775Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 7,
+  "attributes": {
+  "SkillName": "Adobe Photoshop",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:27:08.270Z",
+  "updatedAt": "2022-08-09T06:12:30.908Z",
+  "publishedAt": "2022-07-16T19:27:11.338Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 140,
+  "attributes": {
+  "name": "tool-logos_0008_photoshoplogo.png.png",
+  "alternativeText": "Adobe Photoshop icon.png",
+  "caption": "tool-logos_0008_photoshoplogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613369/thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329.png",
+  "hash": "thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0008_photoshoplogo.png.png",
+  "path": null,
+  "size": 7.86,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0008_photoshoplogo_png_ba50718329",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.32,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0008_photoshoplogo_png_ba50718329.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0008_photoshoplogo_png_ba50718329",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.363Z",
+  "updatedAt": "2022-08-09T06:12:28.213Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 10,
+  "attributes": {
+  "SkillName": "Javascript",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:28:40.074Z",
+  "updatedAt": "2022-08-09T06:14:33.815Z",
+  "publishedAt": "2022-07-16T19:28:43.024Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 146,
+  "attributes": {
+  "name": "javascriptlogo.png",
+  "alternativeText": "Javascript icon",
+  "caption": "javascriptlogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_javascriptlogo_e9cd1e54b8.png",
+  "hash": "thumbnail_javascriptlogo_e9cd1e54b8",
+  "mime": "image/png",
+  "name": "thumbnail_javascriptlogo.png",
+  "path": null,
+  "size": 28.08,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_javascriptlogo_e9cd1e54b8",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "javascriptlogo_e9cd1e54b8",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 15.61,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/javascriptlogo_e9cd1e54b8.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "javascriptlogo_e9cd1e54b8",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:05.153Z",
+  "updatedAt": "2022-08-09T06:14:31.402Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 12,
+  "attributes": {
+  "SkillName": "Bootstrap",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-23T16:46:40.907Z",
+  "updatedAt": "2022-08-09T06:13:12.189Z",
+  "publishedAt": "2022-07-23T17:11:25.019Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 136,
+  "attributes": {
+  "name": "tool-logos_0012_bootstrap-logo.png",
+  "alternativeText": "Bootstrap icon",
+  "caption": "tool-logos_0012_bootstrap-logo.png",
+  "width": 298,
+  "height": 237,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47.png",
+  "hash": "thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0012_bootstrap-logo.png",
+  "path": null,
+  "size": 24.3,
+  "width": 196,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 8.66,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0012_bootstrap_logo_d5b8d7eb47.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.201Z",
+  "updatedAt": "2022-08-09T06:13:09.621Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 13,
+  "attributes": {
+  "SkillName": "Sass",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-23T17:25:40.849Z",
+  "updatedAt": "2022-07-23T22:07:30.707Z",
+  "publishedAt": "2022-07-23T18:32:12.185Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 137,
+  "attributes": {
+  "name": "tool-logos_0011_Sasslogo.png",
+  "alternativeText": "tool-logos_0011_Sasslogo.png",
+  "caption": "tool-logos_0011_Sasslogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "hash": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0011_Sasslogo.png",
+  "path": null,
+  "size": 13.99,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 4.76,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.245Z",
+  "updatedAt": "2022-07-23T21:56:09.245Z"
+  }
+  }
+  }
+  }
+  }
+  ]
+  },
+  "Images": {
+  "data": [
+  {
+  "id": 241,
+  "attributes": {
+  "name": "thecakeryhome.png",
+  "alternativeText": "thecakeryhome.png",
+  "caption": "thecakeryhome.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777492/large_thecakeryhome_90ea44cdf3.png",
+  "hash": "large_thecakeryhome_90ea44cdf3",
+  "mime": "image/png",
+  "name": "large_thecakeryhome.png",
+  "path": null,
+  "size": 374.61,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakeryhome_90ea44cdf3",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777494/small_thecakeryhome_90ea44cdf3.png",
+  "hash": "small_thecakeryhome_90ea44cdf3",
+  "mime": "image/png",
+  "name": "small_thecakeryhome.png",
+  "path": null,
+  "size": 99.26,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakeryhome_90ea44cdf3",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777493/medium_thecakeryhome_90ea44cdf3.png",
+  "hash": "medium_thecakeryhome_90ea44cdf3",
+  "mime": "image/png",
+  "name": "medium_thecakeryhome.png",
+  "path": null,
+  "size": 217.37,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakeryhome_90ea44cdf3",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777490/thumbnail_thecakeryhome_90ea44cdf3.png",
+  "hash": "thumbnail_thecakeryhome_90ea44cdf3",
+  "mime": "image/png",
+  "name": "thumbnail_thecakeryhome.png",
+  "path": null,
+  "size": 27.01,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakeryhome_90ea44cdf3",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakeryhome_90ea44cdf3",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 491.47,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryhome_90ea44cdf3.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakeryhome_90ea44cdf3",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:38:14.784Z",
+  "updatedAt": "2022-09-10T02:38:14.784Z"
+  }
+  },
+  {
+  "id": 245,
+  "attributes": {
+  "name": "thecakerytopproducts.png",
+  "alternativeText": "thecakerytopproducts.png",
+  "caption": "thecakerytopproducts.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778313/large_thecakerytopproducts_91cbe97dc9.png",
+  "hash": "large_thecakerytopproducts_91cbe97dc9",
+  "mime": "image/png",
+  "name": "large_thecakerytopproducts.png",
+  "path": null,
+  "size": 330.93,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakerytopproducts_91cbe97dc9",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778314/small_thecakerytopproducts_91cbe97dc9.png",
+  "hash": "small_thecakerytopproducts_91cbe97dc9",
+  "mime": "image/png",
+  "name": "small_thecakerytopproducts.png",
+  "path": null,
+  "size": 74.1,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakerytopproducts_91cbe97dc9",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778313/medium_thecakerytopproducts_91cbe97dc9.png",
+  "hash": "medium_thecakerytopproducts_91cbe97dc9",
+  "mime": "image/png",
+  "name": "medium_thecakerytopproducts.png",
+  "path": null,
+  "size": 182.65,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakerytopproducts_91cbe97dc9",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778311/thumbnail_thecakerytopproducts_91cbe97dc9.png",
+  "hash": "thumbnail_thecakerytopproducts_91cbe97dc9",
+  "mime": "image/png",
+  "name": "thumbnail_thecakerytopproducts.png",
+  "path": null,
+  "size": 16.38,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakerytopproducts_91cbe97dc9",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakerytopproducts_91cbe97dc9",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 370.13,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778310/thecakerytopproducts_91cbe97dc9.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakerytopproducts_91cbe97dc9",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:51:55.311Z",
+  "updatedAt": "2022-09-10T02:51:55.311Z"
+  }
+  },
+  {
+  "id": 242,
+  "attributes": {
+  "name": "thecakeryproducts.png",
+  "alternativeText": "thecakeryproducts.png",
+  "caption": "thecakeryproducts.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777493/large_thecakeryproducts_b3e525beec.png",
+  "hash": "large_thecakeryproducts_b3e525beec",
+  "mime": "image/png",
+  "name": "large_thecakeryproducts.png",
+  "path": null,
+  "size": 373.87,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakeryproducts_b3e525beec",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777495/small_thecakeryproducts_b3e525beec.png",
+  "hash": "small_thecakeryproducts_b3e525beec",
+  "mime": "image/png",
+  "name": "small_thecakeryproducts.png",
+  "path": null,
+  "size": 89.29,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakeryproducts_b3e525beec",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777494/medium_thecakeryproducts_b3e525beec.png",
+  "hash": "medium_thecakeryproducts_b3e525beec",
+  "mime": "image/png",
+  "name": "medium_thecakeryproducts.png",
+  "path": null,
+  "size": 218.04,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakeryproducts_b3e525beec",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777490/thumbnail_thecakeryproducts_b3e525beec.png",
+  "hash": "thumbnail_thecakeryproducts_b3e525beec",
+  "mime": "image/png",
+  "name": "thumbnail_thecakeryproducts.png",
+  "path": null,
+  "size": 23.02,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakeryproducts_b3e525beec",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakeryproducts_b3e525beec",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 451.65,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryproducts_b3e525beec.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakeryproducts_b3e525beec",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:38:15.477Z",
+  "updatedAt": "2022-09-10T02:38:15.477Z"
+  }
+  },
+  {
+  "id": 238,
+  "attributes": {
+  "name": "thecakeryoverlaynav.png",
+  "alternativeText": "thecakeryoverlaynav.png",
+  "caption": "thecakeryoverlaynav.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/large_thecakeryoverlaynav_8082fe076f.png",
+  "hash": "large_thecakeryoverlaynav_8082fe076f",
+  "mime": "image/png",
+  "name": "large_thecakeryoverlaynav.png",
+  "path": null,
+  "size": 129.66,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakeryoverlaynav_8082fe076f",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777489/small_thecakeryoverlaynav_8082fe076f.png",
+  "hash": "small_thecakeryoverlaynav_8082fe076f",
+  "mime": "image/png",
+  "name": "small_thecakeryoverlaynav.png",
+  "path": null,
+  "size": 35.37,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakeryoverlaynav_8082fe076f",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777488/medium_thecakeryoverlaynav_8082fe076f.png",
+  "hash": "medium_thecakeryoverlaynav_8082fe076f",
+  "mime": "image/png",
+  "name": "medium_thecakeryoverlaynav.png",
+  "path": null,
+  "size": 77.79,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakeryoverlaynav_8082fe076f",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777481/thumbnail_thecakeryoverlaynav_8082fe076f.png",
+  "hash": "thumbnail_thecakeryoverlaynav_8082fe076f",
+  "mime": "image/png",
+  "name": "thumbnail_thecakeryoverlaynav.png",
+  "path": null,
+  "size": 9.55,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakeryoverlaynav_8082fe076f",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakeryoverlaynav_8082fe076f",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 188.52,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryoverlaynav_8082fe076f.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakeryoverlaynav_8082fe076f",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:38:10.183Z",
+  "updatedAt": "2022-09-10T02:38:10.183Z"
+  }
+  },
+  {
+  "id": 243,
+  "attributes": {
+  "name": "thecakerygallery.png",
+  "alternativeText": "thecakerygallery.png",
+  "caption": "thecakerygallery.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777495/large_thecakerygallery_92fe8dd53f.png",
+  "hash": "large_thecakerygallery_92fe8dd53f",
+  "mime": "image/png",
+  "name": "large_thecakerygallery.png",
+  "path": null,
+  "size": 667.56,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakerygallery_92fe8dd53f",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777497/small_thecakerygallery_92fe8dd53f.png",
+  "hash": "small_thecakerygallery_92fe8dd53f",
+  "mime": "image/png",
+  "name": "small_thecakerygallery.png",
+  "path": null,
+  "size": 176.84,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakerygallery_92fe8dd53f",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777496/medium_thecakerygallery_92fe8dd53f.png",
+  "hash": "medium_thecakerygallery_92fe8dd53f",
+  "mime": "image/png",
+  "name": "medium_thecakerygallery.png",
+  "path": null,
+  "size": 384.01,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakerygallery_92fe8dd53f",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777493/thumbnail_thecakerygallery_92fe8dd53f.png",
+  "hash": "thumbnail_thecakerygallery_92fe8dd53f",
+  "mime": "image/png",
+  "name": "thumbnail_thecakerygallery.png",
+  "path": null,
+  "size": 47.15,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakerygallery_92fe8dd53f",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakerygallery_92fe8dd53f",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 505.06,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777492/thecakerygallery_92fe8dd53f.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakerygallery_92fe8dd53f",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:38:17.359Z",
+  "updatedAt": "2022-09-10T02:38:17.359Z"
+  }
+  },
+  {
+  "id": 237,
+  "attributes": {
+  "name": "thecakeryform.png",
+  "alternativeText": "thecakeryform.png",
+  "caption": "thecakeryform.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777485/large_thecakeryform_c3566ace5e.png",
+  "hash": "large_thecakeryform_c3566ace5e",
+  "mime": "image/png",
+  "name": "large_thecakeryform.png",
+  "path": null,
+  "size": 99,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakeryform_c3566ace5e",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777488/small_thecakeryform_c3566ace5e.png",
+  "hash": "small_thecakeryform_c3566ace5e",
+  "mime": "image/png",
+  "name": "small_thecakeryform.png",
+  "path": null,
+  "size": 18.3,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakeryform_c3566ace5e",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/medium_thecakeryform_c3566ace5e.png",
+  "hash": "medium_thecakeryform_c3566ace5e",
+  "mime": "image/png",
+  "name": "medium_thecakeryform.png",
+  "path": null,
+  "size": 54.68,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakeryform_c3566ace5e",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777481/thumbnail_thecakeryform_c3566ace5e.png",
+  "hash": "thumbnail_thecakeryform_c3566ace5e",
+  "mime": "image/png",
+  "name": "thumbnail_thecakeryform.png",
+  "path": null,
+  "size": 5.89,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakeryform_c3566ace5e",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakeryform_c3566ace5e",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 102.4,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryform_c3566ace5e.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakeryform_c3566ace5e",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:38:09.174Z",
+  "updatedAt": "2022-09-10T02:38:09.174Z"
+  }
+  },
+  {
+  "id": 244,
+  "attributes": {
+  "name": "thecakeryfooter.png",
+  "alternativeText": "thecakeryfooter.png",
+  "caption": "thecakeryfooter.png",
+  "width": 1918,
+  "height": 1002,
+  "formats": {
+  "large": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777867/large_thecakeryfooter_83e557da39.png",
+  "hash": "large_thecakeryfooter_83e557da39",
+  "mime": "image/png",
+  "name": "large_thecakeryfooter.png",
+  "path": null,
+  "size": 273.1,
+  "width": 1000,
+  "height": 522,
+  "provider_metadata": {
+  "public_id": "large_thecakeryfooter_83e557da39",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777869/small_thecakeryfooter_83e557da39.png",
+  "hash": "small_thecakeryfooter_83e557da39",
+  "mime": "image/png",
+  "name": "small_thecakeryfooter.png",
+  "path": null,
+  "size": 59.96,
+  "width": 500,
+  "height": 261,
+  "provider_metadata": {
+  "public_id": "small_thecakeryfooter_83e557da39",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777868/medium_thecakeryfooter_83e557da39.png",
+  "hash": "medium_thecakeryfooter_83e557da39",
+  "mime": "image/png",
+  "name": "medium_thecakeryfooter.png",
+  "path": null,
+  "size": 145.18,
+  "width": 750,
+  "height": 392,
+  "provider_metadata": {
+  "public_id": "medium_thecakeryfooter_83e557da39",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777866/thumbnail_thecakeryfooter_83e557da39.png",
+  "hash": "thumbnail_thecakeryfooter_83e557da39",
+  "mime": "image/png",
+  "name": "thumbnail_thecakeryfooter.png",
+  "path": null,
+  "size": 15.63,
+  "width": 245,
+  "height": 128,
+  "provider_metadata": {
+  "public_id": "thumbnail_thecakeryfooter_83e557da39",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "thecakeryfooter_83e557da39",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 220.11,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777865/thecakeryfooter_83e557da39.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "thecakeryfooter_83e557da39",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-10T02:44:29.429Z",
+  "updatedAt": "2022-09-10T02:44:29.429Z"
+  }
+  }
+  ]
+  }
+  }
+  },
+  {
+    "id": 5,
+    "attributes": {
+    "Title": "Reciprocity",
+    "Summary": "Based on my research around common freelancers' problems, I designed a mobile app called Reciprocity.\n",
+    "Description": "<p>Reciprocity app for freelancers. My case study includes - Google Forms survey - Two interviews - Two Personas - Two user journey maps - Competitive analysis - Site map - Task Flow - Information architecture - Sketches - Wireframes - Mockups</p>",
+    "WebLink": "https://uxfol.io/p/7b385952/03abb94f",
+    "Trailer": null,
+    "StartDate": "2022-03-01",
+    "EndDate": "2022-06-01",
+    "ClientName": "Reciprocity",
+    "Category": "UX Design",
+    "createdAt": "2022-07-13T21:35:17.137Z",
+    "updatedAt": "2022-08-09T05:46:27.789Z",
+    "publishedAt": "2022-07-13T21:35:21.509Z",
+    "Slug": "reciprocity",
+    "Tagline": "UX/UI Case Study",
+    "MainImage": {
+    "data": {
+    "id": 207,
+    "attributes": {
+    "name": "reciprocityhomepage.png",
+    "alternativeText": "Case study Reciprocity Home page",
+    "caption": "reciprocityhomepage.png",
+    "width": 1918,
+    "height": 1002,
+    "formats": {
+    "large": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855754/large_reciprocityhomepage_44b1197319.png",
+    "hash": "large_reciprocityhomepage_44b1197319",
+    "mime": "image/png",
+    "name": "large_reciprocityhomepage.png",
+    "path": null,
+    "size": 262.07,
+    "width": 1000,
+    "height": 522,
+    "provider_metadata": {
+    "public_id": "large_reciprocityhomepage_44b1197319",
+    "resource_type": "image"
+    }
+    },
+    "small": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855755/small_reciprocityhomepage_44b1197319.png",
+    "hash": "small_reciprocityhomepage_44b1197319",
+    "mime": "image/png",
+    "name": "small_reciprocityhomepage.png",
+    "path": null,
+    "size": 67.57,
+    "width": 500,
+    "height": 261,
+    "provider_metadata": {
+    "public_id": "small_reciprocityhomepage_44b1197319",
+    "resource_type": "image"
+    }
+    },
+    "medium": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855755/medium_reciprocityhomepage_44b1197319.png",
+    "hash": "medium_reciprocityhomepage_44b1197319",
+    "mime": "image/png",
+    "name": "medium_reciprocityhomepage.png",
+    "path": null,
+    "size": 151.99,
+    "width": 750,
+    "height": 392,
+    "provider_metadata": {
+    "public_id": "medium_reciprocityhomepage_44b1197319",
+    "resource_type": "image"
+    }
+    },
+    "thumbnail": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855746/thumbnail_reciprocityhomepage_44b1197319.png",
+    "hash": "thumbnail_reciprocityhomepage_44b1197319",
+    "mime": "image/png",
+    "name": "thumbnail_reciprocityhomepage.png",
+    "path": null,
+    "size": 19.34,
+    "width": 245,
+    "height": 128,
+    "provider_metadata": {
+    "public_id": "thumbnail_reciprocityhomepage_44b1197319",
+    "resource_type": "image"
+    }
+    }
+    },
+    "hash": "reciprocityhomepage_44b1197319",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 227.23,
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855744/reciprocityhomepage_44b1197319.png",
+    "previewUrl": null,
+    "provider": "cloudinary",
+    "provider_metadata": {
+    "public_id": "reciprocityhomepage_44b1197319",
+    "resource_type": "image"
+    },
+    "createdAt": "2022-08-07T07:02:36.114Z",
+    "updatedAt": "2022-08-09T05:46:25.005Z"
+    }
+    }
+    },
+    "skills": {
+    "data": [
+    {
+    "id": 5,
+    "attributes": {
+    "SkillName": "Figma",
+    "SkillScore": "Four",
+    "createdAt": "2022-07-16T19:24:19.441Z",
+    "updatedAt": "2022-08-09T06:13:52.240Z",
+    "publishedAt": "2022-07-16T19:24:24.127Z",
+    "Category": "Design tools",
+    "SkillLogo": {
+    "data": {
+    "id": 138,
+    "attributes": {
+    "name": "tool-logos_0004_figmalogo.webp.png",
+    "alternativeText": "Figma icon",
+    "caption": "tool-logos_0004_figmalogo.webp.png",
+    "width": 300,
+    "height": 300,
+    "formats": {
+    "thumbnail": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887.png",
+    "hash": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+    "mime": "image/png",
+    "name": "thumbnail_tool-logos_0004_figmalogo.webp.png",
+    "path": null,
+    "size": 15.67,
+    "width": 156,
+    "height": 156,
+    "provider_metadata": {
+    "public_id": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+    "resource_type": "image"
+    }
+    }
+    },
+    "hash": "tool_logos_0004_figmalogo_webp_335b5f3887",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 8.13,
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png",
+    "previewUrl": null,
+    "provider": "cloudinary",
+    "provider_metadata": {
+    "public_id": "tool_logos_0004_figmalogo_webp_335b5f3887",
+    "resource_type": "image"
+    },
+    "createdAt": "2022-07-23T21:56:09.297Z",
+    "updatedAt": "2022-08-09T06:13:49.710Z"
+    }
+    }
+    }
+    }
+    },
+    {
+    "id": 6,
+    "attributes": {
+    "SkillName": "Adobe Illustrator",
+    "SkillScore": "Three",
+    "createdAt": "2022-07-16T19:26:23.659Z",
+    "updatedAt": "2022-08-09T05:49:31.959Z",
+    "publishedAt": "2022-07-16T19:26:26.729Z",
+    "Category": "Design tools",
+    "SkillLogo": {
+    "data": {
+    "id": 135,
+    "attributes": {
+    "name": "tool-logos_0006_illustratorlogo.png.png",
+    "alternativeText": "Adobe Illustrator icon",
+    "caption": "tool-logos_0006_illustratorlogo.png.png",
+    "width": 300,
+    "height": 300,
+    "formats": {
+    "thumbnail": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0006_illustratorlogo_png_918390455c.png",
+    "hash": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+    "mime": "image/png",
+    "name": "thumbnail_tool-logos_0006_illustratorlogo.png.png",
+    "path": null,
+    "size": 6.94,
+    "width": 156,
+    "height": 156,
+    "provider_metadata": {
+    "public_id": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+    "resource_type": "image"
+    }
+    }
+    },
+    "hash": "tool_logos_0006_illustratorlogo_png_918390455c",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 3.33,
+    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png",
+    "previewUrl": null,
+    "provider": "cloudinary",
+    "provider_metadata": {
+    "public_id": "tool_logos_0006_illustratorlogo_png_918390455c",
+    "resource_type": "image"
+    },
+    "createdAt": "2022-07-23T21:56:08.932Z",
+    "updatedAt": "2022-08-09T05:49:28.775Z"
+    }
+    }
+    }
+    }
+    }
+    ]
+    },
+    "Images": {
+    "data": null
+    }
+    }
+    },
+    {
+      "id": 6,
+      "attributes": {
+      "Title": "Wakie Wakie",
+      "Summary": "I designed an app called Wakie Wakie. This app alerts people when their train gets close to their destination. ",
+      "Description": "<p>My research focused on people who have difficulty waking up before they arrive at their destinations. I then studied other alert apps. Once I had a better understanding of the problems, I developed a wireframe and mockups.&nbsp;</p>",
+      "WebLink": "https://www.behance.net/gallery/148307473/Wakie-Wakie",
+      "Trailer": "https://www.figma.com/proto/n2Z5E2dGcE4LYkwb7WTIKt/wakie-wakie?page-id=0%3A1&node-id=1%3A333&viewport=436%2C317%2C0.1&scaling=scale-down&starting-point-node-id=1%3A333",
+      "StartDate": "2022-05-15",
+      "EndDate": "2022-05-31",
+      "ClientName": null,
+      "Category": "UX Design",
+      "createdAt": "2022-07-16T21:44:07.731Z",
+      "updatedAt": "2022-08-09T05:47:08.191Z",
+      "publishedAt": "2022-07-18T00:04:04.978Z",
+      "Slug": "wakie-wakie",
+      "Tagline": "UX / UI Design",
+      "MainImage": {
+      "data": {
+      "id": 209,
+      "attributes": {
+      "name": "wakiwakiehomepage.png",
+      "alternativeText": "UX/UI design project Wakie Wakie home page",
+      "caption": "wakiwakiehomepage.png",
+      "width": 1918,
+      "height": 1002,
+      "formats": {
+      "large": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013045/large_wakiwakiehomepage_ae10b12428.png",
+      "hash": "large_wakiwakiehomepage_ae10b12428",
+      "mime": "image/png",
+      "name": "large_wakiwakiehomepage.png",
+      "path": null,
+      "size": 297.33,
+      "width": 1000,
+      "height": 522,
+      "provider_metadata": {
+      "public_id": "large_wakiwakiehomepage_ae10b12428",
+      "resource_type": "image"
+      }
+      },
+      "small": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013047/small_wakiwakiehomepage_ae10b12428.png",
+      "hash": "small_wakiwakiehomepage_ae10b12428",
+      "mime": "image/png",
+      "name": "small_wakiwakiehomepage.png",
+      "path": null,
+      "size": 85.96,
+      "width": 500,
+      "height": 261,
+      "provider_metadata": {
+      "public_id": "small_wakiwakiehomepage_ae10b12428",
+      "resource_type": "image"
+      }
+      },
+      "medium": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013046/medium_wakiwakiehomepage_ae10b12428.png",
+      "hash": "medium_wakiwakiehomepage_ae10b12428",
+      "mime": "image/png",
+      "name": "medium_wakiwakiehomepage.png",
+      "path": null,
+      "size": 175.81,
+      "width": 750,
+      "height": 392,
+      "provider_metadata": {
+      "public_id": "medium_wakiwakiehomepage_ae10b12428",
+      "resource_type": "image"
+      }
+      },
+      "thumbnail": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013043/thumbnail_wakiwakiehomepage_ae10b12428.png",
+      "hash": "thumbnail_wakiwakiehomepage_ae10b12428",
+      "mime": "image/png",
+      "name": "thumbnail_wakiwakiehomepage.png",
+      "path": null,
+      "size": 30.13,
+      "width": 245,
+      "height": 128,
+      "provider_metadata": {
+      "public_id": "thumbnail_wakiwakiehomepage_ae10b12428",
+      "resource_type": "image"
+      }
+      }
+      },
+      "hash": "wakiwakiehomepage_ae10b12428",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 315.19,
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013042/wakiwakiehomepage_ae10b12428.png",
+      "previewUrl": null,
+      "provider": "cloudinary",
+      "provider_metadata": {
+      "public_id": "wakiwakiehomepage_ae10b12428",
+      "resource_type": "image"
+      },
+      "createdAt": "2022-08-09T02:44:07.494Z",
+      "updatedAt": "2022-08-09T05:47:05.469Z"
+      }
+      }
+      },
+      "skills": {
+      "data": [
+      {
+      "id": 5,
+      "attributes": {
+      "SkillName": "Figma",
+      "SkillScore": "Four",
+      "createdAt": "2022-07-16T19:24:19.441Z",
+      "updatedAt": "2022-08-09T06:13:52.240Z",
+      "publishedAt": "2022-07-16T19:24:24.127Z",
+      "Category": "Design tools",
+      "SkillLogo": {
+      "data": {
+      "id": 138,
+      "attributes": {
+      "name": "tool-logos_0004_figmalogo.webp.png",
+      "alternativeText": "Figma icon",
+      "caption": "tool-logos_0004_figmalogo.webp.png",
+      "width": 300,
+      "height": 300,
+      "formats": {
+      "thumbnail": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887.png",
+      "hash": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+      "mime": "image/png",
+      "name": "thumbnail_tool-logos_0004_figmalogo.webp.png",
+      "path": null,
+      "size": 15.67,
+      "width": 156,
+      "height": 156,
+      "provider_metadata": {
+      "public_id": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+      "resource_type": "image"
+      }
+      }
+      },
+      "hash": "tool_logos_0004_figmalogo_webp_335b5f3887",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 8.13,
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png",
+      "previewUrl": null,
+      "provider": "cloudinary",
+      "provider_metadata": {
+      "public_id": "tool_logos_0004_figmalogo_webp_335b5f3887",
+      "resource_type": "image"
+      },
+      "createdAt": "2022-07-23T21:56:09.297Z",
+      "updatedAt": "2022-08-09T06:13:49.710Z"
+      }
+      }
+      }
+      }
+      }
+      ]
+      },
+      "Images": {
+      "data": [
+      {
+      "id": 112,
+      "attributes": {
+      "name": "WakieWakiepage1.png",
+      "alternativeText": "WakieWakiepage1.png",
+      "caption": "WakieWakiepage1.png",
+      "width": 1400,
+      "height": 800,
+      "formats": {
+      "large": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461354/large_Wakie_Wakiepage1_d151dba5ae.png",
+      "hash": "large_Wakie_Wakiepage1_d151dba5ae",
+      "mime": "image/png",
+      "name": "large_WakieWakiepage1.png",
+      "path": null,
+      "size": 152.45,
+      "width": 1000,
+      "height": 571,
+      "provider_metadata": {
+      "public_id": "large_Wakie_Wakiepage1_d151dba5ae",
+      "resource_type": "image"
+      }
+      },
+      "small": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461356/small_Wakie_Wakiepage1_d151dba5ae.png",
+      "hash": "small_Wakie_Wakiepage1_d151dba5ae",
+      "mime": "image/png",
+      "name": "small_WakieWakiepage1.png",
+      "path": null,
+      "size": 53.21,
+      "width": 500,
+      "height": 286,
+      "provider_metadata": {
+      "public_id": "small_Wakie_Wakiepage1_d151dba5ae",
+      "resource_type": "image"
+      }
+      },
+      "medium": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461355/medium_Wakie_Wakiepage1_d151dba5ae.png",
+      "hash": "medium_Wakie_Wakiepage1_d151dba5ae",
+      "mime": "image/png",
+      "name": "medium_WakieWakiepage1.png",
+      "path": null,
+      "size": 97.83,
+      "width": 750,
+      "height": 429,
+      "provider_metadata": {
+      "public_id": "medium_Wakie_Wakiepage1_d151dba5ae",
+      "resource_type": "image"
+      }
+      },
+      "thumbnail": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461341/thumbnail_Wakie_Wakiepage1_d151dba5ae.png",
+      "hash": "thumbnail_Wakie_Wakiepage1_d151dba5ae",
+      "mime": "image/png",
+      "name": "thumbnail_WakieWakiepage1.png",
+      "path": null,
+      "size": 19.76,
+      "width": 245,
+      "height": 140,
+      "provider_metadata": {
+      "public_id": "thumbnail_Wakie_Wakiepage1_d151dba5ae",
+      "resource_type": "image"
+      }
+      }
+      },
+      "hash": "Wakie_Wakiepage1_d151dba5ae",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 55.47,
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461324/Wakie_Wakiepage1_d151dba5ae.png",
+      "previewUrl": null,
+      "provider": "cloudinary",
+      "provider_metadata": {
+      "public_id": "Wakie_Wakiepage1_d151dba5ae",
+      "resource_type": "image"
+      },
+      "createdAt": "2022-07-22T03:42:37.202Z",
+      "updatedAt": "2022-07-22T03:42:37.202Z"
+      }
+      },
+      {
+      "id": 111,
+      "attributes": {
+      "name": "overviewWakieWakie.png",
+      "alternativeText": "overviewWakieWakie.png",
+      "caption": "overviewWakieWakie.png",
+      "width": 2034,
+      "height": 1167,
+      "formats": {
+      "large": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461342/large_overview_Wakie_Wakie_0badfac8f4.png",
+      "hash": "large_overview_Wakie_Wakie_0badfac8f4",
+      "mime": "image/png",
+      "name": "large_overviewWakieWakie.png",
+      "path": null,
+      "size": 157.09,
+      "width": 1000,
+      "height": 574,
+      "provider_metadata": {
+      "public_id": "large_overview_Wakie_Wakie_0badfac8f4",
+      "resource_type": "image"
+      }
+      },
+      "small": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461353/small_overview_Wakie_Wakie_0badfac8f4.png",
+      "hash": "small_overview_Wakie_Wakie_0badfac8f4",
+      "mime": "image/png",
+      "name": "small_overviewWakieWakie.png",
+      "path": null,
+      "size": 60.43,
+      "width": 500,
+      "height": 287,
+      "provider_metadata": {
+      "public_id": "small_overview_Wakie_Wakie_0badfac8f4",
+      "resource_type": "image"
+      }
+      },
+      "medium": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461347/medium_overview_Wakie_Wakie_0badfac8f4.png",
+      "hash": "medium_overview_Wakie_Wakie_0badfac8f4",
+      "mime": "image/png",
+      "name": "medium_overviewWakieWakie.png",
+      "path": null,
+      "size": 106.53,
+      "width": 750,
+      "height": 430,
+      "provider_metadata": {
+      "public_id": "medium_overview_Wakie_Wakie_0badfac8f4",
+      "resource_type": "image"
+      }
+      },
+      "thumbnail": {
+      "ext": ".png",
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461335/thumbnail_overview_Wakie_Wakie_0badfac8f4.png",
+      "hash": "thumbnail_overview_Wakie_Wakie_0badfac8f4",
+      "mime": "image/png",
+      "name": "thumbnail_overviewWakieWakie.png",
+      "path": null,
+      "size": 20.32,
+      "width": 245,
+      "height": 141,
+      "provider_metadata": {
+      "public_id": "thumbnail_overview_Wakie_Wakie_0badfac8f4",
+      "resource_type": "image"
+      }
+      }
+      },
+      "hash": "overview_Wakie_Wakie_0badfac8f4",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 64.03,
+      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461317/overview_Wakie_Wakie_0badfac8f4.png",
+      "previewUrl": null,
+      "provider": "cloudinary",
+      "provider_metadata": {
+      "public_id": "overview_Wakie_Wakie_0badfac8f4",
+      "resource_type": "image"
+      },
+      "createdAt": "2022-07-22T03:42:34.195Z",
+      "updatedAt": "2022-07-22T03:42:34.195Z"
+      }
+      }
+      ]
+      }
+      }
+      }
+  ]
+}

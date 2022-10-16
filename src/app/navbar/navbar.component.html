@@ -1,0 +1,55 @@
+<div class="portfolioContainer">
+  <!--Nav Bar-->
+  <nav class="navbar navbar-expand-md bg-light">
+    <div class="container-fluid">
+
+      <!-- <a class="navbar-brand" routerLink="/"> <img src="{{logo}}" [alt]="logoAltText" width="50" height="50"></a> -->
+      <a class="navbar-brand" routerLink="/"> <img src="../../assets/logos/favicon.svg" alt="Sachi Goto logo" width="50" height="50"></a>
+
+      <div class="button_container d-md-none" [class.active]="activestate" (click)="toggleNav()" id="toggle"><span class="top"></span><span class="middle"></span><span class="bottom"></span></div>
+
+      <!-- <div class="container"> -->
+        <!-- <a class="navbar-brand" href="#"> -->
+
+        <!-- </a> -->
+      <!-- </div> -->
+      <!-- <button class="navbar-toggler" (click)="myfunc()" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button> -->
+    <div class=" d-none d-md-block" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/about-me">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/projects">Projects</a>
+
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/contact">Contact</a>
+            <!-- <a class="nav-link" href="/about-me#contact">Contact</a> -->
+          </li>
+          <!-- <li class="nav-item lang">
+            <a class="nav-link ps-5" routerLink="#">EN/JP</a>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- <div class="routerContainer">
+
+  </div> -->
+
+  </div>
+
+  <div class="overlay d-sm-blockd-md-none" [class.open]="state" id="overlay">
+    <nav class="overlay-menu">
+        <ul>
+            <li>   <a class="nav-link" routerLink="/about-me">About</a>  </li>
+            <li>   <a class="nav-link" routerLink="/projects">Projects</a></li>
+            <li>            <a class="nav-link" routerLink="/contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+</div>

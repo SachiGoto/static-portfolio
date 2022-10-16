@@ -1,0 +1,11 @@
+<ul>
+  <li *ngFor="let myskill of myskills">
+
+      <img class="skill" [src]="server + myskill.attributes.SkillLogo.data.attributes.formats.thumbnail.url" [title]="myskill.attributes.SkillName">
+
+      <!-- <span class="tooltiptext">Tooltip text</span> -->
+
+      <!-- myskill.attributes.SkillName -->
+
+  </li>
+</ul>

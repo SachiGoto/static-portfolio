@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+/* You can add global styles to this file, and also import other style files */
+.centercenter{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+
+
+*{
+  // font-family: 'Philosopher', sans-serif;
+  // font-family: 'Abril Fatface', sans-serif;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Montserrat', sans-serif;
+  h1, h2{
+    font-weight:normal;
+  }
+
+}
+
+
+
+:root
+{
+
+//   .starContainer{
+//   width: 100%;
+//   height: 100vh;
+//   position: absolute;
+//   top:0;
+// }
+
+// .star {
+//   position: absolute;
+//   width:10px;
+//   height: 10px;
+//   background-color: rgb(232, 248, 167);
+//   animation-name: twinkle;
+//   animation-duration: 3s;
+//   animation-iteration-count: infinite;
+//   filter:blur(1px);
+//   z-index:200;
+// }
+
+
+  --hello: #10ae28; // or any global you wish to share with components
+
+--orange: #E9672D;
+--beige: #F1DFC5;
+
+.bg{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100vw;
+  height:100vh;
+  // min-width:1020px;
+  z-index:-15;
+  animation: fadein 4s;
+
+ }
+
+ @keyframes jump{
+
+  from{
+
+      transform:translateY(0);
+  }to{
+    transform:translateY(-10px);
+  }
+}
+
+
+@keyframes aboutMoveToRight{
+  0%{
+   opacity:0;
+   transform:translateX(-120%)
+  }50%{
+   opacity:0.5;
+  }
+  100%{
+   opacity:1;
+   transform:translateX(0%)
+
+  }
+}
+
+@keyframes aboutMoveToLeft{
+  0%{
+   opacity:0;
+  //  transform: translateY(-81%);
+  //  transform:translateX(120%)
+   transform:translate(100px, -20px);
+  }50%{
+   opacity:0.5;
+  }
+  100%{
+   opacity:1;
+  //  transform:translateX(0%)
+  //  transform:translate(10px -20px);
+  transform:translate(0px, 0px);
+
+  }
+}
+
+
+@keyframes fadein {
+  0%{opacity:0.5}
+  100%{opacity:1}
+}
+
+
+@keyframes fadeout {
+  0%{opacity:1}
+  50%{opacity:0.5}
+  100%{opacity:1}
+}
+
+
+
+@keyframes swing {
+  0% { transform: rotate(5deg);
+      //  transform-origin:5% -10%;
+                               }
+  100% { transform: rotate(-5deg);
+    // transform-origin:5% -10%;
+
+  }
+}
+
+@keyframes swing2 {
+  0% { transform: rotate(-5deg); }
+  100% { transform: rotate(5deg); }
+}
+
+@keyframes float{
+  0%{
+    transform:translateY(0)
+  }50%{
+    transform:translateY(10px)
+  }100%{
+    transform:translateY(0)
+  }
+}
+
+@keyframes glow{
+
+  0%{
+   transform:scale(1);
+   opacity:1;
+
+  }50%{
+   transform:scale(1.5);
+   opacity:0.5;
+  }100%{
+   transform:scale(1);
+   opacity:1;
+  }
+
+}
+
+@keyframes cloudmove{
+
+
+  0%{
+        transform:translate(0,0);
+        opacity:1;
+      }
+  25%{
+       transform:translate(20%, 5%);
+       opacity:0.5;
+  }
+
+  50%{
+       opacity:0;
+       transform:translate(60%, -5%);
+
+  }75%{
+       opacity:0.5;
+       transform:translate(20%,5%);
+  }
+  100%{
+    transform:translate(0,0);
+      opacity:1;
+  }
+
+}
+
+@keyframes tracedown{
+  0%{
+    clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
+  }50%{
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%)
+  }100%{
+    clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
+  }
+}
+
+@keyframes show{
+  from{
+      opacity:0;
+      transform:scale(0.8) rotateX(30deg) ;
+
+  }to{
+      opacity:1;
+      transform:scale(1) rotateX(0deg);
+  }
+}
+
+
+@keyframes floatButton1{
+  0%{
+    transform:translateY(0)
+  }50%{
+    transform:translateY(10px)
+  }100%{
+    transform:translateY(0)
+  }
+}
+
+@keyframes floatButton2{
+  0%{
+    transform:translateY(0px)
+  }50%{
+    transform:translateY(-10px)
+  }100%{
+    transform:translateY(0px)
+  }
+}
+
+@keyframes moveup2{
+  0%{
+    transform:translateY(0px);
+  }50%{
+    transform:translateY(15px);
+  }100%{
+    transform:translateY(0px);
+  }
+}
+
+@keyframes moveup{
+  0%{
+    transform:translateY(0px);
+  }50%{
+    transform:translateY(10px);
+  }100%{
+    transform:translateY(0px);
+  }
+}
+
+
+.btn{
+  min-height:45px;
+  min-width:175px;
+  // background-color:$orange;
+  background-color:var(--orange);
+  // width:65%;
+  // color:$beige;
+  color : var(--beige);
+
+  a{
+  color : var(--beige) !important;
+  text-decoration:none;
+  }
+  border:none;
+  font-weight:bold;
+  border-radius:30px;
+  // padding:1em 2em;
+  // margin-top:5%;
+  // animation:float 5s infinite;
+  svg{
+    width:30px;
+  //  fill:#F1DFC5
+  fill:var(--beige);
+
+  }
+}
+
+.secondaryBtn{
+
+    min-height:45px;
+    min-width:175px;
+    // background-color:$orange;
+    background-color:var(--beige);
+    // width:65%;
+    // color:$beige;
+    color : var(--orange);
+
+    a{
+    color : var(--orange) !important;
+    text-decoration:none;
+    }
+    border:none;
+    font-weight:bold;
+    border-radius:30px;
+    // padding:1em 2em;
+    // margin-top:5%;
+    animation:float 5s infinite;
+    svg{
+      width:30px;
+    //  fill:#F1DFC5
+    fill:var(--orange);
+
+    }
+
+}
+
+.secondaryBtn:hover{
+
+    border:none;
+    color : var(--beige);
+    // color:$beige;
+    background-color:var(--orange) !important;
+  //  color:var(--hello);
+  // color:$orange;
+  a{
+  color:var(--beige) !important;
+  }
+
+    svg{
+      // fill:$orange;
+      fill:var(--beige) !important;
+    }
+
+}
+
+.btn:hover{
+  border:none;
+  color : var(--orange);
+  // color:$beige;
+  background-color:var(--beige) !important;
+//  color:var(--hello);
+// color:$orange;
+a{
+color:var(--orange) !important;
+}
+
+  svg{
+    // fill:$orange;
+    fill:var(--orange) !important;
+  }
+}
+
+}
+
+
+
+
+
+// .tooltip {
+//   position: relative;
+//   display: inline-block;
+//   border-bottom: 1px dotted black;
+// }
+
+// .tooltip .tooltiptext {
+//   visibility: hidden;
+//   width: 120px;
+//   background-color: #555;
+//   color: #fff;
+//   text-align: center;
+//   border-radius: 6px;
+//   padding: 5px 0;
+//   position: absolute;
+//   z-index: 1;
+//   bottom: 125%;
+//   left: 50%;
+//   margin-left: -60px;
+//   opacity: 0;
+//   transition: opacity 0.3s;
+// }
+
+// .tooltip .tooltiptext::after {
+//   content: "";
+//   position: absolute;
+//   top: 100%;
+//   left: 50%;
+//   margin-left: -5px;
+//   border-width: 5px;
+//   border-style: solid;
+//   border-color: #555 transparent transparent transparent;
+// }
+
+// .tooltip:hover .tooltiptext {
+//   visibility: visible;
+//   opacity: 1;
+// }
+
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';

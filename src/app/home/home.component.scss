@@ -1,0 +1,412 @@
+$orange: #E9672D;
+$beige: #F1DFC5;
+
+// .bg{
+//   width:100vw;
+//   height:100vh;
+// background-position:center;
+//   background-repeat: no-repeat;
+//   background-size:cover;
+// }
+#sun{
+   animation: drawArc 50s infinite;
+   transform-origin:center center;
+}
+
+h1, h2{
+  font-weight:300;
+}
+
+
+@keyframes drawArc {
+  0% { transform: rotate(-30deg) translateX(150px) ;}
+  100%{ transform: rotate(160deg) translateX(150px) ;  }
+}
+
+
+
+svg{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100vw;
+  height:100vh;
+  z-index:-1;
+  object-fit:cover;
+
+ }
+
+
+.videoBackground{
+  // position:absolute;
+  // top:0;
+  // left:0;
+  width:100vw;
+  height:100vh;
+  // min-width:1020px;
+  z-index:-1;
+  object-fit:cover;
+
+ }
+
+
+.banner{
+  width:100vw;
+  height:100vh;
+  position:relative;
+}
+
+// -----------------------------------------------
+
+#mountain1{
+
+  animation: moveup 5s infinite ease-in-out;
+
+}
+
+#mountain2{
+
+  animation: moveup 5s infinite  ease-in-out;
+  animation-delay:1s;
+
+}
+#mountain3{
+
+  animation: moveup2 3s infinite ease-in-out;
+
+}
+
+.fadeout{
+  animation:fadeoutTitle 6s  ease-in-out;
+}
+
+@keyframes fadeoutTitle {
+  0%{opacity:1}
+  30%{opacity:0}
+  80%{opacity:0}
+  100%{opacity:1}
+}
+
+
+
+
+
+
+#circleflower2{
+  animation: scaleupflower 2s infinite alternate;
+  transform-box:fill-box;
+  transform-origin:center center;
+  animation-timing-function:linear;
+}
+
+#circleflower3{
+  animation: scaleupflower2 4s infinite ease-in-out;
+  transform-box:fill-box;
+  transform-origin:center center;
+}
+
+.homepagefooter{
+  position:absolute;
+  bottom:2%;
+  right:5%;
+//  transform:translateX(-50%);
+}
+
+
+
+// @keyframes scaleupflower{
+// from{
+//  transform: rotate(0) rotateY(0);
+
+// }to{
+//   transform:rotateZ(360deg) rotateY(360deg);
+// }
+// }
+
+
+// @keyframes scaleupflower2{
+//   0%{
+//     // transform-origin: 31% 70%;
+//     opacity:0.7;
+//     transform: scale(1.1);
+//   }50%{
+//     // transform-origin: 31% 70%;
+//     opacity:1;
+//     transform: scale(1.0);
+//   }100%{
+//     // transform-origin: 31% 70%;
+//     transform: scale(1.1);
+//     opacity:0.7;
+
+//   }
+// }
+
+// .flower{
+//   position:absolute;
+//   bottom:-4px;
+//   left:35%;
+//   width:100px;
+//   animation: swing2 ease-in-out 2s infinite alternate;
+//   transform-origin: bottom center;
+
+//  float:left;
+//  z-index:10;
+// }
+
+// .yellowflower{
+
+
+//   position:absolute;
+//   bottom:-2px;
+//   left:30%;
+//   width:100px;
+//   animation: swing ease-in-out 2s infinite alternate;
+//   transform-origin: bottom center;
+
+//  float:left;
+//  z-index:10;
+
+// }
+
+#orangeflower{
+
+
+  width:100px;
+  animation: swing ease-in-out 1s infinite alternate;
+  transform-origin: bottom center;
+  transform-box:fill-box;
+
+ float:left;
+ z-index:10;
+}
+
+#yellowflower{
+
+
+  width:100px;
+  animation: swing ease-in-out 1.5s infinite alternate;
+  transform-origin: bottom center;
+  transform-box:fill-box;
+  float:left;
+  z-index:10;
+
+}
+
+#leaves2{
+  animation: swing ease-in-out 2.5s infinite alternate;
+  transform-origin: bottom center;
+  transform-box:fill-box;
+  animation-delay:250ms;
+}
+
+
+// @keyframes swing {
+//   0% { transform: rotate(5deg);
+//       //  transform-origin:5% -10%;
+//                                }
+//   100% { transform: rotate(-5deg);
+//     // transform-origin:5% -10%;
+
+//   }
+// }
+
+// @keyframes swing2 {
+//   0% { transform: rotate(5deg); }
+//   100% { transform: rotate(-5deg); }
+// }
+
+
+.fieldandMountain{
+  width:105vw;
+  position:absolute;
+  bottom:0;
+  z-index:20;
+}
+
+
+.sun{
+
+  top:10%;
+  width:100px;
+  position:absolute;
+}
+
+.field{
+  width:100vw;
+  // height:100vh;
+  bottom:0;
+  position:absolute;
+
+  z-index:20;
+}
+
+// -----------------------------------------
+
+
+@keyframes scaleup{
+  from{
+    transform:scale(1.0) translateY(0);
+    // opacity:1
+  }
+
+  to{
+    transform:scale(2.5) translateY(30%);
+    // opacity:0
+  }
+}
+
+.transition{
+  animation: scaleup 4s;
+}
+
+.moveToLeft{
+  animation:moveToLeft 4s !important;
+}
+
+@keyframes moveToLeft{
+  0%{
+    transform: translate(0, 0);
+    opacity:1;
+  }40%{
+    transform:translate( -700px, 200px);
+    opacity:0;
+
+  }70%{
+     opacity:0;
+  }100%{
+    transform: translate(0, 0);
+    opacity:0;
+  }
+}
+
+// .fadeout{
+//   animation:fadeout 10s
+// }
+
+.moveToBottom{
+  animation:moveToBottom 4s;
+}
+
+@keyframes moveToBottom{
+  0%{
+    transform: translateY(0);
+    opacity:1;
+
+  }80%{
+    transform: translateY(20%);
+    opacity:0.8;
+
+  }95%{
+    // transform:translateY(20%);
+    opacity:0
+  }100%{
+    transform:translateY(0);
+    opacity:0
+  }
+}
+
+.moveToRight{
+  animation:moveToRight 4s !important;
+}
+
+@keyframes moveToRight{
+  0%{
+    transform: translateX(0);
+  }50%{
+    transform:translateX(300px);
+    opacity:0;
+  }75%{
+    opacity:0;
+
+  }
+
+  100%{
+    transform:translateX(0);
+    opacity:0;
+  }
+}
+
+
+.titleContainer{
+  flex-grow:1;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  z-index:100;
+  position:absolute;
+  transform:translate(-50%, -50%);
+  top:34%;
+  left:50%;
+
+  // @include centercenter;
+
+}
+
+.social{
+  width:100%;
+  margin-top:5%;
+}
+
+.social ul {
+  padding-left: 0 !important;
+}
+
+.button{
+  min-height:45px;
+  min-width:175px;
+  border:none;
+  font-weight:bold;
+  border-radius:30px;
+  margin-top:5%;
+
+}
+
+.exploreBtn{
+    background-color:$beige;
+    color:$orange;
+  }
+
+  .exploreBtn:hover{
+    border:none;
+    background-color:$orange;
+    color:$beige;
+  }
+
+  // .exploreBtn:active{
+  //    transform:translateY(4px);
+  //   //  background-color:#d0c8bc;
+  //    border:none;
+  // }
+
+
+
+  .skipToProjectsBtn{
+    background-color:$orange;
+    color:$beige;
+    margin-left:5%;
+  }
+
+  .skipToProjectsBtn:hover{
+    border:none;
+    background-color:$beige;
+    color:$orange;
+  }
+
+
+
+
+// ---------------------------------------------------
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+
+  .titleContainer{
+    width: 100%;
+    text-align: center;
+  }
+}
+

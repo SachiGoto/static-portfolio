@@ -1,0 +1,121 @@
+@font-face {
+  font-family: karelle ;
+  src: url(../../../assets/greenImg/Karelledemo-vmZA4.otf);
+}
+
+
+p{
+  font-family: 'Karla', sans-serif;
+}
+
+h1,h2,h3{
+  font-family:karelle;
+}
+
+
+
+.app-footer{
+  display:flex;
+  justify-content:baseline;
+}
+
+
+.footer{
+  display:flex;
+  justify-content:center;
+  background-color:#5a7c5a;
+  align-items:center;
+  width:100vw;
+  margin:0;
+
+}
+
+.menuContainer{
+  display:flex;
+  justify-content:start;
+}
+.slogan{
+  color:#F2F2E4;
+}
+ul{
+  list-style-type: none;
+}
+
+ul li {
+  text-align: left;
+  color:white;
+  font-family:karelle;
+}
+
+ul li:hover{
+  color:#be9852;
+}
+
+.rightContainer{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  align-items:center;
+}
+
+.email{
+  text-align:center;
+  color:white;
+}
+
+.socialIcons{
+  justify-content:center;
+
+
+   img{
+      margin:0 2%;
+   }
+
+}
+
+.socialIcons img:hover{
+  fill:#be9852;
+  transform:scale(1.2);
+}
+
+.footerBrandName{
+  color:white;
+}
+.logo{
+  width:80px;
+
+}
+
+h1{font-family:karelle;
+  font-size:20px;
+  color:white;
+}
+
+
+.copyright{
+  text-align:center;
+  margin-top:5%;
+  color:white;
+  font-size:12px;
+}
+
+
+.admin{
+  margin-top:5%;
+
+  a{
+    text-decoration:none;
+  color:white;
+  }
+}
+
+
+@media(max-width:768px){
+  .slogan{
+       text-align:center;
+  }
+
+  .menuContainer{
+    justify-content:center;
+  }
+}

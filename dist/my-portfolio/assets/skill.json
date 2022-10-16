@@ -1,0 +1,815 @@
+
+  {"data":[
+
+    {
+  "id": 1,
+  "attributes": {
+  "SkillName": "Strapi",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-13T17:12:38.750Z",
+  "updatedAt": "2022-07-23T22:19:14.238Z",
+  "publishedAt": "2022-07-13T17:52:19.017Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 143,
+  "attributes": {
+  "name": "strapilogo.png",
+  "alternativeText": "strapilogo.png",
+  "caption": "strapilogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/thumbnail_strapilogo_08768c0606.png",
+  "hash": "thumbnail_strapilogo_08768c0606",
+  "mime": "image/png",
+  "name": "thumbnail_strapilogo.png",
+  "path": null,
+  "size": 1.71,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_strapilogo_08768c0606",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "strapilogo_08768c0606",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 1.26,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/strapilogo_08768c0606.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "strapilogo_08768c0606",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:19:09.333Z",
+  "updatedAt": "2022-07-23T22:19:09.333Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 2,
+  "attributes": {
+  "SkillName": "HTML",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-13T17:13:08.006Z",
+  "updatedAt": "2022-08-09T06:14:13.615Z",
+  "publishedAt": "2022-07-13T17:13:33.115Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 145,
+  "attributes": {
+  "name": "htmllogo.png",
+  "alternativeText": "HTML icon",
+  "caption": "htmllogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_htmllogo_ef52f7d90b.png",
+  "hash": "thumbnail_htmllogo_ef52f7d90b",
+  "mime": "image/png",
+  "name": "thumbnail_htmllogo.png",
+  "path": null,
+  "size": 11.13,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_htmllogo_ef52f7d90b",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "htmllogo_ef52f7d90b",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 2.95,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/htmllogo_ef52f7d90b.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "htmllogo_ef52f7d90b",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:04.812Z",
+  "updatedAt": "2022-08-09T06:14:11.267Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 3,
+  "attributes": {
+  "SkillName": "CSS",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-13T17:39:55.375Z",
+  "updatedAt": "2022-08-09T06:13:31.008Z",
+  "publishedAt": "2022-07-13T17:39:59.240Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 144,
+  "attributes": {
+  "name": "csslogo.png",
+  "alternativeText": "CSS icon",
+  "caption": "csslogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_csslogo_d6a153eed0.png",
+  "hash": "thumbnail_csslogo_d6a153eed0",
+  "mime": "image/png",
+  "name": "thumbnail_csslogo.png",
+  "path": null,
+  "size": 10.16,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_csslogo_d6a153eed0",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "csslogo_d6a153eed0",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 2.45,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/csslogo_d6a153eed0.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "csslogo_d6a153eed0",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:04.659Z",
+  "updatedAt": "2022-08-09T06:13:28.679Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 4,
+  "attributes": {
+  "SkillName": "WordPress",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:14:01.606Z",
+  "updatedAt": "2022-07-23T22:08:07.774Z",
+  "publishedAt": "2022-07-16T19:14:18.075Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 133,
+  "attributes": {
+  "name": "tool-logos_0013_wordpresslogo.png.png",
+  "alternativeText": "tool-logos_0013_wordpresslogo.png.png",
+  "caption": "tool-logos_0013_wordpresslogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613367/thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9.png",
+  "hash": "thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0013_wordpresslogo.png.png",
+  "path": null,
+  "size": 25.55,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 7.79,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0013_wordpresslogo_png_f3af0122e9.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0013_wordpresslogo_png_f3af0122e9",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.752Z",
+  "updatedAt": "2022-07-23T21:56:08.752Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 5,
+  "attributes": {
+  "SkillName": "Figma",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-16T19:24:19.441Z",
+  "updatedAt": "2022-08-09T06:13:52.240Z",
+  "publishedAt": "2022-07-16T19:24:24.127Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 138,
+  "attributes": {
+  "name": "tool-logos_0004_figmalogo.webp.png",
+  "alternativeText": "Figma icon",
+  "caption": "tool-logos_0004_figmalogo.webp.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887.png",
+  "hash": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0004_figmalogo.webp.png",
+  "path": null,
+  "size": 15.67,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0004_figmalogo_webp_335b5f3887",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0004_figmalogo_webp_335b5f3887",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 8.13,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0004_figmalogo_webp_335b5f3887",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.297Z",
+  "updatedAt": "2022-08-09T06:13:49.710Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 6,
+  "attributes": {
+  "SkillName": "Adobe Illustrator",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:26:23.659Z",
+  "updatedAt": "2022-08-09T05:49:31.959Z",
+  "publishedAt": "2022-07-16T19:26:26.729Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 135,
+  "attributes": {
+  "name": "tool-logos_0006_illustratorlogo.png.png",
+  "alternativeText": "Adobe Illustrator icon",
+  "caption": "tool-logos_0006_illustratorlogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "hash": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0006_illustratorlogo.png.png",
+  "path": null,
+  "size": 6.94,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.33,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0006_illustratorlogo_png_918390455c",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.932Z",
+  "updatedAt": "2022-08-09T05:49:28.775Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 7,
+  "attributes": {
+  "SkillName": "Adobe Photoshop",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:27:08.270Z",
+  "updatedAt": "2022-08-09T06:12:30.908Z",
+  "publishedAt": "2022-07-16T19:27:11.338Z",
+  "Category": "Design tools",
+  "SkillLogo": {
+  "data": {
+  "id": 140,
+  "attributes": {
+  "name": "tool-logos_0008_photoshoplogo.png.png",
+  "alternativeText": "Adobe Photoshop icon.png",
+  "caption": "tool-logos_0008_photoshoplogo.png.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613369/thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329.png",
+  "hash": "thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0008_photoshoplogo.png.png",
+  "path": null,
+  "size": 7.86,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0008_photoshoplogo_png_ba50718329",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0008_photoshoplogo_png_ba50718329",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.32,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0008_photoshoplogo_png_ba50718329.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0008_photoshoplogo_png_ba50718329",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.363Z",
+  "updatedAt": "2022-08-09T06:12:28.213Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 8,
+  "attributes": {
+  "SkillName": "Node.js",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:27:54.142Z",
+  "updatedAt": "2022-08-09T06:15:17.585Z",
+  "publishedAt": "2022-07-16T19:27:57.101Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 141,
+  "attributes": {
+  "name": "tool-logos_0007_nodejslogo.png.png",
+  "alternativeText": "Node.js icon",
+  "caption": "tool-logos_0007_nodejslogo.png.png",
+  "width": 268,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613369/thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a.png",
+  "hash": "thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0007_nodejslogo.png.png",
+  "path": null,
+  "size": 10.93,
+  "width": 139,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 3.17,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0007_nodejslogo_png_85d0e8ab1a",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.381Z",
+  "updatedAt": "2022-08-09T06:15:15.392Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 9,
+  "attributes": {
+  "SkillName": "Angular",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:28:18.950Z",
+  "updatedAt": "2022-08-09T06:12:51.207Z",
+  "publishedAt": "2022-07-16T19:28:23.132Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 130,
+  "attributes": {
+  "name": "tool-logos_0001_angularlogo.png.png",
+  "alternativeText": "Angular icon",
+  "caption": "tool-logos_0001_angularlogo.png.png",
+  "width": 282,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/thumbnail_tool_logos_0001_angularlogo_png_b2b0087835.png",
+  "hash": "thumbnail_tool_logos_0001_angularlogo_png_b2b0087835",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0001_angularlogo.png.png",
+  "path": null,
+  "size": 13.27,
+  "width": 147,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0001_angularlogo_png_b2b0087835",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0001_angularlogo_png_b2b0087835",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 4.62,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0001_angularlogo_png_b2b0087835",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:08.055Z",
+  "updatedAt": "2022-08-09T06:12:48.587Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 10,
+  "attributes": {
+  "SkillName": "Javascript",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-16T19:28:40.074Z",
+  "updatedAt": "2022-08-09T06:14:33.815Z",
+  "publishedAt": "2022-07-16T19:28:43.024Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 146,
+  "attributes": {
+  "name": "javascriptlogo.png",
+  "alternativeText": "Javascript icon",
+  "caption": "javascriptlogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616604/thumbnail_javascriptlogo_e9cd1e54b8.png",
+  "hash": "thumbnail_javascriptlogo_e9cd1e54b8",
+  "mime": "image/png",
+  "name": "thumbnail_javascriptlogo.png",
+  "path": null,
+  "size": 28.08,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_javascriptlogo_e9cd1e54b8",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "javascriptlogo_e9cd1e54b8",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 15.61,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/javascriptlogo_e9cd1e54b8.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "javascriptlogo_e9cd1e54b8",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T22:50:05.153Z",
+  "updatedAt": "2022-08-09T06:14:31.402Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 11,
+  "attributes": {
+  "SkillName": "MySQL",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-17T23:46:02.217Z",
+  "updatedAt": "2022-08-09T06:14:56.863Z",
+  "publishedAt": "2022-07-17T23:47:53.693Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 142,
+  "attributes": {
+  "name": "tool-logos_0009_Layer-2.png",
+  "alternativeText": "MySQL icon",
+  "caption": "tool-logos_0009_Layer-2.png",
+  "width": 300,
+  "height": 204,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0009_Layer_2_ce625068fe.png",
+  "hash": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0009_Layer-2.png",
+  "path": null,
+  "size": 38.55,
+  "width": 229,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0009_Layer_2_ce625068fe",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 9.1,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0009_Layer_2_ce625068fe",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.439Z",
+  "updatedAt": "2022-08-09T06:14:54.572Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 12,
+  "attributes": {
+  "SkillName": "Bootstrap",
+  "SkillScore": "Four",
+  "createdAt": "2022-07-23T16:46:40.907Z",
+  "updatedAt": "2022-08-09T06:13:12.189Z",
+  "publishedAt": "2022-07-23T17:11:25.019Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 136,
+  "attributes": {
+  "name": "tool-logos_0012_bootstrap-logo.png",
+  "alternativeText": "Bootstrap icon",
+  "caption": "tool-logos_0012_bootstrap-logo.png",
+  "width": 298,
+  "height": 237,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47.png",
+  "hash": "thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0012_bootstrap-logo.png",
+  "path": null,
+  "size": 24.3,
+  "width": 196,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 8.66,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0012_bootstrap_logo_d5b8d7eb47.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0012_bootstrap_logo_d5b8d7eb47",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.201Z",
+  "updatedAt": "2022-08-09T06:13:09.621Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 13,
+  "attributes": {
+  "SkillName": "Sass",
+  "SkillScore": "Three",
+  "createdAt": "2022-07-23T17:25:40.849Z",
+  "updatedAt": "2022-07-23T22:07:30.707Z",
+  "publishedAt": "2022-07-23T18:32:12.185Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 137,
+  "attributes": {
+  "name": "tool-logos_0011_Sasslogo.png",
+  "alternativeText": "tool-logos_0011_Sasslogo.png",
+  "caption": "tool-logos_0011_Sasslogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613368/thumbnail_tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "hash": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "mime": "image/png",
+  "name": "thumbnail_tool-logos_0011_Sasslogo.png",
+  "path": null,
+  "size": 13.99,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 4.76,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "tool_logos_0011_Sasslogo_4c59ce2844",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-23T21:56:09.245Z",
+  "updatedAt": "2022-07-23T21:56:09.245Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 14,
+  "attributes": {
+  "SkillName": "PHP",
+  "SkillScore": "Two",
+  "createdAt": "2022-08-10T18:53:31.858Z",
+  "updatedAt": "2022-08-10T18:53:35.064Z",
+  "publishedAt": "2022-08-10T18:53:34.993Z",
+  "Category": "Backend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 217,
+  "attributes": {
+  "name": "phplogo.png",
+  "alternativeText": "phplogo.png",
+  "caption": "phplogo.png",
+  "width": 300,
+  "height": 300,
+  "formats": {
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/thumbnail_phplogo_a79a7d0702.png",
+  "hash": "thumbnail_phplogo_a79a7d0702",
+  "mime": "image/png",
+  "name": "thumbnail_phplogo.png",
+  "path": null,
+  "size": 19.11,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_phplogo_a79a7d0702",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "phplogo_a79a7d0702",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 9.04,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/phplogo_a79a7d0702.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "phplogo_a79a7d0702",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-08-10T18:53:22.261Z",
+  "updatedAt": "2022-08-10T18:53:22.261Z"
+  }
+  }
+  }
+  }
+  },
+  {
+  "id": 15,
+  "attributes": {
+  "SkillName": "Jira",
+  "SkillScore": null,
+  "createdAt": "2022-09-02T22:39:57.454Z",
+  "updatedAt": "2022-09-02T23:16:41.551Z",
+  "publishedAt": "2022-09-02T22:40:02.583Z",
+  "Category": "Frontend development tools",
+  "SkillLogo": {
+  "data": {
+  "id": 230,
+  "attributes": {
+  "name": "atlassian_jira_logo_icon_170511.png",
+  "alternativeText": "atlassian_jira_logo_icon_170511.png",
+  "caption": "atlassian_jira_logo_icon_170511.png",
+  "width": 512,
+  "height": 512,
+  "formats": {
+  "small": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662160595/small_atlassian_jira_logo_icon_170511_4eb19b4f96.png",
+  "hash": "small_atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "mime": "image/png",
+  "name": "small_atlassian_jira_logo_icon_170511.png",
+  "path": null,
+  "size": 50.19,
+  "width": 500,
+  "height": 500,
+  "provider_metadata": {
+  "public_id": "small_atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".png",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662160594/thumbnail_atlassian_jira_logo_icon_170511_4eb19b4f96.png",
+  "hash": "thumbnail_atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "mime": "image/png",
+  "name": "thumbnail_atlassian_jira_logo_icon_170511.png",
+  "path": null,
+  "size": 6.97,
+  "width": 156,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "ext": ".png",
+  "mime": "image/png",
+  "size": 7.34,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662160594/atlassian_jira_logo_icon_170511_4eb19b4f96.png",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "atlassian_jira_logo_icon_170511_4eb19b4f96",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-09-02T23:16:35.921Z",
+  "updatedAt": "2022-09-02T23:16:35.921Z"
+  }
+  }
+  }
+  }
+  }
+]
+  }

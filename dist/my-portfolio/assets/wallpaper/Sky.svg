@@ -1,0 +1,19 @@
+<svg width="2145" height="1179" viewBox="0 0 2145 1179" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Sky">
+<rect width="2144.7" height="1178.78" fill="url(#paint0_linear_29_2)"/>
+<g id="sun">
+<path id="Vector" d="M1359.2 316.392C1430.55 316.392 1488.39 258.549 1488.39 187.196C1488.39 115.843 1430.55 58 1359.2 58C1287.84 58 1230 115.843 1230 187.196C1230 258.549 1287.84 316.392 1359.2 316.392Z" fill="url(#paint1_linear_29_2)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_29_2" x1="1072.35" y1="0" x2="1072.35" y2="1178.78" gradientUnits="userSpaceOnUse">
+<stop offset="0.0255469" stop-color="#00B5E2"/>
+<stop offset="0.381361" stop-color="#04DFFD"/>
+<stop offset="0.958333" stop-color="#28979E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_29_2" x1="1357.78" y1="82.334" x2="1361.28" y2="340.704" gradientUnits="userSpaceOnUse">
+<stop offset="0.03" stop-color="#E3E660"/>
+<stop offset="0.44" stop-color="#E4EEBF"/>
+</linearGradient>
+</defs>
+</svg>

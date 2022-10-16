@@ -1,0 +1,179 @@
+@mixin center_center(){
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+header{
+  width:100%;
+}
+
+.headerBrandName{
+  color: #5a7c5a;
+  font-size:20px;
+}
+.bigContainer{
+  @include center_center();
+}
+
+
+
+// .headerBg{
+  // background-image:url("./assets/greenAroundTheWorld.jpg");
+  // background-size:cover;
+// }
+
+.logo{
+
+  @include center_center();
+  // flex-direction:column;
+  //  width:200px;
+  // height:200px;
+  // margin: 0 auto;
+  // height:100%;
+
+  img{
+    width:150px;
+    // margin-bottom:10px;
+    // margin-top:30px;
+  }
+  h1{
+    font-size:1.5vw;
+  }
+}
+
+.navbar{
+  width: 100vw;
+}
+
+.navbarItemsMiddle{
+  display:flex;
+  justify-content:center;
+}
+
+.navbarItemsRight{
+  display:flex;
+  justify-content:center;
+}
+
+.nav-item{
+  margin-right:25px;
+}
+
+.nav-link{
+  display: inline-block;
+  padding-bottom:2px;
+  background-image: linear-gradient(#597c5a, #597c5a);
+  background-position: right -100% bottom 0;
+  background-size: 200% 2px;
+  background-repeat: no-repeat;
+  // font-size:1.75vw !important;
+  font-size:clamp(18px ,1.75vw, 25px);
+  color: #be9852 !important;
+  font-family: 'Lato', sans-serif;
+
+     img{
+      width:30px;
+     }
+}
+
+.nav-link-shop:hover, .nav-link-about:hover, .nav-link-contact:hover{
+  animation: linethrough 2s;
+  animation-fill-mode: forwards;
+}
+
+.nav-link:hover {
+  // background-position: left -100% bottom 0;
+  // transition: background-position 0.5s;
+  // animation: linethrough 2s;
+  // animation-fill-mode: forwards;
+}
+
+@keyframes linethrough {
+
+  0%{
+    background-position: right -100% bottom 0;
+  }50%{
+    background-position: left -100% bottom 0;
+  }100%{
+    background-position: right 100% bottom 0;
+  }
+
+
+}
+
+.navContainer{
+  @include center_center();
+  height:15vh;
+
+  // margin:0 auto;
+}
+
+
+
+
+
+a{
+   text-decoration:none;
+ }
+
+
+
+h1{
+  text-align:center;
+  font-family:karelle;
+}
+
+img{
+  object-fit:cover;
+  width:100%;
+  height:100%;
+
+}
+
+// .heroImage{
+//   width:100vw;
+//   height:80vh;
+// }
+
+
+.navbar-toggler{
+  position: absolute;
+  top: 1em;
+  left: 1em;
+
+}
+
+
+
+
+@media(min-width:768px){
+  .hamburgerIcon{
+    display:none;
+  }
+
+
+
+
+}
+
+@media(max-width:767px){
+  .navbar-expand-md{
+    width: 100vw;
+      margin-top: 10%;
+      background-color:white;
+      z-index:100;
+      padding-left:10%;
+  }
+
+
+}
+// .adminBtn{
+//   margin-left:3rem;
+//   color:darkblue;
+//   font-size:12px;
+// }
+
+// .adminBtn:hover{
+//   color: lightblue;
+// }
