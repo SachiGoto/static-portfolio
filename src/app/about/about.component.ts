@@ -24,7 +24,7 @@ export class AboutComponent implements OnInit {
   }
   fullbio:any;
   headshotAltText:string='';
-  resume:string='';
+  resume:string='https://res.cloudinary.com/vanarts-webdev/image/upload/v1664231494/sachigoto_resume_70ac4dc54f.pdf';
 
   skills:Skill[]=[]
   designSkills:any =[];
