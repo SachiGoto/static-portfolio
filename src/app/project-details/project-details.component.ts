@@ -136,7 +136,7 @@ selected = false;
 
 ngAfterViewChecked(){
   const container = document.querySelector(".imagecontainer")
-  const titleContainer = document.querySelector(".titleContainer")
+  const titleContainer = document.querySelector(".devtitleContainer")
   if(!this.selected && container){
   console.log(container, titleContainer)
   this.selected = true
