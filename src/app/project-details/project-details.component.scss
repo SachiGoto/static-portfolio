@@ -141,60 +141,56 @@ html{scroll-behavior: smooth;}
 
 
 .designContainer{
-  display:flex;
-  flex-direction:column;
-  align-items: center;
-  justify-content: center;
-  padding-top:20vw;
+  display:block;
+  margin-top:5%;
+
+  // flex-direction:column;
+  // align-items: center;
+  // justify-content: center;
+  // padding-top:50px;
+  // margin-top:10vw;
 
    div{
     img{
-      width:70%;
+      width:80%;
       // height:50%;
       // object-fit:cover;
     }
    }
 
   .titleContainer{
-    // position:fixed;
     height:100vh;
-    // width:100vw;
     display:flex;
-    // justify-content:center;
+    width:100%;
     align-items:center;
     flex-direction:column;
-    // position:absolute;
-    // left:0;
-    background-position:bottom;
-    background-size:contain;
-    margin-top:4%;
+    justify-content:start;
+    // background-position:bottom;
+    // background-size:contain;
+    margin-top:5%;
+    // width:100%;
 
-
+   .projectContent{
+    width:100%;
+   }
     h1{
-      // position:fixed;
-      // top:50%;
-      // left:50%;
-      // transform:translate(-50%,-50%)
       font-size:clamp(20px, 3.5vw, 35px);
+      text-align:center;
+    }
+    h4{
+      text-align:center;
     }
     h2{
-      // position:fixed;
-      // top:57%;
-      // left:50%;
-      // transform:translate(-50%,-57%)
       font-size:clamp(17px, 3.3vw, 32px);
+      text-align:center;
+    }
+    li{
+      text-align:center;
     }
 
     div{
 
-      width:70%;
-      margin:auto;
-      // text-align:center;
-
-
-
-
-
+      width:80%;
     }
 
 
@@ -536,16 +532,17 @@ html{scroll-behavior: smooth;}
 
 
 .designContainer{
-  padding-top:10vw;
-  display:flex;
-  flex-direction:column;
+  // margin-top:10vw;
+  // display:flex;
+  // flex-direction:column;
+  // padding-top:300px;
 
    div{
        width:100%;
 
 
         img{
-          width:60%;
+          width:70%;
           max-width:700px;
         }
    }
@@ -652,11 +649,19 @@ html{scroll-behavior: smooth;}
         width:50%;
         margin-top:2%;
         justify-content:center;
-        margin-left:0;
+        margin-left:50px;
+
+        .projectContent{
+          p ul li{
+            line-height:10px;
+          }
+        }
 
 
 
       }
+
+
   }
 
 

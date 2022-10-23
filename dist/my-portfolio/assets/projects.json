@@ -4035,9 +4035,9 @@
       {
         "id": 7,
         "attributes": {
-        "Title": "To Do List",
-        "Summary": "To do list with log in and sign up feature. Users can create their own account and create to do list. Implemented authentication and form validation useing passport.js.\n",
-        "Description": "<p>Details</p><ul><li>This to do has log in and sign up system using passport.js. Front end is created with ejs and backend is created with node.js and mongoDB. </li> <li>Once you create an account and logged in and add some tasks, these tasks will be saved in mongoDB.</li><li> Even when you loged out and log back in, you will see all the tasks you added in the past ( if you didn't delete them form the list). </li> <li>Double click to a task to complete a task. Click the trash bin icon to delete the task.</li><li>Users can see how many tasks are incomplete. <ul>",
+        "Title": "My To Do List",
+        "Summary": "This to do list has log in and sign up features. Once they logged in, they can see tasks they added.",
+        "Description":"<p>Details</p><ul><li> Log in and sign up authentication is implemented by using passport.js. Sign-up and login also have form validation. The front end is created with EJS and the back end is created with node.js and MongoDB. </li> <li>Once you created an account and logged in and add some tasks, these tasks will be saved in MongoDB.</li><li> Even when you log out and log back in, you will see all the tasks you added in the past (as long as you didn't delete them from the list). </li> <li>Double click to complete a task. Click the trash bin icon to delete the task.</li><li>Users can see how many tasks are incomplete.</li> <ul>",
         "WebLink": "https://sachitodolist.herokuapp.com/",
         "Trailer": "https://github.com/SachiGoto/to-do-mvc-auth.git",
         "StartDate": "2022-03-01",
