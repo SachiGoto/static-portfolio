@@ -174,7 +174,7 @@ svg{
   width:100px;
   animation: swing ease-in-out 1s infinite alternate;
   transform-origin: bottom center;
-  transform-box:fill-box;
+  // transform-box:fill-box;
 
  float:left;
  z-index:10;
@@ -186,14 +186,14 @@ svg{
   width:100px;
   animation: swing ease-in-out 1.5s infinite alternate;
   transform-origin: bottom center;
-  transform-box:fill-box;
+  // transform-box:fill-box;
   float:left;
   z-index:10;
 
 }
 
 #leaves2{
-  animation: swing ease-in-out 2.5s infinite alternate;
+  // animation: swing ease-in-out 2.5s infinite alternate;
   transform-origin: bottom center;
   transform-box:fill-box;
   animation-delay:250ms;

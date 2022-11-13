@@ -390,10 +390,7 @@ h2{
 
 // }
 
-.listTitle{
-  text-align:center;
-  margin-top:10%;
-}
+
 
 
 .lists{
@@ -651,12 +648,29 @@ h2{
   padding:2%;
   width:80%;
   margin:5% auto 30% auto;
+  display:flex;
+  flex-direction: column;
+
+
+.listTitle {
+  text-align:center;
+  margin-top:10%;
+}
+
+h4{
+  text-align:center;
+}
+.fa-medium{
+  margin-left:10px;
+}
 
   .lists{
     justify-content:center;
 
   }
 }
+
+
 
 .secondaryBtn{
   // background-color:blue;
