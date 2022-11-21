@@ -143,9 +143,11 @@
 
 @keyframes swing {
   0% { transform: rotate(5deg);
+        // transform:translateX(200px)
       //  transform-origin:5% -10%;
                                }
   100% { transform: rotate(-5deg);
+
     // transform-origin:5% -10%;
 
   }
