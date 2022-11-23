@@ -3702,7 +3702,7 @@
       "Summary": "I designed an app called Wakie Wakie. This app alerts people when their train gets close to their destination. ",
       "Description": "<p>My research focused on people who have difficulty waking up before they arrive at their destinations. I then studied other alert apps. Once I had a better understanding of the problems, I developed a wireframe and mockups.&nbsp;</p>",
       "WebLink": "https://www.behance.net/gallery/148307473/Wakie-Wakie",
-      "Trailer": "https://www.figma.com/proto/n2Z5E2dGcE4LYkwb7WTIKt/wakie-wakie?page-id=0%3A1&node-id=1%3A333&viewport=436%2C317%2C0.1&scaling=scale-down&starting-point-node-id=1%3A333",
+      "Trailer": "",
       "StartDate": "2022-05-15",
       "EndDate": "2022-05-31",
       "ClientName": null,
@@ -4039,11 +4039,11 @@
         "Summary": "This to do list has log in and sign up features. Once they logged in, they can see tasks they added.",
         "Description":"<p>Details</p><ul><li> Log in and sign up authentication is implemented by using passport.js. Sign-up and login also have form validation. The front end is created with EJS and the back end is created with node.js and MongoDB. </li> <li>Once you created an account and logged in and add some tasks, these tasks will be saved in MongoDB.</li><li> Even when you log out and log back in, you will see all the tasks you added in the past (as long as you didn't delete them from the list). </li> <li>Double click to complete a task. Click the trash bin icon to delete the task.</li><li>Users can see how many tasks are incomplete.</li> <ul>",
         "WebLink": "https://sachitodolist.herokuapp.com/",
-        "Trailer": "https://github.com/SachiGoto/to-do-mvc-auth.git",
+        "Trailer": "https://github.com/SachiGoto/sachi-todo-list.git",
         "StartDate": "2022-03-01",
         "EndDate": "2022-06-01",
         "ClientName": "",
-        "Category": "UX Design",
+        "Category": "Projects",
         "createdAt": "2022-07-13T18:49:34.183Z",
         "updatedAt": "2022-09-21T06:39:09.151Z",
         "publishedAt": "2022-07-13T18:49:37.795Z",
@@ -4073,21 +4073,7 @@
         "public_id": "large_greenworldhomepgage_317bbd15e2",
         "resource_type": "image"
         }
-        },
-        "small": {
-        "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/small_greenworldhomepgage_317bbd15e2.png",
-        "hash": "small_greenworldhomepgage_317bbd15e2",
-        "mime": "image/png",
-        "name": "small_greenworldhomepgage.png",
-        "path": null,
-        "size": 288.95,
-        "width": 500,
-        "height": 261,
-        "provider_metadata": {
-        "public_id": "small_greenworldhomepgage_317bbd15e2",
-        "resource_type": "image"
-        }
+
         },
         "medium": {
         "ext": ".png",
@@ -4103,34 +4089,15 @@
         "public_id": "medium_greenworldhomepgage_317bbd15e2",
         "resource_type": "image"
         }
-        },
-        "thumbnail": {
-        "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842229/thumbnail_greenworldhomepgage_317bbd15e2.png",
-        "hash": "thumbnail_greenworldhomepgage_317bbd15e2",
-        "mime": "image/png",
-        "name": "thumbnail_greenworldhomepgage.png",
-        "path": null,
-        "size": 74.71,
-        "width": 245,
-        "height": 128,
-        "provider_metadata": {
-        "public_id": "thumbnail_greenworldhomepgage_317bbd15e2",
-        "resource_type": "image"
-        }
         }
         },
-        "hash": "greenworldhomepgage_317bbd15e2",
+        "hash": "togolist",
         "ext": ".png",
         "mime": "image/png",
         "size": 820.73,
         "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666226983/todogif_fostg1.gif",
         "previewUrl": null,
         "provider": "cloudinary",
-        "provider_metadata": {
-        "public_id": "greenworldhomepgage_317bbd15e2",
-        "resource_type": "image"
-        },
         "createdAt": "2022-08-07T03:17:14.087Z",
         "updatedAt": "2022-08-09T05:45:43.570Z"
         }
@@ -4261,7 +4228,7 @@
         "formats": {
         "large": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842232/large_greenworldhomepgage_317bbd15e2.png",
+        "url": "",
         "hash": "large_greenworldhomepgage_317bbd15e2",
         "mime": "image/png",
         "name": "large_greenworldhomepgage.png",
@@ -4276,7 +4243,7 @@
         },
         "small": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/small_greenworldhomepgage_317bbd15e2.png",
+        "url": "",
         "hash": "small_greenworldhomepgage_317bbd15e2",
         "mime": "image/png",
         "name": "small_greenworldhomepgage.png",
@@ -4291,7 +4258,7 @@
         },
         "medium": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842233/medium_greenworldhomepgage_317bbd15e2.png",
+        "url": "",
         "hash": "medium_greenworldhomepgage_317bbd15e2",
         "mime": "image/png",
         "name": "medium_greenworldhomepgage.png",
@@ -4306,7 +4273,7 @@
         },
         "thumbnail": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842229/thumbnail_greenworldhomepgage_317bbd15e2.png",
+        "url": "",
         "hash": "thumbnail_greenworldhomepgage_317bbd15e2",
         "mime": "image/png",
         "name": "thumbnail_greenworldhomepgage.png",
@@ -4324,7 +4291,7 @@
         "ext": ".png",
         "mime": "image/png",
         "size": 820.73,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png",
+        "url": "",
         "previewUrl": null,
         "provider": "cloudinary",
         "provider_metadata": {
@@ -4346,7 +4313,7 @@
         "formats": {
         "large": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841426/large_greenworldaboutpage_60d2497ca2.png",
+        "url": "",
         "hash": "large_greenworldaboutpage_60d2497ca2",
         "mime": "image/png",
         "name": "large_greenworldaboutpage.png",
@@ -4361,7 +4328,7 @@
         },
         "small": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841428/small_greenworldaboutpage_60d2497ca2.png",
+        "url": "",
         "hash": "small_greenworldaboutpage_60d2497ca2",
         "mime": "image/png",
         "name": "small_greenworldaboutpage.png",
@@ -4376,7 +4343,7 @@
         },
         "medium": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841427/medium_greenworldaboutpage_60d2497ca2.png",
+        "url": "",
         "hash": "medium_greenworldaboutpage_60d2497ca2",
         "mime": "image/png",
         "name": "medium_greenworldaboutpage.png",
@@ -4391,7 +4358,7 @@
         },
         "thumbnail": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841423/thumbnail_greenworldaboutpage_60d2497ca2.png",
+        "url": "",
         "hash": "thumbnail_greenworldaboutpage_60d2497ca2",
         "mime": "image/png",
         "name": "thumbnail_greenworldaboutpage.png",
@@ -4409,7 +4376,7 @@
         "ext": ".png",
         "mime": "image/png",
         "size": 590.01,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/greenworldaboutpage_60d2497ca2.png",
+        "url": "",
         "previewUrl": null,
         "provider": "cloudinary",
         "provider_metadata": {
@@ -4431,7 +4398,7 @@
         "formats": {
         "large": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/large_greenworldproductpgage_389dc15034.png",
+        "url": "",
         "hash": "large_greenworldproductpgage_389dc15034",
         "mime": "image/png",
         "name": "large_greenworldproductpgage.png",
@@ -4446,7 +4413,7 @@
         },
         "small": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/small_greenworldproductpgage_389dc15034.png",
+        "url": "",
         "hash": "small_greenworldproductpgage_389dc15034",
         "mime": "image/png",
         "name": "small_greenworldproductpgage.png",
@@ -4461,7 +4428,7 @@
         },
         "medium": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/medium_greenworldproductpgage_389dc15034.png",
+        "url": "",
         "hash": "medium_greenworldproductpgage_389dc15034",
         "mime": "image/png",
         "name": "medium_greenworldproductpgage.png",
@@ -4476,7 +4443,7 @@
         },
         "thumbnail": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841415/thumbnail_greenworldproductpgage_389dc15034.png",
+        "url": "",
         "hash": "thumbnail_greenworldproductpgage_389dc15034",
         "mime": "image/png",
         "name": "thumbnail_greenworldproductpgage.png",
@@ -4494,7 +4461,7 @@
         "ext": ".png",
         "mime": "image/png",
         "size": 166.37,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841413/greenworldproductpgage_389dc15034.png",
+        "url": "",
         "previewUrl": null,
         "provider": "cloudinary",
         "provider_metadata": {
@@ -4516,7 +4483,7 @@
         "formats": {
         "large": {
         "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841421/large_individualproductpage_6b97a50369.png",
+        "url": "",
         "hash": "large_individualproductpage_6b97a50369",
         "mime": "image/png",
         "name": "large_individualproductpage.png",

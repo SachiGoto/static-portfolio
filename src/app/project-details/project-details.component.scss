@@ -7,14 +7,7 @@
 
 html{scroll-behavior: smooth;}
 
-.projectDetailContainer{
-  animation: fadein 3s;
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
+
 
 // @keyframes fadein {
 // 0%{opacity:0}
@@ -34,23 +27,6 @@ html{scroll-behavior: smooth;}
 
  }
 
-
-.container{
-  height:80vh;
-  // margin: 0;
-  //   height: 100vh;
-  //   padding: 0;
-  //   width: 100vw;
-  //   max-width:unset;
-    // background:url(../../assets/wallpaper/backgroundevening3.svg);
-    // background-size:cover;
-    // background-position:center;
-    // position:fixed;
-    // z-index:-20;
-    // top:0;
-
-}
-
 #sun{
    animation: glow 10s ease-in-out infinite;
    transform-box:fill-box;
@@ -65,7 +41,70 @@ html{scroll-behavior: smooth;}
 
 }
 
+#mountain3{
 
+    animation: moveup 3s ease-in-out infinite;
+}
+
+#mountain1{
+  animation: moveup 2s ease-in-out infinite;
+}
+
+
+// project layout ----------------------------------------
+
+.developmentProjectDetailContainer{
+  animation: fadein 3s;
+  width: 100vw;
+  // height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.projectContainer{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  align-items:center;
+  // min-height:200vh;
+
+  // margin-top:20%;
+    .titleContainer{
+      width:90%;
+
+        h1{
+          text-align:center;
+          margin-top:5%;
+        }
+
+        h4{
+          text-align:center;
+        }
+    }
+}
+
+.imgContainer{
+
+   width:90%;
+
+    img{
+      width:100%;
+    }
+
+}
+
+
+// development layout -------------------------------------
+
+.developmentProjectDetailContainer{
+  animation: fadein 3s;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
 
 .developmentContainer{
   display:flex;
@@ -138,7 +177,15 @@ html{scroll-behavior: smooth;}
 }
 
 
-
+// design layout -------------------------------------------------
+.developmentProjectDetailContainer{
+  animation: fadein 3s;
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
 
 .designContainer{
   display:block;
@@ -159,7 +206,7 @@ html{scroll-behavior: smooth;}
    }
 
   .titleContainer{
-    height:100vh;
+    // height:100vh;
     display:flex;
     width:100%;
     align-items:center;
@@ -530,6 +577,10 @@ html{scroll-behavior: smooth;}
   flex-direction: row;
 }
 
+.projectContainer{
+  max-width:1000px;
+}
+
 
 .designContainer{
   // margin-top:10vw;
@@ -553,6 +604,15 @@ html{scroll-behavior: smooth;}
 }
 
 
+}
+
+
+@media(min-width:768px){
+  .projectContainer{
+      .imgContainer{
+        width:60%;
+      }
+  }
 }
 
 @media(min-width:997px){
@@ -638,7 +698,7 @@ html{scroll-behavior: smooth;}
 
          display:flex;
          justify-content:end;
-         align-items:center;
+        //  align-items:center;
            img{
             width:90%;
             max-width:800px;
