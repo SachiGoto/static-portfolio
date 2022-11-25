@@ -53,9 +53,10 @@ html{scroll-behavior: smooth;}
 
 // project layout ----------------------------------------
 
-.developmentProjectDetailContainer{
+.projectDetailContainer{
   animation: fadein 3s;
   width: 100vw;
+  margin-top:10vh;
   // height: 80vh;
   display: flex;
   justify-content: center;
@@ -101,6 +102,7 @@ html{scroll-behavior: smooth;}
   animation: fadein 3s;
   width: 100vw;
   height: 100vh;
+  margin-top:10vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -123,7 +125,7 @@ html{scroll-behavior: smooth;}
 
 
      .devtitleContainer{
-      position:fixed;
+      position:relative;
       display: flex;
     flex-direction: column;
     align-items: center;
@@ -148,6 +150,7 @@ html{scroll-behavior: smooth;}
       }
 
       .galleryContainer{
+        margin-bottom: 280px;
          svg{
           margin-left: 10px;
          }
@@ -178,10 +181,11 @@ html{scroll-behavior: smooth;}
 
 
 // design layout -------------------------------------------------
-.developmentProjectDetailContainer{
+.designProjectDetailContainer{
   animation: fadein 3s;
   width: 100vw;
   height: 80vh;
+  margin-top:10vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -550,7 +554,8 @@ html{scroll-behavior: smooth;}
 
 
     .galleryContainer{
-
+     
+        margin-bottom:0;
 
       svg{
         width:100px;
@@ -577,8 +582,25 @@ html{scroll-behavior: smooth;}
   flex-direction: row;
 }
 
+.devtitleContainer{
+  position:fixed;
+}
+
+.developmentProjectDetailContainer{
+  
+  margin-top:0;
+ 
+}
+
 .projectContainer{
   max-width:1000px;
+}
+
+.designProjectDetailContainer{
+ 
+ 
+  margin-top:0;
+ 
 }
 
 

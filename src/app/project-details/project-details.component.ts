@@ -134,27 +134,32 @@ this.hp.get('assets/projects.json').subscribe((res)=>{
 
 selected = false;
 
+
+
 ngAfterViewChecked(){
+  const mobileScreen = window.matchMedia("(min-width: 768px)");
+  console.log(mobileScreen.matches)
   const container = document.querySelector(".imagecontainer")
   const titleContainer = document.querySelector(".devtitleContainer")
-  if(!this.selected && container){
-  console.log(container, titleContainer)
-  this.selected = true
-  const scrollBox = gsap.timeline({
-    scrollTrigger: {
-      trigger: container,
-      pin: false,
-      start: '-200 center',
-      end: '0 bottom',
-      markers: false,
-      toggleActions: 'play none none reverse',
-    },
-  });
-  scrollBox.to(titleContainer, { opacity: 0, duration:.5});
-
-
-
-    }
+  if(mobileScreen.matches === true){
+    if(!this.selected && container){
+      console.log(container, titleContainer)
+      this.selected = true
+      const scrollBox = gsap.timeline({
+        scrollTrigger: {
+          trigger: container,
+          pin: false,
+          start: '-200 center',
+          end: '0 bottom',
+          markers: false,
+          toggleActions: 'play none none reverse',
+        },
+      });
+      scrollBox.to(titleContainer, { opacity: 0, duration:.5});
+    
+        }
+    
+  }
 
 
 
