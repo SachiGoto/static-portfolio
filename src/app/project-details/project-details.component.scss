@@ -101,8 +101,8 @@ html{scroll-behavior: smooth;}
 .developmentProjectDetailContainer{
   animation: fadein 3s;
   width: 100vw;
-  height: 100vh;
-  margin-top:10vh;
+  // height: 100vh;
+  // margin-top:10vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -587,7 +587,7 @@ html{scroll-behavior: smooth;}
 }
 
 .developmentProjectDetailContainer{
-  
+  height: 100vh;
   margin-top:0;
  
 }
