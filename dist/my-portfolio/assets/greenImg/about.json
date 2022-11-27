@@ -1,0 +1,190 @@
+{
+  "data": {
+  "id": 1,
+  "attributes": {
+  "Title": "We fight against plastics",
+  "aboutus": "All products we sell are sustainable and reusable products. We are dedicated to eliminating plastics and finding alternatives that are not harmful to the environment. \n\n",
+  "ourmission": "Our mission is to create sustainable products that are better for you, your family, and most importantly the planet. Our goal is to make sustainability lifestyle more accessible and attainable to everyone. ",
+  "whyzerowaste": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id molestie adipiscing imperdiet mattis nullam. Ac sed bibendum enim elementum. Nisi erat vitae sed penatibus est purus bibendum nisl. In sagittis sed interdum quis augue.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Id molestie adipiscing imperdiet mattis nullam. Ac sed bibendum enim elementum. Nisi erat vitae sed penatibus est purus bibendum nisl. In sagittis sed interdum quis augue.",
+  "whyZeroWaste": "<figure class=\"image\"><img src=\"https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245627/naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg\"></figure><h3>Did you know that only around 9% of plastic packaging gets recycled?</h3><p>&nbsp;</p><h4>It’s no surprise that plastics has a significantly negative impact on the ocean!</h4><p>&nbsp;</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id molestie adipiscing imperdiet mattis nullam. Ac sed bibendum enim elementum. Nisi erat vitae sed penatibus est purus bibendum nisl. In sagittis sed interdum quis augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id molestie adipiscing imperdiet mattis nullam. Ac sed bibendum enim elementum. Nisi erat vitae sed penatibus est purus bibendum nisl. In sagittis sed interdum quis augue.</p>",
+  "createdAt": "2022-07-31T00:13:37.641Z",
+  "updatedAt": "2022-07-31T05:54:00.041Z",
+  "publishedAt": "2022-07-31T00:13:44.709Z",
+  "HeroImage": {
+  "data": {
+  "id": 169,
+  "attributes": {
+  "name": "greenaboutmepageheroimage.jpg",
+  "alternativeText": "greenaboutmepageheroimage.jpg",
+  "caption": "greenaboutmepageheroimage.jpg",
+  "width": 1500,
+  "height": 750,
+  "formats": {
+  "large": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659228770/large_greenaboutmepageheroimage_315c83bdc4.jpg",
+  "hash": "large_greenaboutmepageheroimage_315c83bdc4",
+  "mime": "image/jpeg",
+  "name": "large_greenaboutmepageheroimage.jpg",
+  "path": null,
+  "size": 63.87,
+  "width": 1000,
+  "height": 500,
+  "provider_metadata": {
+  "public_id": "large_greenaboutmepageheroimage_315c83bdc4",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659228771/small_greenaboutmepageheroimage_315c83bdc4.jpg",
+  "hash": "small_greenaboutmepageheroimage_315c83bdc4",
+  "mime": "image/jpeg",
+  "name": "small_greenaboutmepageheroimage.jpg",
+  "path": null,
+  "size": 22.78,
+  "width": 500,
+  "height": 250,
+  "provider_metadata": {
+  "public_id": "small_greenaboutmepageheroimage_315c83bdc4",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659228771/medium_greenaboutmepageheroimage_315c83bdc4.jpg",
+  "hash": "medium_greenaboutmepageheroimage_315c83bdc4",
+  "mime": "image/jpeg",
+  "name": "medium_greenaboutmepageheroimage.jpg",
+  "path": null,
+  "size": 41.11,
+  "width": 750,
+  "height": 375,
+  "provider_metadata": {
+  "public_id": "medium_greenaboutmepageheroimage_315c83bdc4",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659228769/thumbnail_greenaboutmepageheroimage_315c83bdc4.jpg",
+  "hash": "thumbnail_greenaboutmepageheroimage_315c83bdc4",
+  "mime": "image/jpeg",
+  "name": "thumbnail_greenaboutmepageheroimage.jpg",
+  "path": null,
+  "size": 8.16,
+  "width": 245,
+  "height": 122,
+  "provider_metadata": {
+  "public_id": "thumbnail_greenaboutmepageheroimage_315c83bdc4",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "greenaboutmepageheroimage_315c83bdc4",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "size": 122.16,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659228768/greenaboutmepageheroimage_315c83bdc4.jpg",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "greenaboutmepageheroimage_315c83bdc4",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-31T00:52:51.769Z",
+  "updatedAt": "2022-07-31T00:52:51.769Z"
+  }
+  }
+  },
+  "image": {
+  "data": {
+  "id": 171,
+  "attributes": {
+  "name": "naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "alternativeText": "naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "caption": "naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "width": 4032,
+  "height": 3024,
+  "formats": {
+  "large": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245630/large_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg",
+  "hash": "large_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "mime": "image/jpeg",
+  "name": "large_naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "path": null,
+  "size": 123.4,
+  "width": 1000,
+  "height": 750,
+  "provider_metadata": {
+  "public_id": "large_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "resource_type": "image"
+  }
+  },
+  "small": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245631/small_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg",
+  "hash": "small_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "mime": "image/jpeg",
+  "name": "small_naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "path": null,
+  "size": 40.14,
+  "width": 500,
+  "height": 375,
+  "provider_metadata": {
+  "public_id": "small_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "resource_type": "image"
+  }
+  },
+  "medium": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245630/medium_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg",
+  "hash": "medium_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "mime": "image/jpeg",
+  "name": "medium_naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "path": null,
+  "size": 76.95,
+  "width": 750,
+  "height": 563,
+  "provider_metadata": {
+  "public_id": "medium_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "resource_type": "image"
+  }
+  },
+  "thumbnail": {
+  "ext": ".jpg",
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245628/thumbnail_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg",
+  "hash": "thumbnail_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "mime": "image/jpeg",
+  "name": "thumbnail_naja-bertolt-jensen-BJUoZu0mpt0-unsplash.jpg",
+  "path": null,
+  "size": 9.34,
+  "width": 208,
+  "height": 156,
+  "provider_metadata": {
+  "public_id": "thumbnail_naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "resource_type": "image"
+  }
+  }
+  },
+  "hash": "naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "size": 1393.79,
+  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659245627/naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8.jpg",
+  "previewUrl": null,
+  "provider": "cloudinary",
+  "provider_metadata": {
+  "public_id": "naja_bertolt_jensen_BJ_Uo_Zu0mpt0_unsplash_ec1a9988d8",
+  "resource_type": "image"
+  },
+  "createdAt": "2022-07-31T05:33:51.484Z",
+  "updatedAt": "2022-07-31T05:33:51.484Z"
+  }
+  }
+  }
+  }
+  },
+  "meta": {}
+  }
