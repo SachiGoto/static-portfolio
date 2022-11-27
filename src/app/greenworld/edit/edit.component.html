@@ -1,0 +1,58 @@
+<div class="container mt-5">
+  <h2> Product Update </h2>
+
+
+    <!-- <label for="#">Product title: </label>
+     <input placeholder = {{product.title}}> -->
+
+     <label for="#">Product title: </label>
+     <!-- <input placeholder = {{product.title}} [(ngModel)]="title"> -->
+     <input type="text" [(ngModel)]="title" >
+
+    <br>
+    <label for="#">Product description: </label>
+     <textarea col="50" rows="10" [(ngModel)]="description"></textarea>
+
+     <br>
+     <label for="#">Product Original Price: </label>
+     <input [(ngModel)]="originalPrice">
+
+    <br>
+     <label for="#">Product Price: </label>
+     <input [(ngModel)]="price">
+
+     <br>
+     <label for="#">Product image1 : </label>
+     <input [(ngModel)]="imageFront">
+
+     <br>
+     <label for="#">Product image2 : </label>
+     <input [(ngModel)]="imageBack">
+     <br>
+
+     <label for="#">Stock Availability: </label>
+     <input [(ngModel)]="stock">
+     <br>
+
+     <!-- <label for="#">Online/Ofline : </label>
+     <input placeholder ={{product.display}}> -->
+
+      <label for="#">Online/Offline: </label>
+<select [(ngModel)] ="display" id="#">
+  <option value="offline">Offline</option>
+  <option value="online">Online</option>
+
+</select>
+
+<br>
+
+     <!-- <button  (click)="update()" class="cta">Update</button> -->
+
+<!-- <button  class="cta ms-3" (click)="deleteUser()" routerLink="/edit">Delete</button> -->
+     <button  routerLink="/admin" class="cta ms-3">Go Back</button>
+
+
+  </div>
+
+
+

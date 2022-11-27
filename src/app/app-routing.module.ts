@@ -6,12 +6,18 @@ import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ProjectDetailsComponent } from './project-details/project-details.component';
 import { ProjectsComponent } from './projects/projects.component';
+import{GreenHomeComponent} from './greenworld/home/home.component';
+import{GreenAboutComponent} from './greenworld/about/about.component';
+import{GreenProductsComponent} from './greenworld/products/products.component';
+import{GreenProductDetailComponent} from './greenworld/product-detail/product-detail.component';
+import { GreenFooterComponent } from './greenworld/footer/footer.component';
+import{GreenHeaderComponent} from './greenworld/header/header.component'
 
-import { GreenHomeComponent } from './greenaroundtheworld/home/home.component';
-import { GreenProductsComponent } from './greenaroundtheworld/products/products.component';
-import {GreenProductDetailComponent} from './greenaroundtheworld/product-detail/product-detail.component'
-import { GreenAboutComponent } from './greenaroundtheworld/about/about.component';
-import { GreenFooterComponent } from './greenaroundtheworld/footer/footer.component';
+// import { GreenHomeComponent } from './greenaroundtheworld/home/home.component';
+// import { GreenProductsComponent } from './greenaroundtheworld/products/products.component';
+// import {GreenProductDetailComponent} from './greenaroundtheworld/product-detail/product-detail.component'
+// import { GreenAboutComponent } from './greenaroundtheworld/about/about.component';
+// import { GreenFooterComponent } from './greenaroundtheworld/footer/footer.component';
 
 const routes: Routes = [
   {path:"home", component:HomeComponent},
@@ -24,11 +30,12 @@ const routes: Routes = [
    {path:"navbar", component:NavbarComponent},
 
   //  {path:"ecommerce", component:HomeComponent},
-   {path:"greenaroundtheworld/home", component:GreenHomeComponent},
+   {path:"greenaroundtheworld", component:GreenHomeComponent},
    {path:"green-products", component:GreenProductsComponent},
    {path:"green-products/:id", component:GreenProductDetailComponent},
    {path:"green-about", component:GreenAboutComponent},
-   {path:"green-footer", component:GreenFooterComponent}
+   {path:"green-footer", component:GreenFooterComponent},
+   {path:"green-header", component:GreenHeaderComponent},
 
 
 

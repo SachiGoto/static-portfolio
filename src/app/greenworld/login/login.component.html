@@ -1,0 +1,21 @@
+
+<div class="container mt-5">
+  <h3 class="mb-5 title">Please Log In to Green Around The World Admin Portal</h3>
+
+  <div class="container center login">
+
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">User Email</label>
+      <input type="email" [(ngModel)]="user_name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label">Password</label>
+      <input [(ngModel)]="password" type="password" class="form-control" id="exampleInputPassword1">
+    </div>
+
+    <button class="cta" (click)="login()">Submit</button>
+    <!-- <button routerLink="/signUp" class="btn btn-primary ms-3">Register</button> -->
+    <!-- <div class="error" *ngIf="loginStatus===false">Your login credentials are incorrect.</div> -->
+  </div>
+</div>

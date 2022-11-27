@@ -1,0 +1,229 @@
+@mixin centercenter($direction:row){
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:$direction;
+
+}
+
+.heroImageContainer{
+  background-repeat:no-repeat;
+  width:100vw;
+  height:100vh;
+  background-size:cover;
+  background-position:center;
+  position:relative;
+         .title{
+              position:absolute;
+              left:55%;
+              top:50%;
+              translate:transformY(-50%);
+              font-family:karelle;
+              color:#5a7c5a;
+              background-color:white;
+              padding:1em 2em;
+              font-size: clamp(16px, 2.5vw, 30px);
+
+         }
+}
+
+.nav{
+  position:absolute;
+  top:0;
+  left:0;
+  // background-color:rgba(255, 255, 255, 0.9);
+  width:100vw;
+  height:15vh;
+
+}
+
+h3{
+  color:red !important;
+  background-color:green;
+}
+
+
+.mainContainer{
+  @include centercenter(column);
+
+  .aboutus, .ourmission, .whyzerowaste{
+      width:80%;
+      margin:0 auto;
+      padding:10% 0%;
+  }
+
+}
+
+.aboutus{
+
+  justify-content:center;
+  align-items:center;
+
+  .aboutus_imageContainer{
+
+   height:50vh;
+
+
+    .aboutusImage{
+
+      width:100%;
+      height:100%;
+      object-fit:cover;
+
+   }
+
+
+  }
+
+
+}
+
+.ourmission{
+    width:80%;
+    margin:0 auto;
+    h2{
+      text-align:center;
+      margin:2% 0;
+    }
+
+    p{
+      text-align:center;
+      margin-bottom:10%;
+    }
+
+  .ourmissionicons{
+    justify-content:center;
+    display:flex;
+      div{
+         background-color:#5a7c5a;
+         border-radius:50%;
+         @include centercenter(row);
+         width:15vw;
+         height:15vw;
+         margin: 0 5%;
+
+         p{
+          color:white;
+          font-size:2vw;
+
+         }
+
+      }
+
+  }
+}
+
+
+
+
+
+   .image{
+    width:100vw !important;
+    height:60vh !important;
+     img{
+      width:100%;
+      height:60vh;
+      object-fit:cover;
+     }
+
+
+   }
+
+   .newsletter{
+    margin-bottom:20%;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+   }
+
+
+   .emailInput{
+    border:none;
+    border-bottom:1px solid black;
+    width:25vw;
+   }
+
+   .path {
+    stroke-dasharray: 200;
+    animation: trace 2s linear infinite;
+  }
+
+  .path:hover{
+    stroke:#be9852;
+  }
+
+  @keyframes trace {
+
+    0% {
+      clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
+    }50%{
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }100%{
+      clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
+    }
+  }
+
+
+@media(min-width:768px){
+
+  .aboutus{
+
+   .aboutus_imageContainer{
+
+    height:50vh;
+
+}
+
+  }
+
+
+}
+
+@media(min-width:997px){
+
+  .aboutus{
+
+   .aboutus_imageContainer{
+
+    height:60vh;
+
+}
+
+  }
+
+
+}
+
+
+
+// .image{
+//   width:100vw;
+//   height:50vh;
+//   object-fit:cover;
+// }
+
+
+// .zerowasteContainer{
+//   width:100% !important;
+//   h2, p,h4{
+//     width:80% !important;
+//     margin:0 auto !important;
+//   }
+
+
+
+//    figure{
+//     width:100vw !important;
+//     height:50vh !important;
+
+//        img{
+//            width: 100% !important;
+//            height: 50vh !important;
+//            object-fit: cover !important;
+//        }
+//    }
+
+
+// }

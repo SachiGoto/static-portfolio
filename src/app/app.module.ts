@@ -17,12 +17,12 @@ import { MyskillsComponent } from './myskills/myskills.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { StarsComponent } from './stars/stars.component';
-import { HeaderComponent } from './greenaroundtheworld/header/header.component';
-import {GreenHomeComponent} from './greenaroundtheworld/home/home.component';
-import { GreenProductsComponent } from './greenaroundtheworld/products/products.component';
-import { GreenProductDetailComponent } from './greenaroundtheworld/product-detail/product-detail.component';
-import {GreenAboutComponent} from './greenaroundtheworld/about/about.component';
-import{GreenFooterComponent} from './greenaroundtheworld/footer/footer.component';
+import { GreenHeaderComponent } from './greenworld/header/header.component';
+import {GreenHomeComponent} from './greenworld/home/home.component';
+import { GreenProductsComponent } from './greenworld/products/products.component';
+import { GreenProductDetailComponent } from './greenworld/product-detail/product-detail.component';
+import {GreenAboutComponent} from './greenworld/about/about.component';
+import{GreenFooterComponent} from './greenworld/footer/footer.component';
 
 
 
@@ -47,7 +47,7 @@ import{GreenFooterComponent} from './greenaroundtheworld/footer/footer.component
     MyskillsComponent,
     NavbarComponent,
     StarsComponent,
-    HeaderComponent,
+    GreenHeaderComponent,
     GreenHomeComponent,
     GreenProductsComponent,
     GreenProductDetailComponent,

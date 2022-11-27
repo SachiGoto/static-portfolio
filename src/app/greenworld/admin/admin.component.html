@@ -1,0 +1,34 @@
+<div class="bigcontainer">
+  <h3>Green Around The World - Admin Portal</h3>
+  <h4>List of products</h4>
+
+  <button class="cta addNewBtn" routerLink="/newproduct">Add New Product</button>
+
+  <div *ngFor="let item of products" class="listContainer">
+
+
+  <div class="imageContainer">
+
+   <img class="image" id="imageBack" [alt]="item.title" [src]="item.imageBack"/>
+
+    <img class="image" id="imageFront"  [alt]="item.title" [src]="item.imageFront">
+
+  </div>
+
+
+  <div class="title"><h2>{{item.title}}</h2></div>
+
+  <div class="d-flex justify-content-center direction-column">
+   <p class="originalPrice me-3"> $ {{item.originalPrice}}</p>
+   <p>$ {{item.price}}</p></div>
+  <div class="stock mb-4" [class.noStock]="!item.stockAvail">Stock: {{item.stock}}</div>
+
+  <div class="description"><p> {{item.description}}</p></div>
+
+  <div class="status"> status: {{item.display}}</div>
+
+  <!-- <button  class="cta" [routerLink]="['/edit/', item.productID]">Edit</button> -->
+
+
+  </div>
+</div>

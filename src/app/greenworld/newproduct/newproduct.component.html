@@ -1,0 +1,71 @@
+
+
+
+<div class="container mt-5 mb-5">
+  <!-- <h2> Product Update </h2> -->
+  <h3>New Products</h3>
+
+
+    <label for="#">Product title: </label>
+     <input type="text" [(ngModel)]="title" >
+
+    <br>
+    <label for="#">Product description: </label>
+     <textarea [(ngModel)]="description" col="50" rows="10"></textarea>
+
+     <br>
+     <label for="#">Product Original Price: </label>
+     <input type="text" [(ngModel)]="originalPrice" >
+
+     <br>
+     <label for="#">Product Price: </label>
+     <input type="text" [(ngModel)]="price">
+     <br>
+     <label for="#">Product image1 : </label>
+     <input type="text" [(ngModel)]="imageFront">
+
+     <br>
+
+     <label for="#">Product image2 : </label>
+     <input type="text" [(ngModel)]="imageBack">
+
+     <br>
+     <label for="#">Stock Availability: </label>
+     <input type="text" [(ngModel)]="stock">
+
+
+     <br>
+
+    <label for="#">Online/Offline: </label>
+     <select id="#" [(ngModel)]="display">
+      <option  value="offline">Offline</option>
+      <option value="online">Online</option>
+
+    </select>
+
+     <!-- <label for="#">Offline/Online: </label> -->
+     <!-- <input type="text" [(ngModel)]="display"> -->
+
+
+     <!-- <br> -->
+
+    <!-- <label for="#">Online/Ofline : </label>
+     <input placeholder ={{product.display}}> -->
+
+     <!-- <label for="#">Online/Offline: </label> -->
+<!--
+     <div style="display:none">
+       <label for="#">Online/Offline (type online to publish now): </label>
+       <input value="offline" type="text" [(ngModel)]="display">
+     </div> -->
+
+
+
+<br>
+
+
+     <button class="cta ms-3" (click)="addNew()" >Add Product</button>
+     <button class="cta ms-3" routerLink="/admin" >Go Back</button>
+     <!-- routerLink="/admin"  -->
+  </div>
+

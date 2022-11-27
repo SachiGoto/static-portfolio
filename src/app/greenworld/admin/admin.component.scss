@@ -1,0 +1,136 @@
+@mixin center_center(){
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.title{
+  font-family: 'Karla', sans-serif;
+  font-weight:bold;
+  min-height:5vw;
+  margin-top:1em;
+
+
+}
+
+
+
+.editBtn{
+
+}
+
+
+h2{
+  font-size:clamp(16px,1.75em,20px);
+}
+
+.image{
+  // width:20vw;
+  // min-height:300px;
+  object-fit:contain;
+  position:absolute;
+  object-position:center;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+}
+
+#imageFront:hover {
+  transition:opacity 1s;
+  opacity:0;
+  }
+
+  #imageFront{
+    transition:opacity 1s;
+    opacity:1;
+  }
+
+
+
+.imageContainer{
+  position:relative;
+  width:100%;
+  min-height:300px;
+
+}
+
+.description{
+  min-height:clapm(180px, 30vh, 300px);
+  width:50%;
+  margin:0 auto;
+  // display:flex;
+  // align-items:center;
+
+}
+
+
+
+.originalPrice{
+  text-decoration: line-through;
+  font-family:font1;
+}
+
+select{
+  width:30%;
+  margin:2em auto;
+  // margin-bottom:2em;
+}
+
+.stock{
+  color:green;
+  font-family: 'Karla', sans-serif;
+
+}
+
+.noStock{
+  color:red;
+
+}
+
+.displayNone{
+    display:none;
+}
+
+.cta{
+  background-color:#5a7c5a;
+  border:none;
+  padding:0.5em 1em;
+  color:white;
+  // font-family: 'Karla', sans-serif;
+  font-family:karelle;
+  font-size:1em;
+
+  background: linear-gradient(to left, #7b5bda 50%, #b7ceb7  50%);
+  background-size: 200% 100%;
+  background-position:right bottom;
+  margin-top:2rem;
+
+}
+
+
+.listContainer{
+  width:70vw;
+  margin:2em auto;
+  text-align:center;
+
+}
+
+h3, h4{
+  text-align:center;
+  margin: 3rem auto ;
+  width:70vw;
+}
+
+
+.addNewBtn{
+ margin:2rem auto;
+  width:25vw;
+  display:block;
+}
+
+.bigcontainer{
+  padding-top:5rem;
+  background-color:rgb(217, 210, 210);
+  padding-bottom:5rem;
+}
