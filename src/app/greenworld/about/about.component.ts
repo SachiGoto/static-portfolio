@@ -27,7 +27,7 @@ export class GreenAboutComponent implements OnInit {
 
   ngOnInit(): void {
 
-    this.hp.get('assets/about.json').subscribe((res)=>{
+    this.hp.get('assets/greenImg/about.json').subscribe((res)=>{
       this.aboutJson = res;
       this.heroImage = this.aboutJson.data.attributes.HeroImage.data.attributes.formats.large.url;
 

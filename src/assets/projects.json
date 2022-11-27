@@ -959,7 +959,7 @@
   "Title": "Green Around The World",
   "Summary": "I created the client-side with Angular and server-side with Strapi (headless cms) and images are stored in Cloudinary. \n",
   "Description": "<p>Highlights:&nbsp;</p><p>My work involved both client-side and server-side development&nbsp;as well as designing a logo and branding.&nbsp;<br>Angular is used for client side and APIs were created with Strapi, a headless CMS.&nbsp;<br>Also, I developed the e-commerce website using Node.js, which includes the five APIs. Data is stored in MySQL and I used five stored procedures.&nbsp;</p><p>I followed DevOps methodology and created this e-commerce site. Data in Strapi is shared with mobile app.&nbsp;</p>",
-  "WebLink": "http://greenworld.sachigoto.com",
+  "WebLink": "https://sachigoto.me/greenaroundtheworld",
   "Trailer": "https://github.com/SachiGoto/greenAroundtheWorld",
   "StartDate": "2022-03-01",
   "EndDate": "2022-06-01",

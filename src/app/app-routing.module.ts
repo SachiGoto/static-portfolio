@@ -13,11 +13,7 @@ import{GreenProductDetailComponent} from './greenworld/product-detail/product-de
 import { GreenFooterComponent } from './greenworld/footer/footer.component';
 import{GreenHeaderComponent} from './greenworld/header/header.component'
 
-// import { GreenHomeComponent } from './greenaroundtheworld/home/home.component';
-// import { GreenProductsComponent } from './greenaroundtheworld/products/products.component';
-// import {GreenProductDetailComponent} from './greenaroundtheworld/product-detail/product-detail.component'
-// import { GreenAboutComponent } from './greenaroundtheworld/about/about.component';
-// import { GreenFooterComponent } from './greenaroundtheworld/footer/footer.component';
+
 
 const routes: Routes = [
   {path:"home", component:HomeComponent},
