@@ -21,9 +21,9 @@ header{
 
   @include center_center();
 
-  img{
+
     width:150px;
-  }
+  
   h1{
     font-size:1.5vw;
   }
@@ -32,6 +32,21 @@ header{
 .navbar{
   width: 100vw;
   @include center_center();
+}
+
+.iconContainer{
+  display:flex;
+  flex-direction: column;
+  margin-top:5%;
+}
+
+.navbar{
+  padding-bottom:0;
+  padding-top:0;
+}
+
+.shop{
+  margin-top:15vh;
 }
 
 .navbarItemsMiddle{
@@ -115,6 +130,33 @@ img{
 @media(min-width:768px){
   .hamburgerIcon{
     display:none;
+  }
+
+  .shop{
+    margin-top:15vh;
+  }
+
+
+}
+
+@media(min-width:997px){
+
+
+  .navbar-nav{
+   
+    width:100%;
+  }
+
+
+  .iconContainer{
+    margin-left:30%;
+    display:flex;
+    flex-direction:row;
+    margin-top:0;
+  }
+
+  .shop{
+    margin-top:0;
   }
 }
 
