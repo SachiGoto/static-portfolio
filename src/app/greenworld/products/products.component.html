@@ -63,7 +63,7 @@
         <!-- <div class="stock mb-4" [class.noStock]="!product.stockAvail">Stock: {{product.stock}}</div> -->
          <!-- <div class="description"><p> {{product.attributes.Description}}</p></div> -->
          <!-- <br> -->
-         <button class="cta">Add To Bag</button>
+         <button class="cta" [routerLink]="['/green-products', product.id]">Add To Bag</button>
       </div>
     </div>
 <!-- </div> -->
