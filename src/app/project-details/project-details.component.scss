@@ -549,6 +549,14 @@ html{scroll-behavior: smooth;}
 
 @media(min-width:768px){
 
+  .developmentContainer{
+    .devtitleContainer{
+      position:fixed;
+      height:100vh;
+      top:20%;
+    }
+}
+
 
   .titleContainer{
 
