@@ -12,6 +12,7 @@ import{GreenProductsComponent} from './greenworld/products/products.component';
 import{GreenProductDetailComponent} from './greenworld/product-detail/product-detail.component';
 import { GreenFooterComponent } from './greenworld/footer/footer.component';
 import{GreenHeaderComponent} from './greenworld/header/header.component'
+import { TestComponent } from './greenworld/test/test.component';
 
 
 
@@ -32,6 +33,7 @@ const routes: Routes = [
    {path:"green-about", component:GreenAboutComponent},
    {path:"green-footer", component:GreenFooterComponent},
    {path:"green-header", component:GreenHeaderComponent},
+   {path:"green-test", component:TestComponent}
 
 
 
