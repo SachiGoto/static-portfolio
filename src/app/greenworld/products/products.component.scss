@@ -11,6 +11,9 @@
   flex-direction:$direction;
 }
 
+.product-main-box{
+  margin-top:180px;
+}
 .pagetitle{
   text-align:center;
   font-size:clamp(20px, 2.5vw, 30px);
