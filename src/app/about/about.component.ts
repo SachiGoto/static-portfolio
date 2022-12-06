@@ -4,6 +4,8 @@ import{CommonService} from '../service/common.service';
 import { gsap } from "gsap";
 import Draggable from "gsap/Draggable";
 import ScrollTrigger from "gsap/ScrollTrigger";
+import { Meta } from '@angular/platform-browser';
+import { Title } from '@angular/platform-browser';
 
 
 
@@ -20,8 +22,19 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 
 export class AboutComponent implements OnInit {
 
-  constructor(private http:CommonService) {
+  constructor(private http:CommonService, private meta:Meta, private titleService:Title) {
+    titleService.setTitle("Sachi Goto - About pagge")
+
+    this.meta.updateTag(
+      {name:"title", content:"Sachi Goto - About page."},
+      
+     
+    )
+    this.meta.updateTag(
+      {name:"description", content:"I am a full stack web developer based in Vancouver. I graduated from VanArts Web Development and Interactive Design program in 2022 and am interested in Front and Back End web development opportunities. "}
+    )
   }
+
   fullbio:any;
   headshotAltText:string='';
   resume:string='https://res.cloudinary.com/vanarts-webdev/image/upload/v1664231494/sachigoto_resume_70ac4dc54f.pdf';

@@ -4,6 +4,8 @@ import { start } from '@popperjs/core';
 // import { kwesforms } from 'kwesforms';
 import { CommonService } from '../service/common.service';
 import { FormControl } from '@angular/forms';
+import { Meta } from '@angular/platform-browser';
+import { Title } from '@angular/platform-browser';
 // import * as kwesforms from 'kwesforms';
 
 // import * as Aos from 'aos';
@@ -16,7 +18,19 @@ import { FormControl } from '@angular/forms';
 })
 export class ContactComponent implements OnInit {
 
-  constructor( private http:CommonService) { }
+  constructor( private http:CommonService,private titleService:Title,private meta:Meta) {
+
+    titleService.setTitle("Sachi Goto - Contact page")
+
+    this.meta.updateTag(
+      {name:"description", content:"Sachi Goto Contact me via email: gotosachiii@gmail.com LinkedIn :https://www.linkedin.com/in/sachi-goto, Instagram:https://www.instagram.com/sachi8619/, Twitter:https://twitter.com/sachigoto2"},
+     
+    )
+
+    this.meta.updateTag(
+      {name:"title" , content:"Sachi Goto - Contact page"}
+    )
+   }
 
 
 

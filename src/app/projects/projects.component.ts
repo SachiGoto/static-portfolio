@@ -7,6 +7,9 @@ import { gsap } from "gsap";
 import Draggable from "gsap/Draggable";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import { HttpClient } from '@angular/common/http';
+import { Meta } from '@angular/platform-browser';
+import { Title } from '@angular/platform-browser';
+
 
 
 gsap.registerPlugin(ScrollTrigger, Draggable);
@@ -26,7 +29,20 @@ state=false;
 server = environment.server;
 
 
-  constructor(private cs:CommonService, private route:Router, private http:HttpClient) { }
+  constructor(private cs:CommonService, private route:Router, private meta:Meta, private http:HttpClient,  private titleService:Title) { 
+    titleService.setTitle("Sachi Goto - Project page")
+    this.meta.updateTag(
+      {name:"title", content:"Sachi Goto - Project page"},
+      
+     
+    )
+
+    this.meta.updateTag(
+      {name:"description", content:"My projects include a WordPress site, a Full-stack e-commerce site made with angular, A static website with HTML, CSS, Javascript and GSAP, and a To-do list app made with MVC, node.js, express. Skills: HTML | CSS | Saas | Bootstrap | JavaScript | Typescript | Angular | DevOp | MongoDB | MySQL | Microservices | WordPress | PHP | SEO | Illustrator | Photoshop | Agile/Scrum | Project management| Illustrator | Photoshop | Figma "},
+      
+     
+    )
+  }
 
   translate(id:number, slug:any){
 

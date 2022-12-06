@@ -7,6 +7,8 @@ import { gsap } from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import * as Aos from 'aos';
 import { HttpClient } from '@angular/common/http'
+import { Meta } from '@angular/platform-browser';
+import { Title } from '@angular/platform-browser';
 
 
 
@@ -32,7 +34,19 @@ export class ProjectDetailsComponent implements OnInit {
 
   // private observer:IntersectionObserver;
 
-  constructor(private route:ActivatedRoute, private hp:HttpClient, private http:CommonService) {}
+  constructor(private route:ActivatedRoute, private hp:HttpClient, private http:CommonService, private titleService:Title,private meta:Meta) {
+
+    titleService.setTitle("Sachi Goto - Project detail pagge")
+
+    this.meta.updateTag(
+      {name:"description", content:"My projects include a WordPress site, a Full-stack e-commerce site made with Angular, A static website with HTML, CSS, Javascript and GSAP, and a To-do list app made with MVC, Node.js, Express. Skills: HTML | CSS | Saas | Bootstrap | JavaScript | Typescript | Angular | DevOp | MongoDB | MySQL | Microservices | WordPress | PHP | SEO | Illustrator | Photoshop | Agile/Scrum | Project management| Illustrator | Photoshop | Figma "},
+     
+    )
+
+    this.meta.updateTag(
+      {name:"title" , content:"Sachi Goto - Project Details"}
+    )
+  }
   // project:ProjectDetail;
 //  project:ProjectDetail;
 
