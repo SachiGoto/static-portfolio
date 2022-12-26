@@ -2463,7 +2463,7 @@
   "Title": "The Cakery",
   "Summary": "A website I designed and developed from scratch for The Cakery. ",
   "Description": "<p>Highlights:</p><p>The Cakery is a fun bakery that sells pop culture themed cakes and pastries. T<span style=\"background-color:transparent;color:#000000;\">he Cakery, a.k.a topical boutique is a high end bakery that is playful and has a cheeky twist.</span></p><p>&nbsp;</p><ul><li><span style=\"background-color:transparent;color:#000000;\">I designed the logo and edited all the images with Adobe photoshop and illustrator.&nbsp;</span></li><li><span style=\"background-color:transparent;color:#000000;\">GSAP is used in the about page so that each content pops up as you scroll down the page.&nbsp;</span></li><li>Implemented a great amount of CSS animation to make the website playful.&nbsp;</li></ul><p>&nbsp;</p><p><br>&nbsp;</p>",
-  "WebLink": "https://thecakery.sachigoto.com",
+  "WebLink": "https://thecakery.sachigoto.me",
   "Trailer": "https://github.com/SachiGoto/the-cakery",
   "StartDate": "2022-09-01",
   "EndDate": "2022-09-25",
