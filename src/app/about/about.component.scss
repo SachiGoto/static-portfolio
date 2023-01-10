@@ -408,6 +408,10 @@
   animation: none;
 }
 
+.resumeBtn{
+  margin-bottom:200px;
+}
+
 .sky {
   z-index: -100;
 }
@@ -537,6 +541,10 @@
     width: 40%;
     height: 40%;
   }
+
+  .resumeBtn{
+    margin-bottom:0;
+  }
 }
 
 @media (min-width: 996px) {
@@ -639,6 +647,8 @@
       justify-content: center;
     }
   }
+
+
 }
 
 @media (min-width: 1200px) {
