@@ -23,7 +23,7 @@ import { Title } from '@angular/platform-browser';
 export class AboutComponent implements OnInit {
 
   constructor(private http:CommonService, private meta:Meta, private titleService:Title) {
-    titleService.setTitle("Sachi Goto - About pagge")
+    titleService.setTitle("Sachi Goto - About page")
 
     this.meta.updateTag(
       {name:"title", content:"Sachi Goto - About page."},
