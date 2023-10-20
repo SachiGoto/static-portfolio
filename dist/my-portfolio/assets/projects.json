@@ -7,7 +7,7 @@
       "Title": "Sustainable Hub",
       "Summary": "This app is designed to help people live a more sustainable lifestyle by providing suggestions for sustainable activities in their daily lives.",
       "Description":"<p>This app provides a list of companies that provides sustainable services/products in Vancouver.&nbsp;&nbsp;&nbsp;<br><br>Highlight of the website: &nbsp;</p><ul><li>Authentication using Passport.js for secure login</li><li>Ability to create a customized list of favorite companies by liking them or adding new ones</li><li>Form validation using Validator.js for input data</li><li>Session storage to keep the user logged in until they manually log out</li><li>Implementation of all CRUD methods (GET, POST, PUT, DELETE) through a total of 12 APIs</li></ul><p>&nbsp;</p>",
-      "WebLink": "https://sustainable-hub-backend.herokuapp.com",
+      "WebLink": "https://sustainable-hub-vancouver-b8014dfbb352.herokuapp.com",
       "Trailer": "https://github.com/SachiGoto/100hours-project.git",
       "Category": "Projects",
       "Slug": "sustainable-hub",
