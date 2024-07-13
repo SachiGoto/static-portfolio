@@ -1,211 +1,204 @@
-
-   {"data":[
-  
+{
+  "data": [
     {
       "id": 1,
       "attributes": {
-      "Title": "Sustainable Hub",
-      "Summary": "This app is designed to help people live a more sustainable lifestyle by providing suggestions for sustainable activities in their daily lives.",
-      "Description":"<p>This app provides a list of companies that provides sustainable services/products in Vancouver.&nbsp;&nbsp;&nbsp;<br><br>Highlight of the website: &nbsp;</p><ul><li>Authentication using Passport.js for secure login</li><li>Ability to create a customized list of favorite companies by liking them or adding new ones</li><li>Form validation using Validator.js for input data</li><li>Session storage to keep the user logged in until they manually log out</li><li>Implementation of all CRUD methods (GET, POST, PUT, DELETE) through a total of 12 APIs</li></ul><p>&nbsp;</p>",
-      "WebLink": "https://sustainable-hub.onrender.com",
-      "Trailer": "https://github.com/SachiGoto/100hours-project.git",
-      "Category": "Projects",
-      "Slug": "sustainable-hub",
-      "Tagline": "Full-stack app ",
-      "MainImage": {
-      "data": {
-      "id": 192,
-      "attributes": {
-      "name": "full stack app",
-      "alternativeText": "Sustainable Hub app demo gif ",
-      "width": 1918,
-      "height": 1002,
-      "hash": "sustainable hub",
-      "ext": ".png",
-      "mime": "image/png",
-      "size": 820.73,
-      "url": "https://media.giphy.com/media/NoV0M0idoTUfv1AGYW/giphy.gif"
-      }
-      }
-      },
-      "skills": {
-      "data": [
-      {
-
-      "id": 1,
-      "attributes": {
-      "SkillName": "Node.js",
-      "Category": "Backend development tools",
-      "SkillLogo": {
-      "data": {
-      "id": 141,
-      "attributes": {
-      "name": "tool-logos_0007_nodejslogo.png.png",
-      "alternativeText": "Node.js icon",
-      "width": 268,
-      "height": 300,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
-      }
-      }
-      }
-      }
-      },
-      {
-      "id": 2,
-      "attributes": {
-      "SkillName": "MongoDB",
-      "Category": "Backend development tools",
-      "SkillLogo": {
-      "data": {
-      "id": 142,
-      "attributes": {
-      "name": "tool-logos_0009_Layer-2.png",
-      "alternativeText": "MongoDB icon",
-      "width": 300,
-      "height": 204,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
-      }
-      }
-      }
-      }
-      },
-      {
-        "id": 3,
-        "attributes": {
-        "SkillName": "React",
-        "SkillLogo": {
-        "data": {
-        "id": 142,
-        "attributes": {
-        "name": "tool-logos_0009_Layer-2.png",
-        "alternativeText": "React icon",
-        "caption": "tool-logos_0009_Layer-2.png",
-        "width": 300,
-        "height": 204,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1682892217/react_j3f0vg.avif"
-        }
-        }
-        }
-        }
-        },
-        {
-          "id": 4,
-          "attributes": {
-          "SkillName": "Tailwind Css",
-          "Category": "Frontend development tools",
-          "SkillLogo": {
+        "Title": "Sustainable Hub",
+        "Summary": "This app is designed to help people live a more sustainable lifestyle by providing suggestions for sustainable activities in their daily lives.",
+        "Description": "<p>This app provides a list of companies that provides sustainable services/products in Vancouver.&nbsp;&nbsp;&nbsp;<br><br>Highlight of the website: &nbsp;</p><ul><li>Authentication using Passport.js for secure login</li><li>Ability to create a customized list of favorite companies by liking them or adding new ones</li><li>Form validation using Validator.js for input data</li><li>Session storage to keep the user logged in until they manually log out</li><li>Implementation of all CRUD methods (GET, POST, PUT, DELETE) through a total of 12 APIs</li></ul><p>&nbsp;</p>",
+        "WebLink": "https://sustainable-hub.onrender.com",
+        "Trailer": "https://github.com/SachiGoto/100hours-project.git",
+        "Category": "Projects",
+        "Slug": "sustainable-hub",
+        "Tagline": "Full-stack app ",
+        "MainImage": {
           "data": {
-          "id": 142,
-          "attributes": {
-          "name": "tool-logos_0009_Layer-2.png",
-          "alternativeText": "React icon",
-          "width": 300,
-          "height": 204,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1682892744/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8_bzx5r7.svg"
+            "id": 192,
+            "attributes": {
+              "name": "full stack app",
+              "alternativeText": "Sustainable Hub app demo gif ",
+              "width": 1918,
+              "height": 1002,
+              "hash": "sustainable hub",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 820.73,
+              "url": "https://media.giphy.com/media/NoV0M0idoTUfv1AGYW/giphy.gif"
+            }
           }
-          }
-          }
-          }
-          }
-          
-
-      ]
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "SkillName": "Node.js",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 141,
+                    "attributes": {
+                      "name": "tool-logos_0007_nodejslogo.png.png",
+                      "alternativeText": "Node.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "MongoDB",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "MongoDB icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "SkillName": "React",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "React icon",
+                      "caption": "tool-logos_0009_Layer-2.png",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1682892217/react_j3f0vg.avif"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "SkillName": "Tailwind Css",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "React icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1682892744/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8_bzx5r7.svg"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
       }
-      }
-      },
-      {
-        "id": 9,
-        "attributes": {
+    },
+    {
+      "id": 9,
+      "attributes": {
         "Title": "Lost and Found",
         "Summary": "This web app is for reporting lost items. It has CRUD operations which allows users to create a post, upload an image of a found item and edit the item after it’s posted as well as deactivate the post",
-        "Description":"<ul><li>Images are stored in the cloud using Cloudinary. It provides an URL for each image so we only store the URLs in the database instead of image themselves. This significantly reduces the amount of data stored.</li><li>User can easity report items they found and and disable the post found someone claimed the item. </li></ul>",
+        "Description": "<ul><li>Images are stored in the cloud using Cloudinary. It provides an URL for each image so we only store the URLs in the database instead of image themselves. This significantly reduces the amount of data stored.</li><li>User can easity report items they found and and disable the post found someone claimed the item. </li></ul>",
         "WebLink": "https://lost-and-found.sachigoto.me",
         "Trailer": "https://github.com/SachiGoto/lost-and-found.git",
         "Category": "Projects",
         "Slug": "lost-and-found",
         "Tagline": "Full-stack app ",
         "MainImage": {
-        "data": {
-        "id": 192,
-        "attributes": {
-        "name": "full stack app",
-        "alternativeText": "Lost and found app demo gif ",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://camo.githubusercontent.com/0042e9b8495a31d088c4d462981b339f123d627c3af9309cfe888d2a07c34e6a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b55537a68474f716a6a396c7367614f50382f67697068792e676966"
-        }
-        }
+          "data": {
+            "id": 192,
+            "attributes": {
+              "name": "full stack app",
+              "alternativeText": "Lost and found app demo gif ",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://media.giphy.com/media/KUSzhGOqjj9lsgaOP8/giphy.gif"
+            }
+          }
         },
         "skills": {
-        "data": [
-          {"id":1,
-          "attributes": {
-            "SkillName": "Angular",
-            "Category": "Frontend development tools",
-            "SkillLogo": {
-            "data": {
-            "id": 130,
-            "attributes": {
-            "name": "tool-logos_0001_angularlogo.png.png",
-            "alternativeText": "Angular icon",
-            "width": 282,
-            "height": 300,
-            "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png"
-            }
-          
-          }
-        }
-        }
-        },
-        {
-  
-        "id": 2,
-        "attributes": {
-        "SkillName": "Node.js",
-        "Category": "Backend development tools",
-        "SkillLogo": {
-        "data": {
-        "id": 141,
-        "attributes": {
-        "name": "tool-logos_0007_nodejslogo.png.png",
-        "alternativeText": "Node.js icon",
-        "width": 268,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
-        }
-        }
-        }
-        }
-        },
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "SkillName": "Angular",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 130,
+                    "attributes": {
+                      "name": "tool-logos_0001_angularlogo.png.png",
+                      "alternativeText": "Angular icon",
+                      "width": 282,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "Node.js",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 141,
+                    "attributes": {
+                      "name": "tool-logos_0007_nodejslogo.png.png",
+                      "alternativeText": "Node.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
+                    }
+                  }
+                }
+              }
+            },
 
-        {
-        "id": 3,
-        "attributes": {
-          "SkillName": "MongoDB",
-          "Category": "Backend development tools",
-          "SkillLogo": {
-          "data": {
-          "id": 142,
-          "attributes": {
-          "name": "tool-logos_0009_Layer-2.png",
-          "alternativeText": "MongoDB icon",
-          "width": 300,
-          "height": 204,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
-          }
-          }
-          }
-          }
+            {
+              "id": 3,
+              "attributes": {
+                "SkillName": "MongoDB",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "MongoDB icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
         }
-            
-  
-        ]
-        }
-        }
-        },
-      {
-        "id": 2,
-        "attributes": {
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
         "Title": "Green Around The World",
         "Summary": "I created the client-side with Angular and server-side with Strapi (headless cms) and images are stored in Cloudinary. \n",
         "Description": "<p>Highlights:&nbsp;</p><p>My work involved both client-side and server-side development&nbsp;as well as designing a logo and branding.&nbsp;<br>Angular is used for client side and APIs were created with Strapi, a headless CMS.&nbsp;<br>Also, I developed the e-commerce website using Node.js, which includes the five APIs. Data is stored in MySQL and I used five stored procedures.&nbsp;</p><p>I followed DevOps methodology and created this e-commerce site. Data in Strapi is shared with mobile app.&nbsp;</p>",
@@ -215,964 +208,952 @@
         "Slug": "greenaroundtheworld",
         "Tagline": "Full-stack eCommerce website ",
         "MainImage": {
-        "data": {
-        "id": 192,
-        "attributes": {
-        "name": "greenworldhomepgage.png",
-        "alternativeText": "Green around the world homepage ",
-        "caption": "greenworldhomepgage.png",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png"
-        }
-        }
+          "data": {
+            "id": 192,
+            "attributes": {
+              "name": "greenworldhomepgage.png",
+              "alternativeText": "Green around the world homepage ",
+              "caption": "greenworldhomepgage.png",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png"
+            }
+          }
         },
         "skills": {
-        "data": [
-        {
-        "id": 1,
-        "attributes": {
-        "SkillName": "Strapi",
-        "Category": "Backend development tools",
-        "SkillLogo": {
-        "data": {
-        "id": 1,
-        "attributes": {
-        "name": "strapilogo.png",
-        "alternativeText": "strapilogo.png",
-        "width": 300,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/strapilogo_08768c0606.png"
-        }
-        }
-        }
-        }
-        },
-        {
-        "id": 2,
-        "attributes": {
-        "SkillName": "Adobe Illustrator",
-        "Category": "Design tools",
-        "SkillLogo": {
-        "data": {
-        "id": 135,
-        "attributes": {
-        "name": "tool-logos_0006_illustratorlogo.png.png",
-        "alternativeText": "Adobe Illustrator icon",
-        "width": 300,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
-        }
-        }
-        }
-        }
-        },
-        {
-        "id": 3,
-        "attributes": {
-        "SkillName": "Node.js",
-        "Category": "Backend development tools",
-        "SkillLogo": {
-        "data": {
-        "id": 141,
-        "attributes": {
-        "name": "tool-logos_0007_nodejslogo.png.png",
-        "alternativeText": "Node.js icon",
-        "width": 268,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
-
-        }
-        }
-        }
-        }
-        },
-        {
-        "id": 4,
-        "attributes": {
-        "SkillName": "Angular",
-        "Category": "Frontend development tools",
-        "SkillLogo": {
-        "data": {
-        "id": 130,
-        "attributes": {
-        "name": "tool-logos_0001_angularlogo.png.png",
-        "alternativeText": "Angular icon",
-        "width": 282,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png"
-        }
-        }
-        }
-        }
-        },
-        {
-        "id": 5,
-        "attributes": {
-        "SkillName": "MySQL",
-        "Category": "Backend development tools",
-        "SkillLogo": {
-        "data": {
-        "id": 142,
-        "attributes": {
-        "name": "tool-logos_0009_Layer-2.png",
-        "alternativeText": "MySQL icon",
-        "width": 300,
-        "height": 204,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
-        }
-        }
-        }
-        }
-        },
-        {
-        "id": 6,
-        "attributes": {
-        "SkillName": "Sass",
-        "SkillLogo": {
-        "data": {
-        "id": 137,
-        "attributes": {
-        "name": "tool-logos_0011_Sasslogo.png",
-        "alternativeText": "tool-logos_0011_Sasslogo.png",
-        "width": 300,
-        "height": 300,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png"
-        }
-        }
-        }
-        }
-        }
-        ]
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "SkillName": "Strapi",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "strapilogo.png",
+                      "alternativeText": "strapilogo.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658614748/strapilogo_08768c0606.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "Adobe Illustrator",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 135,
+                    "attributes": {
+                      "name": "tool-logos_0006_illustratorlogo.png.png",
+                      "alternativeText": "Adobe Illustrator icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "SkillName": "Node.js",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 141,
+                    "attributes": {
+                      "name": "tool-logos_0007_nodejslogo.png.png",
+                      "alternativeText": "Node.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "SkillName": "Angular",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 130,
+                    "attributes": {
+                      "name": "tool-logos_0001_angularlogo.png.png",
+                      "alternativeText": "Angular icon",
+                      "width": 282,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613363/tool_logos_0001_angularlogo_png_b2b0087835.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 5,
+              "attributes": {
+                "SkillName": "MySQL",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "MySQL icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "SkillName": "Sass",
+                "SkillLogo": {
+                  "data": {
+                    "id": 137,
+                    "attributes": {
+                      "name": "tool-logos_0011_Sasslogo.png",
+                      "alternativeText": "tool-logos_0011_Sasslogo.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
         },
         "Images": {
-        "data": [
-        {
-        "id": 192,
-        "attributes": {
-        "name": "greenworldhomepgage.png",
-        "alternativeText": "Green around the world homepage ",
-        "caption": "greenworldhomepgage.png",
-        "width": 1918,
-        "height": 1002,
-        "hash": "greenworldhomepgage_317bbd15e2",
-        "ext": ".png",
-        "mime": "image/png",
-        "size": 820.73,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png"
-        }
-        },
-        {
-        "id": 189,
-        "attributes": {
-        "name": "greenworldaboutpage.png",
-        "alternativeText": "Green around the world About page",
-        "caption": "greenworldaboutpage.png",
-        "width": 1918,
-        "height": 1002,
-        "formats": {
-        "large": {
-        "ext": ".png",
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841426/large_greenworldaboutpage_60d2497ca2.png",
-        "hash": "large_greenworldaboutpage_60d2497ca2",
-        "mime": "image/png",
-        "name": "large_greenworldaboutpage.png",
-        "path": null,
-        "size": 880.12,
-        "width": 1000,
-        "height": 522,
-        "provider_metadata": {
-        "public_id": "large_greenworldaboutpage_60d2497ca2",
-        "resource_type": "image"
-        }
-        }
+          "data": [
+            {
+              "id": 192,
+              "attributes": {
+                "name": "greenworldhomepgage.png",
+                "alternativeText": "Green around the world homepage ",
+                "caption": "greenworldhomepgage.png",
+                "width": 1918,
+                "height": 1002,
+                "hash": "greenworldhomepgage_317bbd15e2",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 820.73,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659842228/greenworldhomepgage_317bbd15e2.png"
+              }
+            },
+            {
+              "id": 189,
+              "attributes": {
+                "name": "greenworldaboutpage.png",
+                "alternativeText": "Green around the world About page",
+                "caption": "greenworldaboutpage.png",
+                "width": 1918,
+                "height": 1002,
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841426/large_greenworldaboutpage_60d2497ca2.png",
+                    "hash": "large_greenworldaboutpage_60d2497ca2",
+                    "mime": "image/png",
+                    "name": "large_greenworldaboutpage.png",
+                    "path": null,
+                    "size": 880.12,
+                    "width": 1000,
+                    "height": 522,
+                    "provider_metadata": {
+                      "public_id": "large_greenworldaboutpage_60d2497ca2",
+                      "resource_type": "image"
+                    }
+                  }
+                },
 
-
-        },
-
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/greenworldaboutpage_60d2497ca2.png"
-
-        }
-        },
-        {
-        "id": 188,
-        "attributes": {
-        "name": "greenworldproductpgage.png",
-        "alternativeText": "Green Around the World product page",
-        "caption": "greenworldproductpgage.png",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841413/greenworldproductpgage_389dc15034.png"
-        }
-        },
-        {
-        "id": 187,
-        "attributes": {
-        "name": "individualproductpage.png",
-        "alternativeText": "Green Around the World individual product page bundles",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841412/individualproductpage_6b97a50369.png"
-        }
-        },
-        {
-        "id": 191,
-        "attributes": {
-        "name": "greenindividualpagetoothbrush.png",
-        "alternativeText": "greenindividualpagetoothbrush.png",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841925/greenindividualpagetoothbrush_a7fb47069c.png"
-        }
-        },
-        {
-        "id": 185,
-        "attributes": {
-        "name": "greenfooter.png",
-        "alternativeText": "Green Around the World Footer section",
-        "width": 1918,
-        "height": 1002,
-        "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841399/greenfooter_c0400797dd.png"
-        }
-        }
-        ]
-        }
-        }
-        },
-    { "id": 3,
-  "attributes": {
-  "Title": "Willems Berry Farm",
-  "Summary": "WordPress website I created for Willems Berry Farm.",
-  "Description": "<p>My role was to redesign and develop their existing website. As my clients use a CMS to upload and edit their websites, I built a WordPress site for them.&nbsp;&nbsp;&nbsp;<br>Highlight of the website: &nbsp;</p><ul><li>A gallery page that is integrated with their instagram feeds.</li><li>Enhanced accessibility and SEO</li><li>Created customized icons</li></ul><p>&nbsp;</p>",
-  "WebLink": "https://willemsberryfarm.ca/",
-  "Category": "Web Development",
-  "Slug": "willems-berry-farm",
-  "Tagline": "Website redesign",
-  "MainImage": {
-  "data": {
-  "id": 196,
-  "attributes": {
-  "name": "berryfarmvisitpage.png",
-  "alternativeText": "Willems Berry Farm Website Redesign Home page",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png"
-  }
-  }
-  },
-  "skills": {
-  "data": [
-  {
-  "id": 4,
-  "attributes": {
-  "SkillName": "WordPress",
-  "Category": "Backend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 1,
-  "attributes": {
-  "name": "tool-logos_0013_wordpresslogo.png.png",
-  "alternativeText": "tool-logos_0013_wordpresslogo.png.png",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0013_wordpresslogo_png_f3af0122e9.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 2,
-  "attributes": {
-  "SkillName": "Figma",
-  "Category": "Design tools",
-  "SkillLogo": {
-  "data": {
-  "id": 138,
-  "attributes": {
-  "name": "tool-logos_0004_figmalogo.webp.png",
-  "alternativeText": "Figma icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 6,
-  "attributes": {
-  "SkillName": "Adobe Illustrator",
-  "Category": "Design tools",
-  "SkillLogo": {
-  "data": {
-  "id": 135,
-  "attributes": {
-  "name": "tool-logos_0006_illustratorlogo.png.png",
-  "alternativeText": "Adobe Illustrator icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
-  }
-  }
-  }
-  }
-  }
-  ]
-  },
-  "Images": {
-    "data":[
-      {
-        "id": 1,
-        "attributes": {
-        "name": "greenworldhomepgage.png",
-        "alternativeText": "Green around the world homepage ",
-        "width": 1918,
-        "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851771/berryfarmhomepage_c4fe58a2ed.png"
-          }
-          },
-          {
-          "id": 2,
-          "attributes": {
-          "name": "greenworldaboutpage.png",
-          "alternativeText": "Green around the world About page",
-          "width": 1918,
-          "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851777/berryfarmproductpage_d2bcec7726.png"
-          }
-          },
-          {
-          "id": 3,
-          "attributes": {
-          "name": "greenworldproductpgage.png",
-          "alternativeText": "Green Around the World product page",
-          "width": 1918,
-          "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png"
-          }
-          },
-          {
-          "id": 4,
-          "attributes": {
-          "name": "individualproductpage.png",
-          "alternativeText": "Green Around the World individual product page bundles",
-          "width": 1918,
-          "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850424/berryfarmaboutpgae_3d1e49105f.png"
-          }
-          },
-          {
-          "id": 5,
-          "attributes": {
-          "name": "greenindividualpagetoothbrush.png",
-          "alternativeText": "greenindividualpagetoothbrush.png",
-          "width": 1918,
-          "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850418/berryfarmcontactpage_7b7ac1fd4b.png"
-          }
-          },
-          {
-          "id": 6,
-          "attributes": {
-          "name": "greenfooter.png",
-          "alternativeText": "Green Around the World Footer section",
-          "width": 1918,
-          "height": 1002,
-          "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851788/berryfarmgallerypage_1073092e0b.png"
-          }
-          },
-          {
-            "id": 7,
-            "attributes": {
-            "name": "greenfooter.png",
-            "alternativeText": "Green Around the World Footer section",
-            "width": 1918,
-            "height": 1002,
-            "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851771/berryfarmfotterpage_755b692895.png"
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841422/greenworldaboutpage_60d2497ca2.png"
+              }
+            },
+            {
+              "id": 188,
+              "attributes": {
+                "name": "greenworldproductpgage.png",
+                "alternativeText": "Green Around the World product page",
+                "caption": "greenworldproductpgage.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841413/greenworldproductpgage_389dc15034.png"
+              }
+            },
+            {
+              "id": 187,
+              "attributes": {
+                "name": "individualproductpage.png",
+                "alternativeText": "Green Around the World individual product page bundles",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841412/individualproductpage_6b97a50369.png"
+              }
+            },
+            {
+              "id": 191,
+              "attributes": {
+                "name": "greenindividualpagetoothbrush.png",
+                "alternativeText": "greenindividualpagetoothbrush.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841925/greenindividualpagetoothbrush_a7fb47069c.png"
+              }
+            },
+            {
+              "id": 185,
+              "attributes": {
+                "name": "greenfooter.png",
+                "alternativeText": "Green Around the World Footer section",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659841399/greenfooter_c0400797dd.png"
+              }
             }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "Title": "Willems Berry Farm",
+        "Summary": "WordPress website I created for Willems Berry Farm.",
+        "Description": "<p>My role was to redesign and develop their existing website. As my clients use a CMS to upload and edit their websites, I built a WordPress site for them.&nbsp;&nbsp;&nbsp;<br>Highlight of the website: &nbsp;</p><ul><li>A gallery page that is integrated with their instagram feeds.</li><li>Enhanced accessibility and SEO</li><li>Created customized icons</li></ul><p>&nbsp;</p>",
+        "WebLink": "https://willemsberryfarm.ca/",
+        "Category": "Web Development",
+        "Slug": "willems-berry-farm",
+        "Tagline": "Website redesign",
+        "MainImage": {
+          "data": {
+            "id": 196,
+            "attributes": {
+              "name": "berryfarmvisitpage.png",
+              "alternativeText": "Willems Berry Farm Website Redesign Home page",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 4,
+              "attributes": {
+                "SkillName": "WordPress",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "tool-logos_0013_wordpresslogo.png.png",
+                      "alternativeText": "tool-logos_0013_wordpresslogo.png.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0013_wordpresslogo_png_f3af0122e9.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "Figma",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 138,
+                    "attributes": {
+                      "name": "tool-logos_0004_figmalogo.webp.png",
+                      "alternativeText": "Figma icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "SkillName": "Adobe Illustrator",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 135,
+                    "attributes": {
+                      "name": "tool-logos_0006_illustratorlogo.png.png",
+                      "alternativeText": "Adobe Illustrator icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "Images": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "greenworldhomepgage.png",
+                "alternativeText": "Green around the world homepage ",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851771/berryfarmhomepage_c4fe58a2ed.png"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "name": "greenworldaboutpage.png",
+                "alternativeText": "Green around the world About page",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851777/berryfarmproductpage_d2bcec7726.png"
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "name": "greenworldproductpgage.png",
+                "alternativeText": "Green Around the World product page",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850426/berryfarmvisitpage_4ef10a7b1a.png"
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "name": "individualproductpage.png",
+                "alternativeText": "Green Around the World individual product page bundles",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850424/berryfarmaboutpgae_3d1e49105f.png"
+              }
+            },
+            {
+              "id": 5,
+              "attributes": {
+                "name": "greenindividualpagetoothbrush.png",
+                "alternativeText": "greenindividualpagetoothbrush.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659850418/berryfarmcontactpage_7b7ac1fd4b.png"
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "name": "greenfooter.png",
+                "alternativeText": "Green Around the World Footer section",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851788/berryfarmgallerypage_1073092e0b.png"
+              }
+            },
+            {
+              "id": 7,
+              "attributes": {
+                "name": "greenfooter.png",
+                "alternativeText": "Green Around the World Footer section",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851771/berryfarmfotterpage_755b692895.png"
+              }
             },
             {
               "id": 8,
               "attributes": {
-              "name": "greenfooter.png",
-              "alternativeText": "Green Around the World Footer section",
-              "caption": "greenfooter.png",
+                "name": "greenfooter.png",
+                "alternativeText": "Green Around the World Footer section",
+                "caption": "greenfooter.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851766/berryfarmmobile_Wdropshadow_c44862e701.png"
+              }
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "attributes": {
+        "Title": "Mobile Flowers",
+        "Summary": "I created a florist webpage with PHP and MySQL.\nIt has a search function based on four occasions.  ",
+        "Description": "<p>Highlights:<br><br>All data comes from MySQL Database.<br>I used PHP to call two stored procedures.&nbsp;<br>The search function includes four occasions; Valentine's day, birthdays, memorials, and weddings.&nbsp;<br>Each item has a carousel with two different images.&nbsp;<br>Branding and designing<br>The project brief mentions that most customers access the site through their phones and tablets. So I called it mobile flowers: flowers on the fly. It gives the impression that the flower shop can make flower bouquets quickly on-the-fly! I used colours that are warm and inviting.&nbsp;<br>Also, the webpage is fully responsive.&nbsp;</p>",
+        "WebLink": "https://crapulent-mask.000webhostapp.com/",
+        "Trailer": "https://github.com/SachiGoto/flowermobile",
+        "Category": "Web Development",
+        "Slug": "flowermobile",
+        "Tagline": "Florist site made with PHP",
+        "MainImage": {
+          "data": {
+            "id": 216,
+            "attributes": {
+              "name": "flowermobile.png",
+              "alternativeText": "Web development a hero image for mobile flower website",
               "width": 1918,
               "height": 1002,
-              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659851766/berryfarmmobile_Wdropshadow_c44862e701.png"
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157056/flowermobile_a4398b55c4.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 11,
+              "attributes": {
+                "SkillName": "MySQL",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "MySQL icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
+                    }
+                  }
+                }
               }
+            },
+            {
+              "id": 14,
+              "attributes": {
+                "SkillName": "PHP",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 217,
+                    "attributes": {
+                      "name": "phplogo.png",
+                      "alternativeText": "phplogo.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/phplogo_a79a7d0702.png"
+                    }
+                  }
+                }
               }
-
-    ]
-
-  }
-  }
-  },
- 
-
-
-  {
-  "id": 4,
-  "attributes": {
-  "Title": "Mobile Flowers",
-  "Summary": "I created a florist webpage with PHP and MySQL.\nIt has a search function based on four occasions.  ",
-  "Description": "<p>Highlights:<br><br>All data comes from MySQL Database.<br>I used PHP to call two stored procedures.&nbsp;<br>The search function includes four occasions; Valentine's day, birthdays, memorials, and weddings.&nbsp;<br>Each item has a carousel with two different images.&nbsp;<br>Branding and designing<br>The project brief mentions that most customers access the site through their phones and tablets. So I called it mobile flowers: flowers on the fly. It gives the impression that the flower shop can make flower bouquets quickly on-the-fly! I used colours that are warm and inviting.&nbsp;<br>Also, the webpage is fully responsive.&nbsp;</p>",
-  "WebLink": "https://crapulent-mask.000webhostapp.com/",
-  "Trailer": "https://github.com/SachiGoto/flowermobile",
-  "Category": "Web Development",
-  "Slug": "flowermobile",
-  "Tagline": "Florist site made with PHP",
-  "MainImage": {
-  "data": {
-  "id": 216,
-  "attributes": {
-  "name": "flowermobile.png",
-  "alternativeText": "Web development a hero image for mobile flower website",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157056/flowermobile_a4398b55c4.png"
-  }
-  }
-  },
-  "skills": {
-  "data": [
-  {
-  "id": 11,
-  "attributes": {
-  "SkillName": "MySQL",
-  "Category": "Backend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 142,
-  "attributes": {
-  "name": "tool-logos_0009_Layer-2.png",
-  "alternativeText": "MySQL icon",
-  "width": 300,
-  "height": 204,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 14,
-  "attributes": {
-  "SkillName": "PHP",
-  "Category": "Backend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 217,
-  "attributes": {
-  "name": "phplogo.png",
-  "alternativeText": "phplogo.png",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660157601/phplogo_a79a7d0702.png"
-  }
-  }
-  }
-  }
-  }
-  ]
-  },
-  "Images": {
-  "data": [
-  {
-  "id": 1,
-  "attributes": {
-  "name": "flowermobileBirthdayFlowers.png",
-  "alternativeText": "flowermobileBirthdayFlowers.png",
-  "width": 1290,
-  "height": 800,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Birthday_Flowers_1a9eb39e28.png"
-  }
-  },
-  {
-  "id": 2,
-  "attributes": {
-  "name": "flowermobileValentineFlowers.png",
-  "alternativeText": "flowermobileValentineFlowers.png",
-  "width": 1290,
-  "height": 800,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Valentine_Flowers_6efe683462.png"
-  }
-  },
-  {
-  "id": 3,
-  "attributes": {
-  "name": "mobileflowerWeddingFlowers.png",
-  "alternativeText": "mobileflowerWeddingFlowers.png",
-  "width": 1290,
-  "height": 800,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/mobileflower_Wedding_Flowers_9e1c36df4b.png"
-  }
-  },
-  {
-  "id": 4,
-  "attributes": {
-  "name": "mobileflowerMemorialFlowers.png",
-  "alternativeText": "mobileflowerMemorialFlowers.png",
-  "caption": "mobileflowerMemorialFlowers.png",
-  "width": 1290,
-  "height": 800,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/mobileflower_Memorial_Flowers_ef71ee7a38.png"
-  }
-  }
-  ]
-  }
-  }
-  },
-  {
-    "id": 5,
-    "attributes": {
-    "Title": "My To Do List",
-    "Summary": "This to do list has log in and sign up features. Once they logged in, they can see tasks they added.",
-    "Description":"<p>Details</p><ul><li> Log in and sign up authentication is implemented by using passport.js. Sign-up and login also have form validation. The front end is created with EJS and the back end is created with node.js and MongoDB. </li> <li>Once you created an account and logged in and add some tasks, these tasks will be saved in MongoDB.</li><li> Even when you log out and log back in, you will see all the tasks you added in the past (as long as you didn't delete them from the list). </li> <li>Double click to complete a task. Click the trash bin icon to delete the task.</li><li>Users can see how many tasks are incomplete.</li> <ul>",
-    "WebLink": "https://sachitodolist.herokuapp.com/",
-    "Trailer": "https://github.com/SachiGoto/sachi-todo-list.git",
-    "Category": "Projects",
-    "Slug": "todolist-app",
-    "Tagline": "Full-stack to do list app ",
-    "MainImage": {
-    "data": {
-    "id": 1,
-    "attributes": {
-    "name": "full stack to do app",
-    "alternativeText": "To do list app demo gif ",
-    "width": 1918,
-    "height": 1002,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666226983/todogif_fostg1.gif"
-    }
-    }
-    },
-    "skills": {
-    "data": [
-    {
-
-    "id": 8,
-    "attributes": {
-    "SkillName": "Node.js",
-    "Category": "Backend development tools",
-    "SkillLogo": {
-    "data": {
-    "id": 1,
-    "attributes": {
-    "name": "tool-logos_0007_nodejslogo.png.png",
-    "alternativeText": "Node.js icon",
-    "width": 268,
-    "height": 300,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
-    }
-    }
-    }
-    }
+            }
+          ]
+        },
+        "Images": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "flowermobileBirthdayFlowers.png",
+                "alternativeText": "flowermobileBirthdayFlowers.png",
+                "width": 1290,
+                "height": 800,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Birthday_Flowers_1a9eb39e28.png"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "name": "flowermobileValentineFlowers.png",
+                "alternativeText": "flowermobileValentineFlowers.png",
+                "width": 1290,
+                "height": 800,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/flowermobile_Valentine_Flowers_6efe683462.png"
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "name": "mobileflowerWeddingFlowers.png",
+                "alternativeText": "mobileflowerWeddingFlowers.png",
+                "width": 1290,
+                "height": 800,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759378/mobileflower_Wedding_Flowers_9e1c36df4b.png"
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "name": "mobileflowerMemorialFlowers.png",
+                "alternativeText": "mobileflowerMemorialFlowers.png",
+                "caption": "mobileflowerMemorialFlowers.png",
+                "width": 1290,
+                "height": 800,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660759377/mobileflower_Memorial_Flowers_ef71ee7a38.png"
+              }
+            }
+          ]
+        }
+      }
     },
     {
-    "id": 2,
-    "attributes": {
-    "SkillName": "MongoDB",
-    "Category": "Backend development tools",
-    "SkillLogo": {
-    "data": {
-    "id": 142,
-    "attributes": {
-    "name": "tool-logos_0009_Layer-2.png",
-    "alternativeText": "MongoDB icon",
-    "width": 300,
-    "height": 204,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
-    }
-    }
-    }
-    }
-    }
-
-    ]
-    }
- 
-    }
-    },
-  {
-  "id": 6,
-  "attributes": {
-  "Title": "The Cakery",
-  "Summary": "A website I designed and developed from scratch for The Cakery. ",
-  "Description": "<p>Highlights:</p><p>The Cakery is a fun bakery that sells pop culture themed cakes and pastries. T<span style=\"background-color:transparent;color:#000000;\">he Cakery, a.k.a topical boutique is a high end bakery that is playful and has a cheeky twist.</span></p><p>&nbsp;</p><ul><li><span style=\"background-color:transparent;color:#000000;\">I designed the logo and edited all the images with Adobe photoshop and illustrator.&nbsp;</span></li><li><span style=\"background-color:transparent;color:#000000;\">GSAP is used in the about page so that each content pops up as you scroll down the page.&nbsp;</span></li><li>Implemented a great amount of CSS animation to make the website playful.&nbsp;</li></ul><p>&nbsp;</p><p><br>&nbsp;</p>",
-  "WebLink": "https://thecakery.sachigoto.me",
-  "Trailer": "https://github.com/SachiGoto/the-cakery",
-  "Category": "Web Development",
-  "Slug": "the-cakery",
-  "Tagline": "Static website",
-  "MainImage": {
-  "data": {
-  "id": 235,
-  "attributes": {
-  "name": "theCakeryHome.gif",
-  "alternativeText": "theCakeryHome.gif",
-  "width": 480,
-  "height": 302,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662774330/the_Cakery_Home_e26de27c61.gif"
-  }
-  }
-  },
-  "skills": {
-  "data": [
-  {
-  "id": 2,
-  "attributes": {
-  "SkillName": "HTML",
-  "Category": "Frontend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 1,
-  "attributes": {
-  "name": "htmllogo.png",
-  "alternativeText": "HTML icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/htmllogo_ef52f7d90b.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 2,
-  "attributes": {
-  "SkillName": "CSS",
-  "Category": "Frontend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 144,
-  "attributes": {
-  "name": "csslogo.png",
-  "alternativeText": "CSS icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/csslogo_d6a153eed0.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 6,
-  "attributes": {
-  "SkillName": "Adobe Illustrator",
-  "Category": "Design tools",
-  "SkillLogo": {
-  "data": {
-  "id": 135,
-  "attributes": {
-  "name": "tool-logos_0006_illustratorlogo.png.png",
-  "alternativeText": "Adobe Illustrator icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 7,
-  "attributes": {
-  "SkillName": "Adobe Photoshop",
-  "Category": "Design tools",
-  "SkillLogo": {
-  "data": {
-  "id": 140,
-  "attributes": {
-  "name": "tool-logos_0008_photoshoplogo.png.png",
-  "alternativeText": "Adobe Photoshop icon.png",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0008_photoshoplogo_png_ba50718329.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 10,
-  "attributes": {
-  "SkillName": "Javascript",
-  "Category": "Frontend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 146,
-  "attributes": {
-  "name": "javascriptlogo.png",
-  "alternativeText": "Javascript icon",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/javascriptlogo_e9cd1e54b8.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 12,
-  "attributes": {
-  "SkillName": "Bootstrap",
-  "Category": "Frontend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 136,
-  "attributes": {
-  "name": "tool-logos_0012_bootstrap-logo.png",
-  "alternativeText": "Bootstrap icon",
-  "width": 298,
-  "height": 237,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0012_bootstrap_logo_d5b8d7eb47.png"
-  }
-  }
-  }
-  }
-  },
-  {
-  "id": 13,
-  "attributes": {
-  "SkillName": "Sass",
-  "Category": "Frontend development tools",
-  "SkillLogo": {
-  "data": {
-  "id": 137,
-  "attributes": {
-  "name": "tool-logos_0011_Sasslogo.png",
-  "alternativeText": "tool-logos_0011_Sasslogo.png",
-  "width": 300,
-  "height": 300,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png"
-  }
-  }
-  }
-  }
-  }
-  ]
-  },
-  "Images": {
-  "data": [
-  {
-  "id": 241,
-  "attributes": {
-  "name": "thecakeryhome.png",
-  "alternativeText": "thecakeryhome.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryhome_90ea44cdf3.png"
-  }
-  },
-  {
-  "id": 245,
-  "attributes": {
-  "name": "thecakerytopproducts.png",
-  "alternativeText": "thecakerytopproducts.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778310/thecakerytopproducts_91cbe97dc9.png"
-  }
-  },
-  {
-  "id": 242,
-  "attributes": {
-  "name": "thecakeryproducts.png",
-  "alternativeText": "thecakeryproducts.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryproducts_b3e525beec.png"
-  }
-  },
-  {
-  "id": 238,
-  "attributes": {
-  "name": "thecakeryoverlaynav.png",
-  "alternativeText": "thecakeryoverlaynav.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryoverlaynav_8082fe076f.png"
-  }
-  },
-  {
-  "id": 243,
-  "attributes": {
-  "name": "thecakerygallery.png",
-  "alternativeText": "thecakerygallery.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777492/thecakerygallery_92fe8dd53f.png"
-  }
-  },
-  {
-  "id": 237,
-  "attributes": {
-  "name": "thecakeryform.png",
-  "alternativeText": "thecakeryform.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryform_c3566ace5e.png"
-  }
-  },
-  {
-  "id": 244,
-  "attributes": {
-  "name": "thecakeryfooter.png",
-  "alternativeText": "thecakeryfooter.png",
-  "width": 1918,
-  "height": 1002,
-  "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777865/thecakeryfooter_83e557da39.png"
-  }
-  }
-  ]
-  }
-  }
-  },
-  {
-    "id": 7,
-    "attributes": {
-    "Title": "Reciprocity",
-    "Summary": "Based on my research around common freelancers' problems, I designed a mobile app called Reciprocity.\n",
-    "Description": "<p>Reciprocity app for freelancers. My case study includes - Google Forms survey - Two interviews - Two Personas - Two user journey maps - Competitive analysis - Site map - Task Flow - Information architecture - Sketches - Wireframes - Mockups</p>",
-    "WebLink": "https://uxfol.io/p/7b385952/03abb94f",
-    "Category": "UX Design",
-    "Slug": "reciprocity",
-    "Tagline": "UX/UI Case Study",
-    "MainImage": {
-    "data": {
-    "id": 207,
-    "attributes": {
-    "name": "reciprocityhomepage.png",
-    "alternativeText": "Case study Reciprocity Home page",
-    "caption": "reciprocityhomepage.png",
-    "width": 1918,
-    "height": 1002,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855744/reciprocityhomepage_44b1197319.png"
-    }
-    }
-    },
-    "skills": {
-    "data": [
-    {
-    "id": 5,
-    "attributes": {
-    "SkillName": "Figma",
-    "Category": "Design tools",
-    "SkillLogo": {
-    "data": {
-    "id": 138,
-    "attributes": {
-    "name": "tool-logos_0004_figmalogo.webp.png",
-    "alternativeText": "Figma icon",
-    "width": 300,
-    "height": 300,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
-    }
-    }
-    }
-    }
+      "id": 5,
+      "attributes": {
+        "Title": "My To Do List",
+        "Summary": "This to do list has log in and sign up features. Once they logged in, they can see tasks they added.",
+        "Description": "<p>Details</p><ul><li> Log in and sign up authentication is implemented by using passport.js. Sign-up and login also have form validation. The front end is created with EJS and the back end is created with node.js and MongoDB. </li> <li>Once you created an account and logged in and add some tasks, these tasks will be saved in MongoDB.</li><li> Even when you log out and log back in, you will see all the tasks you added in the past (as long as you didn't delete them from the list). </li> <li>Double click to complete a task. Click the trash bin icon to delete the task.</li><li>Users can see how many tasks are incomplete.</li> <ul>",
+        "WebLink": "https://sachitodolist.herokuapp.com/",
+        "Trailer": "https://github.com/SachiGoto/sachi-todo-list.git",
+        "Category": "Projects",
+        "Slug": "todolist-app",
+        "Tagline": "Full-stack to do list app ",
+        "MainImage": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "full stack to do app",
+              "alternativeText": "To do list app demo gif ",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666226983/todogif_fostg1.gif"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 8,
+              "attributes": {
+                "SkillName": "Node.js",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "tool-logos_0007_nodejslogo.png.png",
+                      "alternativeText": "Node.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0007_nodejslogo_png_85d0e8ab1a.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "MongoDB",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_0009_Layer-2.png",
+                      "alternativeText": "MongoDB icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1666227630/mongodbicon_dpiqsc.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
     },
     {
-    "id": 6,
-    "attributes": {
-    "SkillName": "Adobe Illustrator",
-    "Category": "Design tools",
-    "SkillLogo": {
-    "data": {
-    "id": 135,
-    "attributes": {
-    "name": "tool-logos_0006_illustratorlogo.png.png",
-    "alternativeText": "Adobe Illustrator icon",
-    "width": 300,
-    "height": 300,
-    "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
-    }
-    }
-    }
-    }
-    }
-    ]
-    }
-    }
+      "id": 6,
+      "attributes": {
+        "Title": "The Cakery",
+        "Summary": "A website I designed and developed from scratch for The Cakery. ",
+        "Description": "<p>Highlights:</p><p>The Cakery is a fun bakery that sells pop culture themed cakes and pastries. T<span style=\"background-color:transparent;color:#000000;\">he Cakery, a.k.a topical boutique is a high end bakery that is playful and has a cheeky twist.</span></p><p>&nbsp;</p><ul><li><span style=\"background-color:transparent;color:#000000;\">I designed the logo and edited all the images with Adobe photoshop and illustrator.&nbsp;</span></li><li><span style=\"background-color:transparent;color:#000000;\">GSAP is used in the about page so that each content pops up as you scroll down the page.&nbsp;</span></li><li>Implemented a great amount of CSS animation to make the website playful.&nbsp;</li></ul><p>&nbsp;</p><p><br>&nbsp;</p>",
+        "WebLink": "https://thecakery.sachigoto.me",
+        "Trailer": "https://github.com/SachiGoto/the-cakery",
+        "Category": "Web Development",
+        "Slug": "the-cakery",
+        "Tagline": "Static website",
+        "MainImage": {
+          "data": {
+            "id": 235,
+            "attributes": {
+              "name": "theCakeryHome.gif",
+              "alternativeText": "theCakeryHome.gif",
+              "width": 480,
+              "height": 302,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662774330/the_Cakery_Home_e26de27c61.gif"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "HTML",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "htmllogo.png",
+                      "alternativeText": "HTML icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/htmllogo_ef52f7d90b.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "CSS",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 144,
+                    "attributes": {
+                      "name": "csslogo.png",
+                      "alternativeText": "CSS icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/csslogo_d6a153eed0.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "SkillName": "Adobe Illustrator",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 135,
+                    "attributes": {
+                      "name": "tool-logos_0006_illustratorlogo.png.png",
+                      "alternativeText": "Adobe Illustrator icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 7,
+              "attributes": {
+                "SkillName": "Adobe Photoshop",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 140,
+                    "attributes": {
+                      "name": "tool-logos_0008_photoshoplogo.png.png",
+                      "alternativeText": "Adobe Photoshop icon.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0008_photoshoplogo_png_ba50718329.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 10,
+              "attributes": {
+                "SkillName": "Javascript",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 146,
+                    "attributes": {
+                      "name": "javascriptlogo.png",
+                      "alternativeText": "Javascript icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658616603/javascriptlogo_e9cd1e54b8.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 12,
+              "attributes": {
+                "SkillName": "Bootstrap",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 136,
+                    "attributes": {
+                      "name": "tool-logos_0012_bootstrap-logo.png",
+                      "alternativeText": "Bootstrap icon",
+                      "width": 298,
+                      "height": 237,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0012_bootstrap_logo_d5b8d7eb47.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 13,
+              "attributes": {
+                "SkillName": "Sass",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 137,
+                    "attributes": {
+                      "name": "tool-logos_0011_Sasslogo.png",
+                      "alternativeText": "tool-logos_0011_Sasslogo.png",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0011_Sasslogo_4c59ce2844.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "Images": {
+          "data": [
+            {
+              "id": 241,
+              "attributes": {
+                "name": "thecakeryhome.png",
+                "alternativeText": "thecakeryhome.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryhome_90ea44cdf3.png"
+              }
+            },
+            {
+              "id": 245,
+              "attributes": {
+                "name": "thecakerytopproducts.png",
+                "alternativeText": "thecakerytopproducts.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662778310/thecakerytopproducts_91cbe97dc9.png"
+              }
+            },
+            {
+              "id": 242,
+              "attributes": {
+                "name": "thecakeryproducts.png",
+                "alternativeText": "thecakeryproducts.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777487/thecakeryproducts_b3e525beec.png"
+              }
+            },
+            {
+              "id": 238,
+              "attributes": {
+                "name": "thecakeryoverlaynav.png",
+                "alternativeText": "thecakeryoverlaynav.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryoverlaynav_8082fe076f.png"
+              }
+            },
+            {
+              "id": 243,
+              "attributes": {
+                "name": "thecakerygallery.png",
+                "alternativeText": "thecakerygallery.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777492/thecakerygallery_92fe8dd53f.png"
+              }
+            },
+            {
+              "id": 237,
+              "attributes": {
+                "name": "thecakeryform.png",
+                "alternativeText": "thecakeryform.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777476/thecakeryform_c3566ace5e.png"
+              }
+            },
+            {
+              "id": 244,
+              "attributes": {
+                "name": "thecakeryfooter.png",
+                "alternativeText": "thecakeryfooter.png",
+                "width": 1918,
+                "height": 1002,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1662777865/thecakeryfooter_83e557da39.png"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "Title": "Reciprocity",
+        "Summary": "Based on my research around common freelancers' problems, I designed a mobile app called Reciprocity.\n",
+        "Description": "<p>Reciprocity app for freelancers. My case study includes - Google Forms survey - Two interviews - Two Personas - Two user journey maps - Competitive analysis - Site map - Task Flow - Information architecture - Sketches - Wireframes - Mockups</p>",
+        "WebLink": "https://uxfol.io/p/7b385952/03abb94f",
+        "Category": "UX Design",
+        "Slug": "reciprocity",
+        "Tagline": "UX/UI Case Study",
+        "MainImage": {
+          "data": {
+            "id": 207,
+            "attributes": {
+              "name": "reciprocityhomepage.png",
+              "alternativeText": "Case study Reciprocity Home page",
+              "caption": "reciprocityhomepage.png",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1659855744/reciprocityhomepage_44b1197319.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 5,
+              "attributes": {
+                "SkillName": "Figma",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 138,
+                    "attributes": {
+                      "name": "tool-logos_0004_figmalogo.webp.png",
+                      "alternativeText": "Figma icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "SkillName": "Adobe Illustrator",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 135,
+                    "attributes": {
+                      "name": "tool-logos_0006_illustratorlogo.png.png",
+                      "alternativeText": "Adobe Illustrator icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0006_illustratorlogo_png_918390455c.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
     },
     {
       "id": 8,
       "attributes": {
-      "Title": "Wakie Wakie",
-      "Summary": "I designed an app called Wakie Wakie. This app alerts people when their train gets close to their destination. ",
-      "Description": "<p>My research focused on people who have difficulty waking up before they arrive at their destinations. I then studied other alert apps. Once I had a better understanding of the problems, I developed a wireframe and mockups.&nbsp;</p>",
-      "WebLink": "https://www.behance.net/gallery/148307473/Wakie-Wakie",
-      "Category": "UX Design",
-      "Slug": "wakie-wakie",
-      "Tagline": "UX / UI Design",
-      "MainImage": {
-      "data": {
-      "id": 209,
-      "attributes": {
-      "name": "wakiwakiehomepage.png",
-      "alternativeText": "UX/UI design project Wakie Wakie home page",
-      "caption": "wakiwakiehomepage.png",
-      "width": 1918,
-      "height": 1002,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013042/wakiwakiehomepage_ae10b12428.png"
+        "Title": "Wakie Wakie",
+        "Summary": "I designed an app called Wakie Wakie. This app alerts people when their train gets close to their destination. ",
+        "Description": "<p>My research focused on people who have difficulty waking up before they arrive at their destinations. I then studied other alert apps. Once I had a better understanding of the problems, I developed a wireframe and mockups.&nbsp;</p>",
+        "WebLink": "https://www.behance.net/gallery/148307473/Wakie-Wakie",
+        "Category": "UX Design",
+        "Slug": "wakie-wakie",
+        "Tagline": "UX / UI Design",
+        "MainImage": {
+          "data": {
+            "id": 209,
+            "attributes": {
+              "name": "wakiwakiehomepage.png",
+              "alternativeText": "UX/UI design project Wakie Wakie home page",
+              "caption": "wakiwakiehomepage.png",
+              "width": 1918,
+              "height": 1002,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1660013042/wakiwakiehomepage_ae10b12428.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 5,
+              "attributes": {
+                "SkillName": "Figma",
+                "Category": "Design tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 138,
+                    "attributes": {
+                      "name": "tool-logos_0004_figmalogo.webp.png",
+                      "alternativeText": "Figma icon",
+                      "width": 300,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "Images": {
+          "data": [
+            {
+              "id": 112,
+              "attributes": {
+                "name": "WakieWakiepage1.png",
+                "alternativeText": "WakieWakiepage1.png",
+                "caption": "WakieWakiepage1.png",
+                "width": 1400,
+                "height": 800,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461324/Wakie_Wakiepage1_d151dba5ae.png"
+              }
+            },
+            {
+              "id": 111,
+              "attributes": {
+                "name": "overviewWakieWakie.png",
+                "alternativeText": "overviewWakieWakie.png",
+                "caption": "overviewWakieWakie.png",
+                "width": 2034,
+                "height": 1167,
+                "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461317/overview_Wakie_Wakie_0badfac8f4.png"
+              }
+            }
+          ]
+        }
       }
-      }
-      },
-      "skills": {
-      "data": [
-      {
-      "id": 5,
-      "attributes": {
-      "SkillName": "Figma",
-      "Category": "Design tools",
-      "SkillLogo": {
-      "data": {
-      "id": 138,
-      "attributes": {
-      "name": "tool-logos_0004_figmalogo.webp.png",
-      "alternativeText": "Figma icon",
-      "width": 300,
-      "height": 300,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0004_figmalogo_webp_335b5f3887.png"
-      }
-      }
-      }
-      }
-      }
-      ]
-      },
-      "Images": {
-      "data": [
-      {
-      "id": 112,
-      "attributes": {
-      "name": "WakieWakiepage1.png",
-      "alternativeText": "WakieWakiepage1.png",
-      "caption": "WakieWakiepage1.png",
-      "width": 1400,
-      "height": 800,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461324/Wakie_Wakiepage1_d151dba5ae.png"
-      }
-      },
-      {
-      "id": 111,
-      "attributes": {
-      "name": "overviewWakieWakie.png",
-      "alternativeText": "overviewWakieWakie.png",
-      "caption": "overviewWakieWakie.png",
-      "width": 2034,
-      "height": 1167,
-      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658461317/overview_Wakie_Wakie_0badfac8f4.png"
-      }
-      }
-      ]
-      }
-      }
-      }
-    
-      
+    }
   ]
 }
