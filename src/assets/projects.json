@@ -1,6 +1,115 @@
 {
   "data": [
     {
+      "id": 10,
+      "attributes": {
+        "Title": "Tech Event Finder",
+        "Summary": "This app is designed for those interested in discovering upcoming tech events in Vancouver!",
+        "Description": "<p>This app provides a list of tech events in Vancouver.&nbsp;&nbsp;&nbsp;<br><br>Highlight of the website: &nbsp;</p><ul><li>Authentication using next auth for secure login</li><li>Ability to create a favourites list of tech events by liking them.",
+        "WebLink": "https://vantecheventfinder.netlify.app",
+        "Trailer": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721647916/Screenshot_2024-07-22_at_20.31.24_fxtgvm.png",
+        "Category": "Projects",
+        "Slug": "techEvent-finder",
+        "Tagline": "Full-stack app ",
+        "MainImage": {
+          "data": {
+            "id": 192,
+            "attributes": {
+              "name": "full stack app",
+              "alternativeText": "Tech event finder image ",
+              "width": 1918,
+              "height": 1002,
+              "hash": "tech event finder",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 820.73,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721647916/Screenshot_2024-07-22_at_20.31.24_fxtgvm.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "SkillName": "Next.js",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 141,
+                    "attributes": {
+                      "name": "tool-logos_nextjslogo.png",
+                      "alternativeText": "Next.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721648362/nextjs-icon-svgrepo-com_o0yxam.svg"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "Prisma",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_prisma",
+                      "alternativeText": "Prisma icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721648603/file-type-light-prisma_vtdzof.svg"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "SkillName": "Mantine",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos_mantine.png",
+                      "alternativeText": "Mantine icon",
+                      "caption": "tool-logos_mantine.png",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721648753/mantine-logo_tuo81z.svg"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "SkillName": "TRPC",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logo-trpc.png",
+                      "alternativeText": "TRPC icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721648912/trpc_logo_v8aosj.svg"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
       "id": 1,
       "attributes": {
         "Title": "Sustainable Hub",
