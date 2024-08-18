@@ -1,6 +1,115 @@
 {
   "data": [
     {
+      "id": 11,
+      "attributes": {
+        "Title": "Positive Quotes Generator (Japanese)",
+        "Summary": "This app is designed to improve mental health. It provides positive quotes and users are able to add them to their favourites list. ",
+        "Description": "Highlight of the website: &nbsp;</p><ul><li>Authentication using spring security and jwt token for secure login</li><li>Ability to create a favourites list of quotes users like </li><li>Protected routes using middleware</li><li>Quotes are available in three languages:Japanese, English and Korean</li><li>Implementation of loading skelton while fetching favourites data for better user experience</li>",
+        "WebLink": "https://positive-quotes-generator.vercel.app/login",
+        "Trailer": "https://github.com/SachiGoto/quote-generator-frontend",
+        "Category": "Projects",
+        "Slug": "positive quotes generator",
+        "Tagline": "Full-stack app ",
+        "MainImage": {
+          "data": {
+            "id": 192,
+            "attributes": {
+              "name": "full stack app",
+              "alternativeText": "positive quotes generator image ",
+              "width": 1918,
+              "height": 1002,
+              "hash": "positive quotes generator",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 820.73,
+              "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1723984777/Screenshot_2024-08-18_at_21.19.26_k7vojm.png"
+            }
+          }
+        },
+        "skills": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "SkillName": "Next.js",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 141,
+                    "attributes": {
+                      "name": "tool-logos_nextjslogo.png",
+                      "alternativeText": "Next.js icon",
+                      "width": 268,
+                      "height": 300,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1721648362/nextjs-icon-svgrepo-com_o0yxam.svg"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "SkillName": "Spring Boot",
+                "Category": "Backend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logos-spring-boot",
+                      "alternativeText": "Spring Boot Icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1723984936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo-thumbnail_ymfbcc.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "SkillName": "MySQL",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logo-mysql.png",
+                      "alternativeText": "MySQL Logo",
+                      "caption": "tool-logos_mySQL.png",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1658613366/tool_logos_0009_Layer_2_ce625068fe.png"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "SkillName": "Chakra UI",
+                "Category": "Frontend development tools",
+                "SkillLogo": {
+                  "data": {
+                    "id": 142,
+                    "attributes": {
+                      "name": "tool-logo-chakra.png",
+                      "alternativeText": "Chakra icon",
+                      "width": 300,
+                      "height": 204,
+                      "url": "https://res.cloudinary.com/vanarts-webdev/image/upload/v1723985186/chakra-ui_title2-400x400_b97zvj.png"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
       "id": 10,
       "attributes": {
         "Title": "Tech Event Finder",
